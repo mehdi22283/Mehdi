@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:0,AzTV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,İdman TV
+#EXTGRP:Azərbaycan
+https://str.yodacdn.net/idman/index.m3u8
+#EXTINF:0,Mədəniyyət TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
+#EXTINF:0,CBC SPORT TV
+#EXTGRP:Azərbaycan
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:0,Real TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/real/index.m3u8
+#EXTINF:0,APA TV
+#EXTGRP:Azərbaycan
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Baku.TV
+#EXTGRP:Azərbaycan
+https://rtmp.baku.tv/streams/bakutv.m3u8
+#EXTINF:0,ARB 24
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/arb24/index.m3u8
+#EXTINF:0,ARB Günəş
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0,ARB
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0,İctimai TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/ictimai/index.m3u8
+#EXTINF:0,Space TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+#EXTINF:0,Xəzər TV
+#EXTGRP:Azərbaycan
+https://hw2.jemtv.com/app/xazar/playlist.m3u8
+#EXTINF:0,Dünya TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0,FTV AZ
+#EXTGRP:Azərbaycan
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0,EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0,Kəpəz tv
+#EXTGRP:Azərbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0,Start TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:0,ALVIN TV
+#EXTGRP:Azərbaycan
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,Qafqaz TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Qəbələ TV
+#EXTGRP:Azərbaycan
+https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:0,Naxçıvan TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:0,Kanal 35 TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
+#EXTINF:0,Kanal 65 TV
+#EXTGRP:Azərbaycan
+https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
+#EXTINF:0,Esma TV
+#EXTGRP:Azərbaycan
+https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+#EXTINF:0,Alpha  Tv
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:0,LiveTV AZ
+#EXTGRP:Azərbaycan
+http://213.239.195.222/azerbaijan/livetv2/chunks.m3u8
+#EXTINF:0,İsmayıllı  TV
+#EXTGRP:Azərbaycan
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0,Rihat  TV
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3653/hybrid/play.m3u8
+#EXTINF:0,TTV Musiqi
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,TMB Azərbaycan
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Ayaz TV
+#EXTGRP:Azərbaycan
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
+#EXTINF:0,Show Plus TV
+#EXTGRP:Azərbaycan
+https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Aksu Tv
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:0,Almanya TV
+#EXTGRP:Türk
+http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
+#EXTINF:0,Alanya TV
+#EXTGRP:Türk
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Türk
+http://hw1.jemtv.com/app/ATVHD/chunks.m3u8
+#EXTINF:0,ATV AVRUPA
+#EXTGRP:Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:0,A2
+#EXTGRP:Türk
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:0,BEYAZ TV
+#EXTGRP:Türk
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0,BIR TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+#EXTINF:0,Çankırı TV
+#EXTGRP:Türk
+http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
+#EXTINF:0,CINE1
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0,CINE5
+#EXTGRP:Türk
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0,CLC TV
+#EXTGRP:Türk
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:0,Deniz Postası
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:0,BR TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:Türk
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0,Dream Türk
+#EXTGRP:Türk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:0,Kanal 3
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
+#EXTINF:0,Kanal 19
+#EXTGRP:Türk
+https://panel4.euromediacenter.com:3710/live/kanal19live.m3u8
+#EXTINF:0,Kanal 7
+#EXTGRP:Türk
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0,Kanal 7 Avrupa
+#EXTGRP:Türk
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:0,KANAL D
+#EXTGRP:Türk
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF:0,Kanal D Euro
+#EXTGRP:Türk
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:0,Kanal Sim
+#EXTGRP:Türk
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1045670691.m3u8
+#EXTINF:0,Kuzey Kıbrıs TV
+#EXTGRP:Türk
+https://kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:0,LIFE TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:0,NOW
+#EXTGRP:Türk
+http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+#EXTINF:0,Kral Pop TV
+#EXTGRP:Türk
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0,Number One Türk
+#EXTGRP:Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
+#EXTINF:0,Number One TV
+#EXTGRP:Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:0,Power TV
+#EXTGRP:Türk
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:0,Powertürk TV
+#EXTGRP:Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+#EXTINF:0,Rize Türk
+#EXTGRP:Türk
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:0,Sat7
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+#EXTINF:0,Show TV
+#EXTGRP:Türk
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:0,Show Türk
+#EXTGRP:Türk
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showturk.m3u8
+#EXTINF:0,Show Max
+#EXTGRP:Türk
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
+#EXTINF:0,STAR EURO
+#EXTGRP:Türk
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/eurostar.m3u8
+#EXTINF:0,STAR TV
+#EXTGRP:Türk
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,SuperTurk TV
+#EXTGRP:Türk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:0,SuperTurk Max
+#EXTGRP:Türk
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:0,Tatlıses TV
+#EXTGRP:Türk
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:0,TMB
+#EXTGRP:Türk
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:0,TEVE 2
+#EXTGRP:Türk
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0,Tivi6
+#EXTGRP:Türk
+http://stream.tvcdn.net/yerel/tivi6.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Türk
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,Torba TV
+#EXTGRP:Türk
+http://stream.tvcdn.net/kibris/torba-tv.m3u8
+#EXTINF:0,Trakya Türk TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:0,TRT 1
+#EXTGRP:Türk
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:0,TRT 2
+#EXTGRP:Türk
+http://hw1.jemtv.com/app/trt2/chunks.m3u8
+#EXTINF:0,TRT Avaz
+#EXTGRP:Türk
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TGRT EU
+#EXTGRP:Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:0,TRT Belgesel
+#EXTGRP:Türk
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:0,TRT Türk
+#EXTGRP:Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,Tivi Türk
+#EXTGRP:Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:0,TV 4
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0,TV 8
+#EXTGRP:Türk
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0,TV 8 INT
+#EXTGRP:Türk
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+#EXTINF:0,Ton TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:0,Uluslararası TV
+#EXTGRP:Türk
+http://palatv34.ozelip.com:22372/uluslar/uluslar/playlist.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Rus
+http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Rus
+http://188.113.190.15/89/tracks-v1a1/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Rus
+http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:0,Viju+planet
+#EXTGRP:Rus
+http://31.131.136.4:8001/play/e006
+#EXTINF:0,МАТЧ! Боец
+#EXTGRP:Rus
+http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:0,Россия 1
+#EXTGRP:Rus
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,Первый
+#EXTGRP:Rus
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,НТВ
+#EXTGRP:Rus
+http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,MИР HD
+#EXTGRP:Rus
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Rus
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:Rus
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:0,Kinosvidanie
+#EXTGRP:Rus
+http://91.205.199.3/kinosvidanie/index.m3u8
+#EXTINF:0,Кинобоевик HD
+#EXTGRP:Rus
+https://bkm.beetv.kz/btv/live/hls/000008490.m3u8

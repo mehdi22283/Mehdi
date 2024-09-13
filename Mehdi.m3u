@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-name="AzTV"tvg-id="527290"tvg-logo="https://upload.wikimedia.org/wikipedia/az/7/79/AzTV_(2019-h.h.).png"group-title="Azərbaycan",AzTV
 http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-name="İdman TV"tvg-id="940429"tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png"group-title="Azərbaycan",İdman TV
-http://135.181.115.81:8000/play/a01q/index.m3u8?token=livetv
+https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:-1 tvg-name="Mədəniyyət TV"tvg-id="577646"tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/Mədəniyyət_TV_loqo.png"group-title="Azərbaycan",Mədəniyyət TV
-http://135.181.115.81:8000/play/a01p/index.m3u8?token=livetv
+https://str1.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:-1 tvg-name="CBC SPORT TV"tvg-id="642550"tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png"group-title="Azərbaycan",CBC SPORT TV
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="Real TV"tvg-id="437308"tvg-logo="https://bestsoft.az/share/client/pic_227.png"group-title="Azərbaycan",Real TV

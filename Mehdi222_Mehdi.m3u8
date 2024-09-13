@@ -35,7 +35,7 @@ http://str.yodacdn.net/ictimai/index.m3u8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:0,ATV
+#EXTINF:0,Azad TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,Xəzər TV
@@ -104,6 +104,9 @@ https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/aya
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
+#EXTINF:0,360 TV
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,Aksu Tv
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8

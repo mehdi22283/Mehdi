@@ -37,7 +37,7 @@ http://str.yodacdn.net/ictimai/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,Azad TV
 #EXTGRP:Azərbaycan
-https://str.yodacdn.net/atv/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
 https://hw2.jemtv.com/app/xazar/playlist.m3u8

@@ -2,12 +2,12 @@
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:0,İdman TV
-#EXTGRP:Azərbaycan
-https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
+#EXTINF:0,İdman TV
+#EXTGRP:Azərbaycan
+https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:0,CBC SPORT TV
 #EXTGRP:Azərbaycan
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
@@ -37,7 +37,7 @@ http://str.yodacdn.net/ictimai/index.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,Azad TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+https://str.yodacdn.net/atv/index.m3u8
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
 https://hw2.jemtv.com/app/xazar/playlist.m3u8

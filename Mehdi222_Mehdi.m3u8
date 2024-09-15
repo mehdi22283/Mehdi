@@ -215,12 +215,12 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showt
 #EXTINF:0,Show Max
 #EXTGRP:Türk
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3u8
-#EXTINF:0,STAR EURO
-#EXTGRP:Türk
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/eurostar.m3u8
 #EXTINF:0,STAR TV
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,STAR EURO
+#EXTGRP:Türk
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/eurostar.m3u8
 #EXTINF:0,SuperTurk TV
 #EXTGRP:Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
@@ -319,7 +319,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:0,Победа
 #EXTGRP:Rus
-http://188.113.190.15/85/tracks-v1a1/index.m3u8
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8

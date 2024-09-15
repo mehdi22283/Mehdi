@@ -293,12 +293,18 @@ https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
-#EXTINF:0,Viju+planet
+#EXTINF:0,Viju Nature
 #EXTGRP:Rus
-http://31.131.136.4:8001/play/e006
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:0,Fight Network
+#EXTGRP:Rus
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0,Fight Box
+#EXTGRP:Rus
+http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -317,15 +323,24 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:0,Победа
+#EXTINF:0,Мужское кино
 #EXTGRP:Rus
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/playlist.m3u8
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:0,Kinosvidanie
 #EXTGRP:Rus
 http://91.205.199.3/kinosvidanie/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:Rus
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:0,Киносерия
+#EXTGRP:Rus
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:0,Киноужас
+#EXTGRP:Rus
+http://31.131.136.4:8001/play/e00b
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Rus
 https://bkm.beetv.kz/btv/live/hls/000008490.m3u8

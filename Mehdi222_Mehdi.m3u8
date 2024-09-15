@@ -47,9 +47,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:0,EL TV
-#EXTGRP:Azərbaycan
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,Kəpəz tv
 #EXTGRP:Azərbaycan
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
@@ -65,6 +62,9 @@ http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d
 #EXTINF:0,Qəbələ TV
 #EXTGRP:Azərbaycan
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:0,EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
@@ -188,12 +188,12 @@ http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 #EXTINF:0,Kral Pop TV
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:0,Number One Türk
-#EXTGRP:Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
 #EXTINF:0,Number One TV
 #EXTGRP:Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:0,Number One Türk
+#EXTGRP:Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
 #EXTINF:0,Power TV
 #EXTGRP:Türk
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -205,7 +205,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_s
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:0,Sat7
 #EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/chunks.m3u8
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks_dvr.m3u8
 #EXTINF:0,Show TV
 #EXTGRP:Türk
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -241,7 +241,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 http://stream.tvcdn.net/yerel/tivi6.m3u8
 #EXTINF:0,TLC
 #EXTGRP:Türk
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:0,Torba TV
 #EXTGRP:Türk
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
@@ -250,16 +250,16 @@ http://stream.tvcdn.net/kibris/torba-tv.m3u8
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:0,TRT 1
 #EXTGRP:Türk
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 2
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:0,TRT Avaz
 #EXTGRP:Türk
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TGRT EU
+#EXTINF:0,TRT ÇOCUK
 #EXTGRP:Türk
-http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Türk
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
@@ -281,15 +281,15 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:0,Ton TV
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:0,Uluslararası TV
+#EXTINF:0,Yaban TV
 #EXTGRP:Türk
-http://palatv34.ozelip.com:22372/uluslar/uluslar/playlist.m3u8
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Rus
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
-http://188.113.190.15/89/tracks-v1a1/index.m3u8
+https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8

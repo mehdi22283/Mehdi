@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/az-tv.m3u8
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
@@ -77,24 +77,24 @@ https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:0,Alpha  Tv
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3745/stream/play.m3u8
+#EXTINF:0,Deniz TV
+#EXTGRP:Azərbaycan
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:0,LiveTV AZ
-#EXTGRP:Azərbaycan
-http://213.239.195.222/azerbaijan/livetv2/chunks.m3u8
-#EXTINF:0,MTV
-#EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0,Ayaz TV
-#EXTGRP:Azərbaycan
-https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
 #EXTINF:0,TTV Musiqi
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3016/stream/play.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Ayaz TV
+#EXTGRP:Azərbaycan
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736

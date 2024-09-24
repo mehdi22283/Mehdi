@@ -4,7 +4,7 @@
 https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/medeniyet-tv.m3u8
+https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o7/idman/playlist.m3u8
@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:0,İctimai TV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/ictimai/index.m3u8
+https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
@@ -104,12 +104,12 @@ https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
 #EXTINF:0,Gunaz TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0,360 TV
-#EXTGRP:Türk
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,Aksu Tv
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:0,360 TV
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,Almanya TV
 #EXTGRP:Türk
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
@@ -125,6 +125,33 @@ http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
 #EXTINF:0,A2
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+#EXTINF:0,beIN Box Office 1 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
+#EXTINF:0,beIN Box Office 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
+#EXTINF:0,beIN Box Office 3 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
+#EXTINF:0,beIN Movies Family HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
+#EXTINF:0,beIN Series Drama HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6882/index.m3u8
+#EXTINF:0,beIN Movies Premiere HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6880/index.m3u8
+#EXTINF:0,beIN Movies Premiere 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
+#EXTINF:0,beIN Movies Action HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6877/index.m3u8
+#EXTINF:0,Movie Smart Action TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -176,24 +203,27 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0,Kanal Sim
 #EXTGRP:Türk
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1045670691.m3u8
-#EXTINF:0,Kuzey Kıbrıs TV
-#EXTGRP:Türk
-https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:0,LIFE TV
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:0,Love Nature
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
 #EXTINF:0,NOW
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+#EXTINF:0,Kuzey Kıbrıs TV
+#EXTGRP:Türk
+https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:0,Kral Pop TV
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:0,Number One TV
 #EXTGRP:Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31213/index.m3u8
 #EXTINF:0,Number One Türk
 #EXTGRP:Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:0,Power TV
 #EXTGRP:Türk
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -284,144 +314,6 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:0,Yaban TV
 #EXTGRP:Türk
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:0,beIN Box Office 1 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
-#EXTINF:0,beIN Box Office 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
-#EXTINF:0,beIN Box Office 3 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
-#EXTINF:0,beIN Gurme HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6804/index.m3u8
-#EXTINF:0,beIN Movies Action 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6876/index.m3u8
-#EXTINF:0,beIN Movies Action HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6877/index.m3u8
-#EXTINF:0,beIN Movies Family HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
-#EXTINF:0,beIN Movies Premiere 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
-#EXTINF:0,beIN Movies Premiere HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6880/index.m3u8
-#EXTINF:0,beIN Series Comedy HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6881/index.m3u8
-#EXTINF:0,beIN Series Drama HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6882/index.m3u8
-#EXTINF:0,beIN Series Sci-fi TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
-#EXTINF:0,beIN Series Vice TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6813/index.m3u8
-#EXTINF:0,beIN Sports 1 (Yedek) HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6817/index.m3u8
-#EXTINF:0,beIN Sports 1 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6781/index.m3u8
-#EXTINF:0,beIN Sports 2 (Yedek) HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6819/index.m3u8
-#EXTINF:0,beIN Sports 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6818/index.m3u8
-#EXTINF:0,beIN Sports 3 (Yedek) HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6821/index.m3u8
-#EXTINF:0,beIN Sports 3 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6820/index.m3u8
-#EXTINF:0,beIN Sports 4 (Yedek) HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6823/index.m3u8
-#EXTINF:0,beIN Sports 4 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6822/index.m3u8
-#EXTINF:0,beIN Sports Haber FHD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6939/index.m3u8
-#EXTINF:0,beIN Sports Max 1 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6824/index.m3u8
-#EXTINF:0,BluTV Play 1
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31153/index.m3u8
-#EXTINF:0,BluTV Play 2
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31154/index.m3u8
-#EXTINF:0,Movie Smart Action TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
-#EXTINF:0,Movie Smart Classic HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6811/index.m3u8
-#EXTINF:0,Movie Smart Turk TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6807/index.m3u8
-#EXTINF:0,Love Nature 
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
-#EXTINF:0,Nickelodeon TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6848/index.m3u8
-#EXTINF:0,NICKTOONS
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31210/index.m3u8
-#EXTINF:0,S SPORT
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31217/index.m3u8
-#EXTINF:0,Sinema TV Aile TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6806/index.m3u8
-#EXTINF:0,SİNEMA 1002 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31221/index.m3u8
-#EXTINF:0,SİNEMA AİLE 2 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31222/index.m3u8
-#EXTINF:0,SİNEMA AİLE HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31223/index.m3u8
-#EXTINF:0,SİNEMA AKSİYON 2 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31224/index.m3u8
-#EXTINF:0,SİNEMA KOMEDİ HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31225/index.m3u8
-#EXTINF:0,SİNEMA TV 2 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31227/index.m3u8
-#EXTINF:0,SİNEMA TV 1001 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31226/index.m3u8
-#EXTINF:0,SİNEMA TV AKSİYON HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31228/index.m3u8
-#EXTINF:0,SİNEMA TV HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31229/index.m3u8
-#EXTINF:0,SİNEMA YERLİ 2 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31230/index.m3u8
-#EXTINF:0,SİNEMA YERLİ HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31231/index.m3u8
-#EXTINF:0,Tele 1 TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6930/index.m3u8
-#EXTINF:0,TRT 4K
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31246/index.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Rus
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
@@ -443,9 +335,24 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:0,MMA TV
+#EXTGRP:Rus
+http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/843/index.m3u8
+#EXTINF:0,WWE
+#EXTGRP:Rus
+http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/11056/index.m3u8
+#EXTINF:0,Ударь TV
+#EXTGRP:Rus
+http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19246/index.m3u8
+#EXTINF:0,Бокс ТV
+#EXTGRP:Rus
+http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19245/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:0,Первый
 #EXTGRP:Rus
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -458,27 +365,27 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:0,Пятый канал
+#EXTINF:0,Нашe новoe кино
 #EXTGRP:Rus
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:0,Киноcвиданиe
 #EXTGRP:Rus
 http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:0,Мужское кино
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:0,Кинохит
 #EXTGRP:Rus
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:0,Киносерия
-#EXTGRP:Rus
-http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
 #EXTINF:0,Киноужас
 #EXTGRP:Rus
 http://31.131.136.4:8001/play/e00b
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Rus
 https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
+#EXTINF:0,Kinoteatr
+#EXTGRP:Rus
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8

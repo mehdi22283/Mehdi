@@ -35,9 +35,12 @@ https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:0,Azad TV
+#EXTINF:0,ATV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+#EXTINF:0,ATV Cinema
+#EXTGRP:Azərbaycan
+http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
 https://hw2.jemtv.com/app/xazar/playlist.m3u8
@@ -74,9 +77,9 @@ http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215
 #EXTINF:0,Kanal 65 TV
 #EXTGRP:Azərbaycan
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:0,Deniz TV
+#EXTINF:0,Ulduz TV
 #EXTGRP:Azərbaycan
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
@@ -101,9 +104,6 @@ http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
-#EXTINF:0,Gunaz TV
-#EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Aksu Tv
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
@@ -347,9 +347,21 @@ http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19246/index.m3u8
 #EXTINF:0,Бокс ТV
 #EXTGRP:Rus
 http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19245/index.m3u8
+#EXTINF:0,Viju TV1000
+#EXTGRP:Rus
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:0,Viju TV1000 Action
+#EXTGRP:Rus
+http://91.205.199.3/tv1000action/index.m3u8
+#EXTINF:0,Viju TV1000 Русское
+#EXTGRP:Rus
+http://194.143.148.28:8080/TV1000RuKino/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,Пятница!
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -368,24 +380,42 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:0,Нашe новoe кино
 #EXTGRP:Rus
 https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:0,VIP Serial
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8
-#EXTINF:0,Киноcвиданиe
+#EXTINF:0,Наше Новое Кино
 #EXTGRP:Rus
-http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:0,Мужское кино
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:0,Кинохит
 #EXTGRP:Rus
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:0,Киноcвиданиe
+#EXTGRP:Rus
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:0,Киноужас
 #EXTGRP:Rus
 http://31.131.136.4:8001/play/e00b
-#EXTINF:0,Кинобоевик HD
+#EXTINF:0,Киносемья
 #EXTGRP:Rus
-https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
-#EXTINF:0,Kinoteatr
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:0,Киносерия
 #EXTGRP:Rus
-http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:0,Киномикс
+#EXTGRP:Rus
+https://fs2.persik.by/Kino_Miks10/index.m3u8
+#EXTINF:0,Кинопремьера
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:0,Кинокомедия
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:0,Родное кино
+#EXTGRP:Rus
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8

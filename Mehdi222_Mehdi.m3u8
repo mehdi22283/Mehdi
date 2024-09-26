@@ -37,7 +37,7 @@ https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-https://youtu.be/gIdaTOTzZuw
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
@@ -335,9 +335,9 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,MMA TV
+#EXTINF:0,Boxing World
 #EXTGRP:Rus
-http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/843/index.m3u8
+https://4da5041a185f4b62a7449802bda0d0a9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Boxcaster/9103ca54-28aa-48e0-b01b-48194f9c5ebd/0.m3u8
 #EXTINF:0,WWE
 #EXTGRP:Rus
 http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/11056/index.m3u8

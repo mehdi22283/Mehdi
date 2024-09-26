@@ -37,7 +37,7 @@ https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+https://youtu.be/gIdaTOTzZuw
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
@@ -118,7 +118,7 @@ http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Türk
-https://youtu.be/gIdaTOTzZuw
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8

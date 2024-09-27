@@ -155,6 +155,9 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0,BR TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:0,BIR TV
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
@@ -167,15 +170,9 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0,CINE5
 #EXTGRP:Türk
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:0,CLC TV
-#EXTGRP:Türk
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:0,Deniz Postası
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:0,BR TV
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:0,DMAX
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
@@ -200,6 +197,9 @@ https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:0,Kanal D Euro
 #EXTGRP:Türk
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:0,Kanal T
+#EXTGRP:Türk
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w118598659.m3u8
 #EXTINF:0,Kanal Sim
 #EXTGRP:Türk
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1045670691.m3u8

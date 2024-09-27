@@ -10,7 +10,7 @@ https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:0,CBC SPORT TV
 #EXTGRP:Azərbaycan
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:0,Real TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/real/index.m3u8
@@ -25,19 +25,19 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,ARB Günəş
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,ARB
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+https://edge02.odtv.az/o1/arbtv/playlist.m3u8
 #EXTINF:0,İctimai TV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+https://edge02.odtv.az/o1/space/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 http://rhsbjv7k.tvclub.xyz:80/iptv/XLP4T35633WB5Z/2120/index.m3u8
@@ -319,7 +319,7 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
-https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+https://s2.viks.tv/Sb2HfRpm6zchT3GlL8rMSQ/555/1727485434/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
@@ -338,24 +338,6 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:0,Boxing World
 #EXTGRP:Rus
 https://4da5041a185f4b62a7449802bda0d0a9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Boxcaster/9103ca54-28aa-48e0-b01b-48194f9c5ebd/0.m3u8
-#EXTINF:0,WWE
-#EXTGRP:Rus
-http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/11056/index.m3u8
-#EXTINF:0,Ударь TV
-#EXTGRP:Rus
-http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19246/index.m3u8
-#EXTINF:0,Бокс ТV
-#EXTGRP:Rus
-http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19245/index.m3u8
-#EXTINF:0,Viju TV1000
-#EXTGRP:Rus
-http://91.205.199.3/tv1000/index.m3u8
-#EXTINF:0,Viju TV1000 Action
-#EXTGRP:Rus
-http://91.205.199.3/tv1000action/index.m3u8
-#EXTINF:0,Viju TV1000 Русское
-#EXTGRP:Rus
-http://194.143.148.28:8080/TV1000RuKino/index.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -377,18 +359,21 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:0,Нашe новoe кино
+#EXTINF:0,Domashniy
 #EXTGRP:Rus
-https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:0,VIP Serial
+http://185.32.44.154/domashniy/index.m3u8
+#EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:0,BCU CINEMA
+#EXTGRP:Rus
+http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&amp;stream=493326&amp;extension=ts
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:Rus
-http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
+http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мужское кино
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd

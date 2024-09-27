@@ -317,12 +317,12 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Rus
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:0,Живая Планета
-#EXTGRP:Rus
-https://s2.viks.tv/Sb2HfRpm6zchT3GlL8rMSQ/555/1727485434/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Rus
+https://s2.viks.tv/Sb2HfRpm6zchT3GlL8rMSQ/555/1727485434/index.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
@@ -341,15 +341,15 @@ https://4da5041a185f4b62a7449802bda0d0a9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,Первый
+#EXTGRP:Rus
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Пятница!
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:0,Первый
-#EXTGRP:Rus
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,НТВ
 #EXTGRP:Rus
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
@@ -359,15 +359,15 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:0,Domashniy
+#EXTINF:0,Север TV
 #EXTGRP:Rus
-http://185.32.44.154/domashniy/index.m3u8
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:0,.Sci Fi
+#EXTGRP:Rus
+http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:0,BCU CINEMA
-#EXTGRP:Rus
-http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&amp;stream=493326&amp;extension=ts
 #EXTINF:0,Дом Кино
 #EXTGRP:Rus
 https://stream01.vnet.am/DomKino/mono.m3u8

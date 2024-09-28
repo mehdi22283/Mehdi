@@ -86,6 +86,9 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
 #EXTGRP:Azərbaycan
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0,Deniz TV
+#EXTGRP:Azərbaycan
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
 #EXTINF:0,TTV Musiqi
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3016/stream/play.m3u8
@@ -98,18 +101,24 @@ http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d5
 #EXTINF:0,Beat TV
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
+#EXTINF:0,Alpha TV
+#EXTGRP:Azərbaycan
+https://tivi191.ozelip.com:3745/stream/play.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Ayaz TV
 #EXTGRP:Azərbaycan
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
-#EXTINF:0,Show Plus TV
-#EXTGRP:Azərbaycan
-https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
+#EXTINF:0,Show Plus TV
+#EXTGRP:Azərbaycan
+https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
+#EXTINF:0,Könül TV
+#EXTGRP:Azərbaycan
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w1346453416.m3u8
 #EXTINF:0,Aksu Tv
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8

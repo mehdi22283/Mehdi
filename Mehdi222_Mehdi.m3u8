@@ -25,7 +25,7 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,ARB Günəş
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+https://raw.githubusercontent.com/mehdi22283/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0,ARB
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o1/arbtv/playlist.m3u8
@@ -86,6 +86,12 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
 #EXTGRP:Azərbaycan
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0,Həsən TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Htvsinema-restream.m3u8
+#EXTINF:0,AzadSöz TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Azadsoz_tv-restream.m3u8
 #EXTINF:0,TTV Musiqi
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3016/stream/play.m3u8
@@ -107,18 +113,27 @@ http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e
 #EXTINF:0,Ayaz TV
 #EXTGRP:Azərbaycan
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
+#EXTINF:0,Arı Musiqi TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Ari_Muzik-restream.m3u8
+#EXTINF:0,Arı Muğam TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Ari_Mugam_tv-restream.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
-#EXTINF:0,KATV 1
+#EXTINF:0,Live TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
 #EXTINF:0,Könül TV
 #EXTGRP:Azərbaycan
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w1346453416.m3u8
+#EXTINF:0,KATV 1
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
 #EXTINF:0,Aksu Tv
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8

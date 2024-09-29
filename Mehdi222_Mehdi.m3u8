@@ -119,15 +119,15 @@ https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Ari_Muzi
 #EXTINF:0,Arı Muğam TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Ari_Mugam_tv-restream.m3u8
+#EXTINF:0,Live TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
-#EXTINF:0,Live TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
 #EXTINF:0,Könül TV
 #EXTGRP:Azərbaycan
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w1346453416.m3u8
@@ -415,7 +415,7 @@ http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
 http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:0,Киноужас
 #EXTGRP:Rus
-http://31.131.136.4:8001/play/e00b
+http://185.112.140.28:8080/Kinouzhas/index.m3u8
 #EXTINF:0,Киносемья
 #EXTGRP:Rus
 http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd

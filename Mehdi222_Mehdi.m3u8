@@ -25,7 +25,7 @@ https://rtmp.baku.tv/streams/bakutv.m3u8
 http://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:0,ARB Günəş
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a01y/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0,ARB
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o1/arbtv/playlist.m3u8
@@ -37,16 +37,16 @@ https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8
 https://edge02.odtv.az/o1/space/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a01s/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/atv-azad.m3u8
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a01r/index.m3u8?token=livetv
+https://str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dünya TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a02m/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -55,7 +55,7 @@ https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0,Start TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a01v/index.m3u8?token=livetv
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:0,Qafqaz TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -70,11 +70,11 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a02t/index.m3u8?token=livetv
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Kanal 35 TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
-#EXTINF:0,Kanal 65 TV
+#EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:0,Ulduz TV
@@ -86,9 +86,6 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
 #EXTGRP:Azərbaycan
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:0,Deniz TV
-#EXTGRP:Azərbaycan
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/deniz-tv/chunklist_w902360307.m3u8
 #EXTINF:0,TTV Musiqi
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3016/stream/play.m3u8
@@ -112,10 +109,13 @@ http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_1500k.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
+http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 https://ssh101-fl.bozztv.com/ssh101/showplus/tracks-v1a1/mono.m3u8
+#EXTINF:0,KATV 1
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
 #EXTINF:0,Könül TV
 #EXTGRP:Azərbaycan
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w1346453416.m3u8
@@ -343,7 +343,7 @@ http://iptv.mega.net.ru:8888/Givaa_Planeta/mono.m3u8
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:0,Fight Network
 #EXTGRP:Rus
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8

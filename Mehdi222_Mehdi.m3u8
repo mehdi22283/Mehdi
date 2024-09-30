@@ -164,24 +164,51 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
 #EXTINF:0,beIN Box Office 3 HD TR
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
-#EXTINF:0,beIN Movies Family HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
 #EXTINF:0,beIN Series Drama HD TR
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6882/index.m3u8
+#EXTINF:0,beIN Movies Family HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
 #EXTINF:0,beIN Movies Premiere HD TR
 #EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6880/index.m3u8
+http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
 #EXTINF:0,beIN Movies Premiere 2 HD TR
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
 #EXTINF:0,beIN Movies Action HD TR
 #EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6877/index.m3u8
+http://ege.vipsat.net:2086/live/sezerminks/17032017wgh/2492.ts
+#EXTINF:0,BeIN MOVIES STARS HD TR
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
+#EXTINF:0,FİL TV
+#EXTGRP:Türk
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270756.ts
+#EXTINF:0,FİL MAX
+#EXTGRP:Türk
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270755.ts
+#EXTINF:0,FilmBox TV
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/99048.ts
+#EXTINF:0,FİLM CLUB
+#EXTGRP:Türk
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
+#EXTINF:0,FİLM CLUB KOMEDİ
+#EXTGRP:Türk
+http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
 #EXTINF:0,Movie Smart Action TR
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
+#EXTINF:0,Sinema Aksiyon
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
+#EXTINF:0,Geleceğe Dönüş TV
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/130649.ts
+#EXTINF:0,Rocky TV
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/131810.ts
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -212,9 +239,6 @@ http://stream.tvcdn.net/muzik/dream-turk.m3u8
 #EXTINF:0,Kanal 3
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
-#EXTINF:0,Kanal 19
-#EXTGRP:Türk
-https://panel4.euromediacenter.com:3710/live/kanal19live.m3u8
 #EXTINF:0,Kanal 7
 #EXTGRP:Türk
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
@@ -254,6 +278,9 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31213/index.m3u8
 #EXTINF:0,Number One Türk
 #EXTGRP:Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:0,Muğla Türk
+#EXTGRP:Türk
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:0,Power TV
 #EXTGRP:Türk
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -266,6 +293,9 @@ https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:0,Sat7
 #EXTGRP:Türk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks_dvr.m3u8
+#EXTINF:0,Sky Haber
+#EXTGRP:Türk
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:0,Show TV
 #EXTGRP:Türk
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8

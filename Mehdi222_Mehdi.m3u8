@@ -197,12 +197,12 @@ http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
 #EXTINF:0,FİLM CLUB KOMEDİ
 #EXTGRP:Türk
 http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
-#EXTINF:0,Movie Smart Action TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
-#EXTINF:0,Sinema Aksiyon
+#EXTINF:0,Sinema TV
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
+#EXTINF:0,Sinema Aksiyon
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
 #EXTINF:0,Geleceğe Dönüş TV
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/130649.ts

@@ -202,7 +202,7 @@ http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
 #EXTINF:0,Sinema Aksiyon
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6465.ts
+http://vip.torktv.org:2095/live/grhn9626/gr00/6465.m3u8
 #EXTINF:0,Sinema Aksiyon 2
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
@@ -368,12 +368,12 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
-#EXTINF:0,Ton TV
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:0,Yaban TV
 #EXTGRP:Türk
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:0,Nat Geo Wild 
+#EXTGRP:Türk
+http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild
 #EXTGRP:Rus
 http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
@@ -382,7 +382,7 @@ http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
-http://iptv.mega.net.ru:8888/Givaa_Planeta/mono.m3u8
+https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
@@ -395,9 +395,9 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,Boxing World
+#EXTINF:0,MMA TV
 #EXTGRP:Rus
-https://4da5041a185f4b62a7449802bda0d0a9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Boxcaster/9103ca54-28aa-48e0-b01b-48194f9c5ebd/0.m3u8
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/86324/hls/pl.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8

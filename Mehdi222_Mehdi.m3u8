@@ -137,15 +137,12 @@ http://135.181.115.81:8000/play/a02e/index.m3u8?token=livetv
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:0,ARTI 1
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6748/index.m3u8
-#EXTINF:0,Aksu Tv
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0,Almanya TV
 #EXTGRP:Türk
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
+#EXTINF:0,Aksu Tv
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0,Alanya TV
 #EXTGRP:Türk
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
@@ -208,28 +205,19 @@ http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6936/index.m3u8
 #EXTINF:0,Sinema TV
 #EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
+http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
 #EXTINF:0,Sinema TV 2
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31227/index.m3u8
-#EXTINF:0,Sinema Komedi
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31225/index.m3u8
 #EXTINF:0,Sinema Aksiyon
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6465.m3u8
 #EXTINF:0,Sinema Aksiyon 2
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6467.ts
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
 #EXTINF:0,Yansıma Sinema
 #EXTGRP:Türk
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
-#EXTINF:0,Geleceğe Dönüş TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/130649.ts
-#EXTINF:0,Rocky TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/131810.ts
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -257,15 +245,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0,Dream Türk
 #EXTGRP:Türk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
-#EXTINF:0,Kanal 3
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
-#EXTINF:0,Kanal 7
-#EXTGRP:Türk
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,Kanal 7 Avrupa
-#EXTGRP:Türk
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Türk
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
@@ -338,9 +317,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/eurostar.m
 #EXTINF:0,SuperTurk TV
 #EXTGRP:Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:0,SuperTurk Max
-#EXTGRP:Türk
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:0,Tatlıses TV
 #EXTGRP:Türk
 http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
@@ -365,15 +341,9 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 2
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/trt2/chunks.m3u8
-#EXTINF:0,TRT Avaz
-#EXTGRP:Türk
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Türk
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:0,TRT Türk
-#EXTGRP:Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,Tivi Türk
 #EXTGRP:Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8

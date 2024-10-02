@@ -365,18 +365,18 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Rus
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:0,MMA TV
 #EXTGRP:Rus
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/86324/hls/pl.m3u8
-#EXTINF:0,Первый
+#EXTINF:0,Россия 1
 #EXTGRP:Rus
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:0,РТР ПЛАНЕТА
 #EXTGRP:Rus
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,Первый
+#EXTGRP:Rus
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,НТВ
 #EXTGRP:Rus
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd

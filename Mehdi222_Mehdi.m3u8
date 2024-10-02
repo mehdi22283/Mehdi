@@ -100,7 +100,7 @@ https://tivi191.ozelip.com:3016/stream/play.m3u8
 http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8536-1664260736
 #EXTINF:0,Beat TV
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
@@ -349,34 +349,49 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
-http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:0,МАТЧ! Боец
+#EXTGRP:Rus
+http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
-#EXTINF:0,МАТЧ! Боец
-#EXTGRP:Rus
-http://91.90.255.235:8000/play/a00f/index.m3u8
 #EXTINF:0,Fight Network
 #EXTGRP:Rus
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,MMA TV
-#EXTGRP:Rus
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/86324/hls/pl.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,MMA TV
+#EXTGRP:Rus
+http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/86324/hls/pl.m3u8
 #EXTINF:0,Первый
 #EXTGRP:Rus
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,РТР ПЛАНЕТА
 #EXTGRP:Rus
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Rus
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:0,ТВ Центр
+#EXTGRP:Rus
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:0,RTД
+#EXTGRP:Rus
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Точка ТV
+#EXTGRP:Rus
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:0,Пятница!
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
@@ -389,6 +404,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:Rus
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:0,RTG
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
 #EXTINF:0,Север TV
 #EXTGRP:Rus
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
@@ -398,9 +416,6 @@ http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:0,Дом Кино
-#EXTGRP:Rus
-https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:Rus
 http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8

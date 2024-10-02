@@ -70,7 +70,7 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+https://str1.yodacdn.net/ntv/index.m3u8
 #EXTINF:0,Kanal 35 TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
@@ -89,18 +89,18 @@ https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:0,AzadSöz TV
 #EXTGRP:Azərbaycan
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Azərbaycan
+http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:0,GEM AZ
 #EXTGRP:Azərbaycan
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
 #EXTINF:0,TTV Musiqi
 #EXTGRP:Azərbaycan
 https://tivi191.ozelip.com:3016/stream/play.m3u8
-#EXTINF:0,MTV
-#EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8536-1664260736
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:0,Beat TV
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv

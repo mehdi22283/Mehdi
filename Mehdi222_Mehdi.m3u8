@@ -2,18 +2,18 @@
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
-#EXTINF:0,CBC SPORT TV
-#EXTGRP:Azərbaycan
-http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-#EXTINF:0,Real TV
-#EXTGRP:Azərbaycan
-http://str.yodacdn.net/real/index.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o7/idman/playlist.m3u8
+#EXTINF:0,CBC SPORT TV
+#EXTGRP:Azərbaycan
+http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:0,Real TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/real/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -65,15 +65,15 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:0,Qəbələ TV
 #EXTGRP:Azərbaycan
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
-#EXTINF:0,EL TV
-#EXTGRP:Azərbaycan
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Azərbaycan
 https://str1.yodacdn.net/ntv/index.m3u8
 #EXTINF:0,Kanal 35 TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0edddd
+#EXTINF:0,EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8

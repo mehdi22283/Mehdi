@@ -140,15 +140,15 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,Almanya TV
 #EXTGRP:Türk
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:0,ATV
-#EXTGRP:Türk
-http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:0,Aksu Tv
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0,Alanya TV
 #EXTGRP:Türk
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:0,Aksu Tv
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Türk
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:Türk
 http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8

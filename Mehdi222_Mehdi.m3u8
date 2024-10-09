@@ -11,12 +11,12 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:0,CBC SPORT TV
 #EXTGRP:Azərbaycan
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
-#EXTINF:0,Real TV
-#EXTGRP:Azərbaycan
-http://str.yodacdn.net/real/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Real TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/real/index.m3u8
 #EXTINF:0,Baku.TV
 #EXTGRP:Azərbaycan
 https://rtmp.baku.tv/streams/bakutv.m3u8
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
-https://hw2.jemtv.com/app/xazar/playlist.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Dünya TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -81,6 +81,9 @@ https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
+#EXTGRP:Azərbaycan
+https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0,TTV Sinema
 #EXTGRP:Azərbaycan
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
 #EXTINF:0,AzadSöz TV
@@ -166,16 +169,16 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
 #EXTINF:0,BeIN Series 1
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6455.m3u
+http://vip.torktv.org:2095/live/grhn9626/gr00/6455.m3u8
 #EXTINF:0,BeIN Series 2
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6456.m3u
+http://vip.torktv.org:2095/live/grhn9626/gr00/6456.m3u8
 #EXTINF:0,BeIN Series 3
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
 #EXTINF:0,BeIN Series 4
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6457.m3u
+http://vip.torktv.org:2095/live/grhn9626/gr00/6457.m3u8
 #EXTINF:0,beIN Movies Family HD TR
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
@@ -187,7 +190,7 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
 #EXTINF:0,beIN Movies Türk
 #EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6454.m3u
+http://vip.torktv.org:2095/live/grhn9626/gr00/6454.m3u8
 #EXTINF:0,BeIN MOVIES STARS HD TR
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts

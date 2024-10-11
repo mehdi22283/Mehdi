@@ -86,15 +86,15 @@ https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
 https://megatvmusicaz.efir.com.tr:3883/hybrid/play.m3u8
-#EXTINF:0,Ulduz TV
-#EXTGRP:Azərbaycan
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,TTV Sinema
 #EXTGRP:Azərbaycan
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
+#EXTINF:0,Ulduz TV
+#EXTGRP:Azərbaycan
+https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://sirvantv.efir.com.tr:3369/stream/play.m3u8

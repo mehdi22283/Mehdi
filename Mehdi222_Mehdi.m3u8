@@ -37,7 +37,7 @@ http://str.yodacdn.net/ictimai/index.m3u8
 https://edge02.odtv.az/o1/space/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+https://hw2.jemtv.com/app/azad/playlist.m3u8
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Atv_Cinema_fhd-restream.m3u8
@@ -77,10 +77,7 @@ https://hasantv87.interweb.com.tr:3799/multi_web/play_720.m3u8
 #EXTINF:0,Həsən TV 2
 #EXTGRP:Azərbaycan
 https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
-#EXTINF:0,MEGA TV
-#EXTGRP:Azərbaycan
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
-#EXTINF:0,MEGA TV 2
+#EXTINF:0,MEGA TV 
 #EXTGRP:Azərbaycan
 https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
 #EXTINF:0,MEGA TV Musiqi
@@ -110,9 +107,6 @@ https://stvaz.efir.com.tr:3815/stream/play.m3u8
 #EXTINF:0,Dalğa TV
 #EXTGRP:Azərbaycan
 https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
-#EXTINF:0,Rihat TV
-#EXTGRP:Azərbaycan
-https://rihattvaz.efir.com.tr:3280/stream/play.m3u8
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://sirvantv.efir.com.tr:3369/stream/play.m3u8
@@ -161,9 +155,12 @@ https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-
 #EXTINF:0,CTV
 #EXTGRP:Azərbaycan
 https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
-#EXTINF:0,CTV VİSİON
+#EXTINF:0,CTV VİSİON 1
 #EXTGRP:Azərbaycan
 https://ctvvizion1.efir.com.tr:3798/hybrid/play.m3u8
+#EXTINF:0,CTV VİZYON 2
+#EXTGRP:Azərbaycan
+https://ctvvizion2.efir.com.tr:3959/hybrid/play.m3u8
 #EXTINF:0,CTV UŞAQ
 #EXTGRP:Azərbaycan
 https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
@@ -176,9 +173,42 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 https://rasim.artfulads.net/live/livestream.flv
+#EXTINF:0,Retro TV
+#EXTGRP:Azərbaycan
+https://retrotvaz.efir.com.tr:3523/hybrid/play.m3u8
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Marvel Studios
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6362.m3u8
+#EXTINF:0,Fox
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6240.m3u8
+#EXTINF:0,Blue TV Çocuk
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6156.m3u8
+#EXTINF:0,CinemaXmum
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6120.m3u8
+#EXTINF:0,Max Aksiyon
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6054.m3u8
+#EXTINF:0,En Vizyon
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6034.m3u8
+#EXTINF:0,11
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6012.m3u8
+#EXTINF:0,Blue TV Boxet Sinema
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6007.m3u8
+#EXTINF:0,DiziSmartPremium
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6472.m3u8
+#EXTINF:0,Ton TV
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6565.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8

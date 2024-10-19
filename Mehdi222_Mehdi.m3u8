@@ -77,7 +77,7 @@ https://hasantv87.interweb.com.tr:3799/multi_web/play_720.m3u8
 #EXTINF:0,Həsən TV 2
 #EXTGRP:Azərbaycan
 https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
-#EXTINF:0,MEGA TV 
+#EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
 #EXTINF:0,MEGA TV Musiqi
@@ -179,36 +179,6 @@ https://retrotvaz.efir.com.tr:3523/hybrid/play.m3u8
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0,Marvel Studios
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6362.m3u8
-#EXTINF:0,Fox
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6240.m3u8
-#EXTINF:0,Blue TV Çocuk
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6156.m3u8
-#EXTINF:0,CinemaXmum
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6120.m3u8
-#EXTINF:0,Max Aksiyon
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6054.m3u8
-#EXTINF:0,En Vizyon
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6034.m3u8
-#EXTINF:0,11
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6012.m3u8
-#EXTINF:0,Blue TV Boxet Sinema
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6007.m3u8
-#EXTINF:0,DiziSmartPremium
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6472.m3u8
-#EXTINF:0,Ton TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6565.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -293,6 +263,33 @@ https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:0,Kanal 10
 #EXTGRP:Türk
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
+#EXTINF:0,Marvel Studios
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6362.m3u8
+#EXTINF:0,Blue TV Boxet Sinema
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6007.m3u8
+#EXTINF:0,Blue TV Boxet Sinema 
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6012.m3u8
+#EXTINF:0,Blue TV Çocuk
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6156.m3u8
+#EXTINF:0,Fox
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6240.m3u8
+#EXTINF:0,CinemaXmum
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6120.m3u8
+#EXTINF:0,Max Aksiyon
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6054.m3u8
+#EXTINF:0,DiziSmartPremium
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6472.m3u8
+#EXTINF:0,En Vizyon
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6034.m3u8
 #EXTINF:0,TBRT 1
 #EXTGRP:Türk
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
@@ -410,6 +407,9 @@ http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:0,Tivi Türk
 #EXTGRP:Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:0,Ton TV
+#EXTGRP:Türk
+http://vip.torktv.org:2095/live/grhn9626/gr00/6565.m3u8
 #EXTINF:0,TV 4
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8

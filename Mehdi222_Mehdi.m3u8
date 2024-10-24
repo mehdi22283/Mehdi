@@ -40,7 +40,7 @@ https://edge02.odtv.az/o1/space/playlist.m3u8
 https://hw2.jemtv.com/app/azad/playlist.m3u8
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Atv_Cinema_fhd-restream.m3u8
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/xazar/index.m3u8
@@ -74,9 +74,6 @@ https://aligoshgar.efir.com.tr:3037/stream/play.m3u8
 #EXTINF:0,Həsən TV
 #EXTGRP:Azərbaycan
 https://hasantv87.interweb.com.tr:3799/multi_web/play_720.m3u8
-#EXTINF:0,Həsən TV 2
-#EXTGRP:Azərbaycan
-https://hesentv1987.efir.com.tr:3711/hybrid/play.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://MegatvAz.efir.com.tr:3532/hybrid/play.m3u8
@@ -86,12 +83,9 @@ https://megatvmusicaz.efir.com.tr:3883/hybrid/play.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:0,TTV Sinema
+#EXTINF:0,Ismayilli TV
 #EXTGRP:Azərbaycan
-https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:0,CTV Heyvanlar
-#EXTGRP:Azərbaycan
-https://ctvovcu.efir.com.tr:3413/hybrid/play.m3u8
+https://ismayillitv.efir.com.tr:3281/hybrid/play.m3u8
 #EXTINF:0,Ulduz TV
 #EXTGRP:Azərbaycan
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
@@ -101,6 +95,12 @@ http://cors.tundracast.com:2000/https://aklive1991.ozelip.com:3842/stream/play.m
 #EXTINF:0,AkTV Serial
 #EXTGRP:Azərbaycan
 https://aktvazserial.efir.com.tr:3036/hybrid/play.m3u8
+#EXTINF:0,TTV Belgesel
+#EXTGRP:Azərbaycan
+https://ttvbelgesel.efir.com.tr:3957/stream/play.m3u8
+#EXTINF:0,CTV OVÇU
+#EXTGRP:Azərbaycan
+https://ctvovcu.efir.com.tr:3413/stream/play.m3u8
 #EXTINF:0,Sərxan TV
 #EXTGRP:Azərbaycan
 https://stvaz.efir.com.tr:3815/stream/play.m3u8
@@ -115,70 +115,70 @@ https://sirvantv.efir.com.tr:3369/stream/play.m3u8
 https://dogrutv.efir.com.tr:3449/hybrid/play.m3u8
 #EXTINF:0,Araz TV
 #EXTGRP:Azərbaycan
-https://araztv.efir.com.tr:3354/hybrid/play.m3u8
+https://araztv.efir.com.tr:3354/stream/play.m3u8
 #EXTINF:0,AzadSöz TV
 #EXTGRP:Azərbaycan
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a01u/index.m3u8?token=livetv
+#EXTINF:0,Vostok TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Arı Musiqi TV
 #EXTGRP:Azərbaycan
 https://tv170.radyotelekom.com.tr:21764/arimusic/arimusic/chunklist.m3u8
 #EXTINF:0,Arı Muğam TV
 #EXTGRP:Azərbaycan
 http://arimusicmugam77.ozelip.com:26546/mugam/mugam/chunklist.m3u8
+#EXTINF:0,Ayaz TV
+#EXTGRP:Azərbaycan
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
+#EXTINF:0,TMB Azərbaycan
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,GEM AZ
+#EXTGRP:Azərbaycan
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+#EXTINF:0,CTV
+#EXTGRP:Azərbaycan
+https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
+#EXTINF:0,CTV VİSİON 1
+#EXTGRP:Azərbaycan
+https://ctvvizion1.efir.com.tr:3798/stream/play.m3u8
+#EXTINF:0,CTV VİZYON 2
+#EXTGRP:Azərbaycan
+https://ctvvizion2.efir.com.tr:3959/stream/play.m3u8
+#EXTINF:0,CTV UŞAQ
+#EXTGRP:Azərbaycan
+https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
+#EXTINF:0,CTV MEYXANA
+#EXTGRP:Azərbaycan
+https://ctvmeyxana.efir.com.tr:3818/stream/play.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://umidtvaz.efir.com.tr:3559/stream/play.m3u8
 #EXTINF:0,Ümid Show
 #EXTGRP:Azərbaycan
 https://utvshowaz.efir.com.tr:3504/stream/play.m3u8
-#EXTINF:0,Ayaz TV
+#EXTINF:0,Rihat TV
 #EXTGRP:Azərbaycan
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/ayaztv_2500k.m3u8
-#EXTINF:0,New TV
-#EXTGRP:Azərbaycan
-https://tivi191.ozelip.com:3745/stream/play.m3u8
-#EXTINF:0,GEM AZ
-#EXTGRP:Azərbaycan
-http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
-#EXTINF:0,TMB Azərbaycan
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:0,Vostok TV
-#EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+https://tivi191.ozelip.com:3677/hybrid/play.m3u8
 #EXTINF:0,Live TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
-#EXTINF:0,CTV
-#EXTGRP:Azərbaycan
-https://spectrectvmedya44.interweb.com.tr:3466/multi_web/play_720.m3u8
-#EXTINF:0,CTV VİSİON 1
-#EXTGRP:Azərbaycan
-https://ctvvizion1.efir.com.tr:3798/hybrid/play.m3u8
-#EXTINF:0,CTV VİZYON 2
-#EXTGRP:Azərbaycan
-https://ctvvizion2.efir.com.tr:3959/hybrid/play.m3u8
-#EXTINF:0,CTV UŞAQ
-#EXTGRP:Azərbaycan
-https://ctvusaq.efir.com.tr:3114/stream/play.m3u8
-#EXTINF:0,CTV MEYXANA
-#EXTGRP:Azərbaycan
-https://ctvmeyxana.efir.com.tr:3818/hybrid/play.m3u8
 #EXTINF:0,EL TV
 #EXTGRP:Azərbaycan
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Eltv-restream.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 https://rasim.artfulads.net/live/livestream.flv
-#EXTINF:0,Retro TV
-#EXTGRP:Azərbaycan
-https://retrotvaz.efir.com.tr:3523/hybrid/play.m3u8
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF:0,Retro TV
+#EXTGRP:Azərbaycan
+https://retrotvaz.efir.com.tr:3523/stream/play.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -424,19 +424,19 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
-https://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
-http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/19221/index.m3u8
+https://mhd116.iptv2022.com/p/a9iHkv1on7J1AWT9Suc46Q,1729501212/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
-#EXTINF:0,Fight Network
+#EXTINF:0,UDAR TV
 #EXTGRP:Rus
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+https://strm.yandex.ru/kal/udar/udar0.m3u8?vsid=ts6si08bgopg2je
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8

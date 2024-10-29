@@ -410,12 +410,12 @@ http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:0,Живая Планета 
-#EXTGRP:Rus
-http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?token=SGVrdG9yMDA3fHxhR1ZyTURBM01EQTM=
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Rus
+http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?token=SGVrdG9yMDA3fHxhR1ZyTURBM01EQTM=
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8

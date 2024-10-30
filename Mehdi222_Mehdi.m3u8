@@ -230,24 +230,9 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
 #EXTINF:0,BeIN MOVIES STARS HD TR
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
-#EXTINF:0,FİL TV
-#EXTGRP:Türk
-http://izlesstvrs.xyz/live/dumdum45/m6qtnenbgs/270756.ts
-#EXTINF:0,FİL MAX
-#EXTGRP:Türk
-http://izlesstvrs.xyz:80/live/dumdum45/m6qtnenbgs/270755.ts
 #EXTINF:0,FilmBox TV
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/99048.ts
-#EXTINF:0,FİLM CLUB
-#EXTGRP:Türk
-http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
-#EXTINF:0,FİLM CLUB KOMEDİ
-#EXTGRP:Türk
-http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270751.ts
-#EXTINF:0,Film Club Aksiyon
-#EXTGRP:Türk
-http://yasamtv787.xyz:80/live/yusufcaliskan/yusuf.1710/270753.ts
 #EXTINF:0,Sinema TV
 #EXTGRP:Türk
 http://vip.torktv.org:2095/live/grhn9626/gr00/6467.m3u8
@@ -257,9 +242,6 @@ http://vip.torktv.org:2095/live/grhn9626/gr00/6465.m3u8
 #EXTINF:0,Sinema Aksiyon 2
 #EXTGRP:Türk
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
-#EXTINF:0,EXXEN TV
-#EXTGRP:Türk
-https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:0,Kanal 10
 #EXTGRP:Türk
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
@@ -293,9 +275,9 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m
 #EXTINF:0,TBRT 2
 #EXTGRP:Türk
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
-#EXTINF:0,TBRT 3
+#EXTINF:0,GRT TV
 #EXTGRP:Türk
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/kral_teber/chunklist_w1746342561.m3u8
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -329,6 +311,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0,NOW
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+#EXTINF:0,Kıbrıs TV
+#EXTGRP:Türk
+https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0,Kuzey Kıbrıs TV
 #EXTGRP:Türk
 https://kuzeykibris.tv/m3u8/kktv.m3u8

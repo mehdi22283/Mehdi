@@ -275,9 +275,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m
 #EXTINF:0,TBRT 2
 #EXTGRP:Türk
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
-#EXTINF:0,GRT TV
-#EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -296,6 +293,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0,Dream Türk
 #EXTGRP:Türk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:0,GRT TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Türk
 https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
@@ -305,18 +305,18 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0,Kanal Sim
 #EXTGRP:Türk
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1045670691.m3u8
-#EXTINF:0,LIFE TV
+#EXTINF:0,KTV
 #EXTGRP:Türk
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist_w957851671.m3u8
 #EXTINF:0,NOW
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
-#EXTINF:0,Kıbrıs TV
-#EXTGRP:Türk
-https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0,Kuzey Kıbrıs TV
 #EXTGRP:Türk
 https://kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:0,LIFE TV
+#EXTGRP:Türk
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:0,Kral Pop TV
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8

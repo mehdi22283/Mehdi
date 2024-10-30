@@ -98,12 +98,12 @@ https://aktvaz.efir.com.tr:3045/stream/play.m3u8
 #EXTINF:0,AkTV Serial
 #EXTGRP:Azərbaycan
 https://aktvazserial.efir.com.tr:3036/stream/play.m3u8
-#EXTINF:0,CTV OVÇU
+#EXTINF:0,New TV
 #EXTGRP:Azərbaycan
-https://ctvovcu.efir.com.tr:3413/stream/play.m3u8
-#EXTINF:0,Sərxan TV
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-restream.m3u8
+#EXTINF:0,Box TV
 #EXTGRP:Azərbaycan
-https://stvaz.efir.com.tr:3815/stream/play.m3u8
+https://fl1002.bozztv.com/ssh101/serxantv/index.m3u8
 #EXTINF:0,Dalğa TV
 #EXTGRP:Azərbaycan
 https://dalgatvcinema.efir.com.tr:3897/stream/play.m3u8
@@ -421,7 +421,7 @@ http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?tok
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
-https://mhd116.iptv2022.com/p/a9iHkv1on7J1AWT9Suc46Q,1729501212/streaming/boectv/324/1/tracks-v4a1/mono.m3u8
+http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
@@ -476,9 +476,24 @@ https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:0,.Sci Fi
 #EXTGRP:Rus
 http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:0,Könül TV
+#EXTGRP:Rus
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:0,MAX TV
+#EXTGRP:Rus
+https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:0,Viju+ Premiere
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_premum-tv-restream.m3u8
+#EXTINF:0,Viasat Kino
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viasat_kino_tv-restream.m3u8
+#EXTINF:0,VHS KA
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8
 #EXTINF:0,KinoPokaz
 #EXTGRP:Rus
 http://vps-2ddb54f0.vps.ovh.net/0110/tracks-v1a1/mono.m3u8?token=682FA43A429B

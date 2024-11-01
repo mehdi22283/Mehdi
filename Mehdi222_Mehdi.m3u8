@@ -404,6 +404,9 @@ http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?tok
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:0,MAX TV
+#EXTGRP:Rus
+https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 http://31.148.48.15/Match_Boec/index.m3u8
@@ -464,12 +467,9 @@ http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:0,Könül TV
 #EXTGRP:Rus
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:0,MAX TV
-#EXTGRP:Rus
-https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_serial_tv-restream.m3u8
 #EXTINF:0,Viju+ Premiere
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_premum-tv-restream.m3u8

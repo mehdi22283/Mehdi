@@ -2,9 +2,6 @@
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
 https://hw2.jemtv.com/app/aztv1/playlist.m3u8
-#EXTINF:0,Mədəniyyət TV
-#EXTGRP:Azərbaycan
-https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o7/idman/playlist.m3u8
@@ -14,6 +11,9 @@ http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Mədəniyyət TV
+#EXTGRP:Azərbaycan
+https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:0,Real TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/real/index.m3u8
@@ -98,9 +98,15 @@ https://aktvaz.efir.com.tr:3045/stream/play.m3u8
 #EXTINF:0,AkTV Serial
 #EXTGRP:Azərbaycan
 https://aktvazserial.efir.com.tr:3036/stream/play.m3u8
+#EXTINF:0,AkTV Sport
+#EXTGRP:Azərbaycan
+https://cdn4.yayin.com.tr/testtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,New TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-restream.m3u8
+#EXTINF:0,Max TV
+#EXTGRP:Azərbaycan
+https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:0,Box TV
 #EXTGRP:Azərbaycan
 https://fl1002.bozztv.com/ssh101/serxantv/index.m3u8
@@ -404,18 +410,12 @@ http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?tok
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
-#EXTINF:0,MAX TV
-#EXTGRP:Rus
-https://maxtv.efir.com.tr:3957/hybrid/play.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,MMA TV
-#EXTGRP:Rus
-http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/86324/hls/pl.m3u8
 #EXTINF:0,UDAR TV
 #EXTGRP:Rus
 https://strm.yandex.ru/kal/udar/udar0.m3u8?vsid=ts6si08bgopg2je
@@ -431,6 +431,12 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,НТВ
 #EXTGRP:Rus
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:0,Cinema
+#EXTGRP:Rus
+http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kino 1
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kino-1_tv-restream.m3u8
 #EXTINF:0,ТВ Центр
 #EXTGRP:Rus
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8

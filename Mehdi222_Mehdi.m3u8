@@ -446,9 +446,9 @@ http://77.235.1.17/rossia_k_crdru/index.m3u8
 #EXTINF:0,THT
 #EXTGRP:Rus
 http://93.125.121.75/TNT_HD/index.m3u8?token=test
-#EXTINF:0,THT 4
+#EXTINF:0,Приключения
 #EXTGRP:Rus
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ
 #EXTGRP:Rus
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd

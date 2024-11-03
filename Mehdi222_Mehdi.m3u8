@@ -14,12 +14,12 @@ http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:0,Real TV
 #EXTGRP:Azərbaycan
 http://edge02.odtv.az/o2/realtv/q_1/playlist.m3u8
-#EXTINF:0,Baku.TV
-#EXTGRP:Azərbaycan
-https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Baku TV
+#EXTGRP:Azərbaycan
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:Azərbaycan
 http://edge02.odtv.az/o7/arb24/q_1/playlist.m3u8

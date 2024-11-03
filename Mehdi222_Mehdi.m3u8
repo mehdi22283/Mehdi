@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
-https://hw2.jemtv.com/app/aztv1/playlist.m3u8
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,Mədəniyyət TV
+#EXTGRP:Azərbaycan
+https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:0,CBC SPORT TV
 #EXTGRP:Azərbaycan
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
+#EXTINF:0,Real TV
+#EXTGRP:Azərbaycan
+http://edge02.odtv.az/o2/realtv/q_1/playlist.m3u8
+#EXTINF:0,Baku.TV
+#EXTGRP:Azərbaycan
+https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:0,Mədəniyyət TV
-#EXTGRP:Azərbaycan
-https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
-#EXTINF:0,Real TV
-#EXTGRP:Azərbaycan
-http://str.yodacdn.net/real/index.m3u8
-#EXTINF:0,Baku.TV
-#EXTGRP:Azərbaycan
-https://rtmp.baku.tv/streams/bakutv.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/arb24/index.m3u8
+http://edge02.odtv.az/o7/arb24/q_1/playlist.m3u8
 #EXTINF:0,ARB Günəş
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0,ARB
 #EXTGRP:Azərbaycan
-https://edge02.odtv.az/o1/arbtv/playlist.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Arb_fhd_tv-restream.m3u8
 #EXTINF:0,İctimai TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/ictimai/index.m3u8
@@ -43,28 +43,28 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Atv-fhd-tv
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/xazar/index.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Xezer-fhd-tv-restream.m3u8
 #EXTINF:0,Dünya TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:0,FTV AZ
-#EXTGRP:Azərbaycan
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
-#EXTINF:0,Kəpəz TV
-#EXTGRP:Azərbaycan
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:0,Start TV
-#EXTGRP:Azərbaycan
-http://8.troya.one:34000/ch1528/mono.m3u8?token=lina005.lHQbnat3chvJeNANT1i0MN6J8ItUhbIExqsdE2SRSFtU99iZj4MiHA8iLN_iq4p5
-#EXTINF:0,Qafqaz TV
-#EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0,Alvin TV
-#EXTGRP:Azərbaycan
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_fhd_tv-restream.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mtvaz_fhd-restream.m3u8
+#EXTINF:0,Start TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kanal_s_fhd-restream.m3u8
+#EXTINF:0,FTV AZ
+#EXTGRP:Azərbaycan
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0,Alvin TV
+#EXTGRP:Azərbaycan
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,Kəpəz TV
+#EXTGRP:Azərbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0,Qafqaz TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Azərbaycan
 https://str1.yodacdn.net/ntv/index.m3u8
@@ -406,7 +406,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 #EXTINF:0,Nat Geo Wild TÜRK
 #EXTGRP:Rus
-http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
 http://stream02.vnet.am/NatGeoWild/mono.m3u8

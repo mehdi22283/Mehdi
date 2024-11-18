@@ -46,13 +46,13 @@ http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Xezer-fhd-tv-restream.m3u8
 #EXTINF:0,Dünya TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_fhd_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_tv-restream.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mtvaz_tv-restream.m3u8
+http://str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=56022f64caddc2b06e417b43e731f7041333b016-91824f862eaa2416a59d77f59d12a415-1684624468-1684613668
 #EXTINF:0,Start TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kanal_s-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kanal_s_fhd-restream.m3u8
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
@@ -188,6 +188,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-re
 #EXTINF:0,Ümid Show
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Utvshow_tv-restream.m3u8
+#EXTINF:0,UTV NEWS
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Utvnews_tv-restream.m3u8
 #EXTINF:0,Live TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
@@ -206,9 +209,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sehiyye_tv
 #EXTINF:0,Retro TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Retro_az_tv-restream.m3u8
-#EXTINF:0,Travel TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Ctv_Travel_tv-restream.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -430,7 +430,7 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
-http://balancer.1.cdn.velestore.su:56373/JIVAYAPLANETA/tracks-v1a1/mono.m3u8?token=SGVrdG9yMDA3fHxhR1ZyTURBM01EQTM=
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_jivey_planet_tv-restream.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8

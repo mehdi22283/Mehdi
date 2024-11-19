@@ -74,6 +74,9 @@ http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215
 #EXTINF:0,Qəbələ TV
 #EXTGRP:Azərbaycan
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
+#EXTINF:0,İsmayıllı TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ttv_Sinema_tv-restream.m3u8
 #EXTINF:0,ƏliQoşqar TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aligoshgar-tv-restream.m3u8
@@ -131,9 +134,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-r
 #EXTINF:0,Flux TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Flux_tv-restream.m3u8
-#EXTINF:0,S TV
+#EXTINF:0,Cavid TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Stv_az_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Chd_tv-restream.m3u8
 #EXTINF:0,Rihat TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
@@ -188,9 +191,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-re
 #EXTINF:0,Ümid Show
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Utvshow_tv-restream.m3u8
-#EXTINF:0,UTV NEWS
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Utvnews_tv-restream.m3u8
 #EXTINF:0,Live TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8

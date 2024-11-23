@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/aztv/index.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aztv-tv-restream.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
@@ -49,13 +49,13 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Xezer-fhd-
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_tv-restream.m3u8
 #EXTINF:0,MTV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=56022f64caddc2b06e417b43e731f7041333b016-91824f862eaa2416a59d77f59d12a415-1684624468-1684613668
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mtvaz_fhd-restream.m3u8
 #EXTINF:0,Start TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kanal_s_fhd-restream.m3u8
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
-https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ftvaz-restream.m3u8
 #EXTINF:0,Alvin TV
 #EXTGRP:Azərbaycan
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
@@ -77,9 +77,6 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ttv_Sinema_tv-restream.m3u8
-#EXTINF:0,ƏliQoşqar TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aligoshgar-tv-restream.m3u8
 #EXTINF:0,Həsən TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Htv_cinema-restream.m3u8
@@ -98,6 +95,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-re
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
+#EXTINF:0,MEGA TV RETRO
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/8bc30d6ea34af861e024434286ab7f8d36126c5f/Retro_az_tv-restream.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
@@ -116,6 +116,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Dizi_
 #EXTINF:0,TV Plus
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_TvPlus_tv-restream.m3u8
+#EXTINF:0,Movie Max Azərbaycan 
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/925c6bdf12f3ec57edb31280d7e9568bb02d8b10/Azer_Max_Movies_tv-restream.m3u8
 #EXTINF:0,New TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-restream.m3u8
@@ -131,18 +134,15 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-
 #EXTINF:0,Doğru TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-restream.m3u8
-#EXTINF:0,Flux TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Flux_tv-restream.m3u8
-#EXTINF:0,Cavid TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Chd_tv-restream.m3u8
-#EXTINF:0,Rihat TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
 #EXTINF:0,AzadSöz TV
 #EXTGRP:Azərbaycan
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+#EXTINF:0,Flux TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Flux_tv-restream.m3u8
+#EXTINF:0,Rihat TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -208,7 +208,7 @@ http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f321
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sehiyye_tv-restream.m3u8
 #EXTINF:0,Retro TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Retro_az_tv-restream.m3u8
+https://justhost.online:3523/stream/play.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -314,15 +314,18 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0,CINE5
 #EXTGRP:Türk
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Türk
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:0,Dream Türk
+#EXTGRP:Türk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
 #EXTINF:0,Deniz Postası
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:0,DMAX
 #EXTGRP:Türk
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:0,Dream Türk
-#EXTGRP:Türk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
 #EXTINF:0,GRT TV
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_grt/grt1/playlist.m3u8
@@ -401,9 +404,6 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 2
 #EXTGRP:Türk
 http://hw1.jemtv.com/app/trt2/chunks.m3u8
-#EXTINF:0,TRT Belgesel
-#EXTGRP:Türk
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:0,Tivi Türk
 #EXTGRP:Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -419,6 +419,9 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+#EXTINF:0,TRT Belgesel
+#EXTGRP:Rus
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:0,Nat Geo Wild TÜRK
 #EXTGRP:Rus
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
@@ -436,7 +439,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_jiv
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
-http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8
 #EXTINF:0,Fight Box
 #EXTGRP:Rus
 http://stream01.vnet.am/Fightbox/mono.m3u8
@@ -479,9 +482,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kino-1_tv-
 #EXTINF:0,ТВ Центр
 #EXTGRP:Rus
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,TLC
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
 #EXTINF:0,RTД
 #EXTGRP:Rus
 https://hls.rt.com/hls/rtdru.m3u8

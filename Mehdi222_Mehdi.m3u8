@@ -76,7 +76,7 @@ http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
 #EXTINF:0,İsmayıllı TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ttv_Sinema_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Ismalli_tv-restream.m3u8
 #EXTINF:0,Həsən TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Htv_cinema-restream.m3u8
@@ -101,9 +101,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/8bc30d6ea34af861e024434286
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://esmatv.interweb.com.tr:3928/stream/play.m3u8
-#EXTINF:0,Ulduz TV
-#EXTGRP:Azərbaycan
-https://ulduztv.interweb.com.tr:3266/stream/play.m3u8
 #EXTINF:0,AkTv
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aktv-restream.m3u8
@@ -137,9 +134,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-r
 #EXTINF:0,AzadSöz TV
 #EXTGRP:Azərbaycan
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
-#EXTINF:0,Flux TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Flux_tv-restream.m3u8
 #EXTINF:0,Rihat TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
@@ -155,12 +149,18 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ari_Mugam_
 #EXTINF:0,Ayaz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ayaz_tv-restream.m3u8
+#EXTINF:0,Babək TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Stv_az_tv-restream.m3u8
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:0,GEM AZ
 #EXTGRP:Azərbaycan
 http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+#EXTINF:0,Ulduz TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ulduztv-restream.m3u8
 #EXTINF:0,BEAT TV
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
@@ -182,9 +182,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_Meyxan
 #EXTINF:0,CTV UŞAQ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_usaq_tv-restream.m3u8
-#EXTINF:0,Cizgi Filmi TV
+#EXTINF:0,CTV OVÇU
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Cartoonnotworkaz_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_ovcu_tv-restream.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -206,9 +206,9 @@ http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f321
 #EXTINF:0,Səhiyyə TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sehiyye_tv-restream.m3u8
-#EXTINF:0,Retro TV
+#EXTINF:0,Cizgi Filmi TV
 #EXTGRP:Azərbaycan
-https://justhost.online:3523/stream/play.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Cartoonnotworkaz_tv-restream.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8

@@ -79,10 +79,10 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Ismalli_tv-restream.m3u8
 #EXTINF:0,Həsən TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Htv_cinema-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Cinema_Yedek_tv-restream.m3u8
 #EXTINF:0,HTV Musiqi
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_HTV_Azerbaycan_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Music_Yedek_tv-restream.m3u8
 #EXTINF:0,Teber Star
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Fox_Movies_tv-restream.m3u8
@@ -91,11 +91,11 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Fox_M
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Araz_tv-restream.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
+https://tivi191.ozelip.com:3856/hybrid/play.m3u8
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
-#EXTINF:0,MEGA TV RETRO
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
+#EXTINF:0,Mega TV Retro
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/8bc30d6ea34af861e024434286ab7f8d36126c5f/Retro_az_tv-restream.m3u8
 #EXTINF:0,Esma TV

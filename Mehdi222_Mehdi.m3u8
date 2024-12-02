@@ -95,12 +95,12 @@ https://tivi191.ozelip.com:3856/hybrid/play.m3u8
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
-#EXTINF:0,Mega TV Retro
+#EXTINF:0,ƏliQoşqar TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/8bc30d6ea34af861e024434286ab7f8d36126c5f/Retro_az_tv-restream.m3u8
+https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
-https://esmatv.interweb.com.tr:3928/stream/play.m3u8
+https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-restream.m3u8
 #EXTINF:0,AkTv
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aktv-restream.m3u8
@@ -197,18 +197,18 @@ https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-
 #EXTINF:0,EL TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Eltv-restream.m3u8
+#EXTINF:0,Buzovna TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 https://rasim.artfulads.net/live/livestream.flv
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
-#EXTINF:0,Səhiyyə TV
+#EXTINF:0,Retro TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sehiyye_tv-restream.m3u8
-#EXTINF:0,Cizgi Filmi TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Cartoonnotworkaz_tv-restream.m3u8
+https://fl1004.bozztv.com/ssh101/kinoretro/index.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8

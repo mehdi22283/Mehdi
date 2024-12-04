@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Fox_M
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Araz_tv-restream.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
-https://tivi191.ozelip.com:3856/hybrid/play.m3u8
+https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-restream.m3u8
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
@@ -122,9 +122,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-res
 #EXTINF:0,Box TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Box_tv-restream.m3u8
-#EXTINF:0,Dalğa TV
+#EXTINF:0,Sirius TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dalga_tv-restream.m3u8
+https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-restream.m3u8
@@ -161,9 +161,9 @@ http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
 #EXTINF:0,Ulduz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ulduztv-restream.m3u8
-#EXTINF:0,BEAT TV
+#EXTINF:0,Buzovna TV
 #EXTGRP:Azərbaycan
-http://135.181.115.81:8000/play/a02d/index.m3u8?token=livetv
+https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
 #EXTINF:0,CTV Yerli
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Ctv_Yerli_tv-restream.m3u8
@@ -182,9 +182,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_Meyxan
 #EXTINF:0,CTV UŞAQ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_usaq_tv-restream.m3u8
-#EXTINF:0,CTV OVÇU
+#EXTINF:0,SDM TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_ovcu_tv-restream.m3u8
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -193,13 +193,13 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-re
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Utvshow_tv-restream.m3u8
 #EXTINF:0,Live TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/mehdi22283/Blakc-Pars/refs/heads/main/Live_tv-restream.m3u8
+https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:0,EL TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Eltv-restream.m3u8
-#EXTINF:0,Buzovna TV
+#EXTINF:0,Səhiyyə TV
 #EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,GünAz TV
 #EXTGRP:Azərbaycan
 https://rasim.artfulads.net/live/livestream.flv

@@ -13,7 +13,7 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 #EXTINF:0,Real TV
 #EXTGRP:Azərbaycan
-http://edge02.odtv.az/o2/realtv/q_1/playlist.m3u8
+http://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Azərbaycan
 http://rtmp.apa.tv/@pagroup!23.m3u8
@@ -22,7 +22,7 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:Azərbaycan
-http://edge02.odtv.az/o7/arb24/q_1/playlist.m3u8
+http://str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8
 #EXTINF:0,ARB Günəş
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
@@ -433,7 +433,13 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_jivey_planet_tv-restream.m3u8
+http://80.245.93.242:9030/play/a013/index.m3u8
+#EXTINF:0,Zoo TV
+#EXTGRP:Rus
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:0,ZOOPARK TV
+#EXTGRP:Rus
+https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
@@ -494,9 +500,6 @@ http://31.148.48.15/Kino_TV/index.m3u8?token=test
 #EXTINF:0,Пятый канал
 #EXTGRP:Rus
 http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
-#EXTINF:0,Рен TV
-#EXTGRP:Rus
-http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:0,ОТР
 #EXTGRP:Rus
 http://94.230.128.105:8080/OTP/index.m3u8
@@ -518,15 +521,12 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_seria
 #EXTINF:0,Viju+ Premiere
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_premum-tv-restream.m3u8
-#EXTINF:0,Viasat Kino
-#EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viasat_kino_tv-restream.m3u8
 #EXTINF:0,VHS KA
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8
-#EXTINF:0,KinoPokaz
+#EXTINF:0,Viasat Kino
 #EXTGRP:Rus
-http://vps-2ddb54f0.vps.ovh.net/0110/tracks-v1a1/mono.m3u8?token=682FA43A429B
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viasat_kino_tv-restream.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:Rus
 http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8

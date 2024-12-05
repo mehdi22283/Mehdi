@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_tv-r
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mtvaz_fhd-restream.m3u8
 #EXTINF:0,Start TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kanal_s_fhd-restream.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ftvaz-restream.m3u8
@@ -95,6 +95,9 @@ https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-res
 #EXTINF:0,MEGA TV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
+#EXTINF:0,Mega TV War
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
 #EXTINF:0,ƏliQoşqar TV
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/aligoshgartv/index.m3u8
@@ -134,9 +137,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-r
 #EXTINF:0,AzadSöz TV
 #EXTGRP:Azərbaycan
 https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
-#EXTINF:0,Rihat TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -182,9 +182,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_Meyxan
 #EXTINF:0,CTV UŞAQ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_usaq_tv-restream.m3u8
-#EXTINF:0,SDM TV
+#EXTINF:0,Flux TV
 #EXTGRP:Azərbaycan
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+https://live.yayingold.com.tr/fluxtvaz/index.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8

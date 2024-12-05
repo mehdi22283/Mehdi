@@ -442,7 +442,10 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
-http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:0,Gags Network
+#EXTGRP:Rus
+http://hls127.homeiptv.org:8880/Gagsnetwork/video.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8
@@ -464,9 +467,6 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:0,Россия РТР
 #EXTGRP:Rus
 http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
-#EXTINF:0,Россия К
-#EXTGRP:Rus
-http://77.235.1.17/rossia_k_crdru/index.m3u8
 #EXTINF:0,THT
 #EXTGRP:Rus
 http://93.125.121.75/TNT_HD/index.m3u8?token=test

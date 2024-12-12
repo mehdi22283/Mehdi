@@ -19,7 +19,7 @@ http://str.yodacdn.net/real/tracks-v1a1/mono.m3u8
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:0,Baku TV
 #EXTGRP:Azərbaycan
-https://rtmp.baku.tv/live/bakutv_1080p.m3u8
+https://rtmp.baku.tv/streams/bakutv.m3u8
 #EXTINF:0,ARB 24
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Arb_fhd_tv
 http://str.yodacdn.net/ictimai/index.m3u8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
-https://edge02.odtv.az/o1/space/playlist.m3u8
+https://tv.mobyservice.ru/Space/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/atv-azad.m3u8
@@ -83,33 +83,24 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_C
 #EXTINF:0,HTV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Music_Yedek_tv-restream.m3u8
-#EXTINF:0,Teber Star
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Fox_Movies_tv-restream.m3u8
 #EXTINF:0,Araz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Araz_tv-restream.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-restream.m3u8
-#EXTINF:0,MEGA TV Musiqi
+#EXTINF:0,MEGA TV Musiqi 
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_tv-restream.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
 #EXTINF:0,Mega TV War
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
+https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:0,ƏliQoşqar TV
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-restream.m3u8
-#EXTINF:0,AkTv
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aktv-restream.m3u8
-#EXTINF:0,AkTV Serial
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aktv_serial-restream.m3u8
 #EXTINF:0,Dizi TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Dizi_tv-restream.m3u8
@@ -118,16 +109,16 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Dizi_
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_TvPlus_tv-restream.m3u8
 #EXTINF:0,Movie Max Azərbaycan 
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/925c6bdf12f3ec57edb31280d7e9568bb02d8b10/Azer_Max_Movies_tv-restream.m3u8
+https://live.yayingold.com.tr/moviemaxazlive/index.m3u8
 #EXTINF:0,New TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-restream.m3u8
 #EXTINF:0,Box TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Box_tv-restream.m3u8
-#EXTINF:0,Sirius TV
+#EXTINF:0,Rihat TV
 #EXTGRP:Azərbaycan
-https://tv208.radyotelekom.com.tr:3493/hybrid/play.m3u8
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-restream.m3u8
@@ -157,7 +148,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Stv_az_tv-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:0,GEM AZ
 #EXTGRP:Azərbaycan
-http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/64976
+http://216.66.42.47:7777/GemAZ_HD.m3u8
 #EXTINF:0,Ulduz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ulduztv-restream.m3u8
@@ -424,7 +415,7 @@ https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:0,Nat Geo Wild TÜRK
 #EXTGRP:Rus
-https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+http://vavoo.to/play/124345657/index.m3u8
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
 http://stream02.vnet.am/NatGeoWild/mono.m3u8

@@ -79,7 +79,7 @@ https://qebeletv.ozelip.net:3918/stream/play.m3u8
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Ismalli_tv-restream.m3u8
 #EXTINF:0,Həsən TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Cinema_Yedek_tv-restream.m3u8
+https://glb.bozztv.com/glb/ssh101/htvcinema/index.m3u8
 #EXTINF:0,HTV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Music_Yedek_tv-restream.m3u8
@@ -101,9 +101,6 @@ https://live.yayingold.com.tr/aligoshgartv/index.m3u8
 #EXTINF:0,Esma TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-restream.m3u8
-#EXTINF:0,Dizi TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Dizi_tv-restream.m3u8
 #EXTINF:0,TV Plus
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_TvPlus_tv-restream.m3u8
@@ -140,9 +137,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ari_Mugam_
 #EXTINF:0,Ayaz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ayaz_tv-restream.m3u8
-#EXTINF:0,Babək TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Stv_az_tv-restream.m3u8
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
@@ -608,21 +602,6 @@ https://BHf7hmM8Y9RRHoFCa70k2nkF5.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:0,TABİİ SPOR 6 HD
 #EXTGRP:Spor
 https://sSToObkb93QGEjJfkP4ny7nXD.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:0,FB TV HD
-#EXTGRP:Spor
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/chunklist_b996000_sltur.m3u8
-#EXTINF:0,GS TV HD
-#EXTGRP:Spor
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:0,CBC SPORT
-#EXTGRP:Spor
-https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
-#EXTINF:0,CBC SPORT HD
-#EXTGRP:Spor
-http://162.212.179.32/gin-dvrfl05/gin-cbc-sport/tracks-v1a1/mono.m3u8
-#EXTINF:0,İDMAN TV HD
-#EXTGRP:Spor
-http://162.212.179.32/gin-dvrfl05/gin-idmantv/tracks-v1a1/mono.m3u8
 #EXTINF:0,BEİN MOVİES ACTİON 1
 #EXTGRP:Sinema
 http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
@@ -728,15 +707,15 @@ http://stream.tvcdn.net/diger/uluslararasi-tv.m3u8
 #EXTINF:0,ONDE TV
 #EXTGRP:Sinema
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+#EXTINF:0,TV 48
+#EXTGRP:Sinema
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:0,KANAL 19
 #EXTGRP:Sinema
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV 25
 #EXTGRP:Sinema
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
-#EXTINF:0,TV 48
-#EXTGRP:Sinema
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:0,DENİZ POSTASI
 #EXTGRP:Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
@@ -872,9 +851,6 @@ https://esmatv.interweb.com.tr:3928/stream/play.m3u8
 #EXTINF:0,TTV SİNEMA
 #EXTGRP:Sinema
 https://ismayillitv7.interweb.com.tr:3436/hybrid/play.m3u8
-#EXTINF:0,MEGA TV
-#EXTGRP:Sinema
-https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 #EXTINF:0,ULDUZ TV
 #EXTGRP:Sinema
 https://ulduztv.interweb.com.tr:3266/stream/play.m3u8

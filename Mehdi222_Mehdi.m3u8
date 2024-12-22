@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:0,Maksim TV
-#EXTGRP:Azərbaycan
-http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Aztv-tv-restream.m3u8
+http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
-https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8
+https://str.yodacdn.net/medeniyyet/index.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
-https://edge02.odtv.az/o7/idman/playlist.m3u8
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
 #EXTINF:0,CBC SPORT TV
 #EXTGRP:Azərbaycan
 http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
@@ -107,9 +104,6 @@ https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-rest
 #EXTINF:0,TV Plus
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_TvPlus_tv-restream.m3u8
-#EXTINF:0,Movie Max Azərbaycan 
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/moviemaxazlive/index.m3u8
 #EXTINF:0,New TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-restream.m3u8
@@ -122,9 +116,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-
 #EXTINF:0,Doğru TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-restream.m3u8
-#EXTINF:0,AzadSöz TV
+#EXTINF:0,CMD MUSİC
 #EXTGRP:Azərbaycan
-https://cdn1-azadsozaztv.yayin.com.tr/azadsozaztv/azadsozaztv/playlist.m3u8
+https://live.yayingold.com.tr/cmdmusiclive/tracks-v1a1/mono.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -184,82 +178,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
 #EXTINF:0,A2
 #EXTGRP:Türk
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
-#EXTINF:0,beIN Box Office 1 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
-#EXTINF:0,beIN Box Office 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
-#EXTINF:0,beIN Box Office 3 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
-#EXTINF:0,BeIN Series 1
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6455.m3u8
-#EXTINF:0,BeIN Series 2
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6456.m3u8
-#EXTINF:0,BeIN Series 2 HD
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
-#EXTINF:0,beIN Movies Family HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
-#EXTINF:0,beIN Movies Premiere HD TR
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6451.ts
-#EXTINF:0,beIN Movies Premiere 2 HD TR
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
-#EXTINF:0,BeIN MOVIES STARS HD TR
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6453.ts
-#EXTINF:0,FilmBox TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/99048.ts
-#EXTINF:0,Sinema TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6467.m3u8
-#EXTINF:0,Sinema Aksiyon
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6465.m3u8
-#EXTINF:0,Sinema Aksiyon 2
-#EXTGRP:Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
-#EXTINF:0,Kanal 10
-#EXTGRP:Türk
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Kanal10/chunklist_w1439322589.m3u8
-#EXTINF:0,Marvel Studios
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6362.m3u8
-#EXTINF:0,Blue TV Boxet Sinema
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6012.m3u8
-#EXTINF:0,Blue TV Çocuk
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6156.m3u8
-#EXTINF:0,CinemaXmum
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6120.m3u8
-#EXTINF:0,Max Aksiyon
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6054.m3u8
-#EXTINF:0,DiziSmartPremium
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6472.m3u8
-#EXTINF:0,En Vizyon
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6034.m3u8
-#EXTINF:0,Dream Korku
-#EXTGRP:Türk
-http://tvr.lol:80/live/peter/peter01/898.ts
-#EXTINF:0,TBRT 1
-#EXTGRP:Türk
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT1/chunklist_w1409163303.m3u8
-#EXTINF:0,TBRT 2
-#EXTGRP:Türk
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/TBRT_2/chunklist_w107231613.m3u8
+https://c.fulltvizle.com/a2/index.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Türk
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -269,9 +188,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0,CINE5
 #EXTGRP:Türk
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:Türk
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 #EXTINF:0,Dream Türk
 #EXTGRP:Türk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
@@ -299,9 +215,6 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist_w957851671.m3u8
 #EXTINF:0,NOW
 #EXTGRP:Türk
 https://c.fulltvizle.com/fox/index.m3u8
-#EXTINF:0,Kuzey Kıbrıs TV
-#EXTGRP:Türk
-https://kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:0,LIFE TV
 #EXTGRP:Türk
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -337,10 +250,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/showmax.m3
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0,STAR EURO
 #EXTGRP:Türk
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/eurostar.m3u8
-#EXTINF:0,SuperTurk TV
-#EXTGRP:Türk
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:0,TMB
 #EXTGRP:Türk
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m3u8
@@ -362,9 +272,6 @@ http://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:0,Tivi Türk
 #EXTGRP:Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0,Ton TV
-#EXTGRP:Türk
-http://vip.torktv.org:2095/live/grhn9626/gr00/6565.m3u8
 #EXTINF:0,TV 4
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -373,7 +280,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
-https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+http://185.234.111.229:8000/play/a01x
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Rus
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8

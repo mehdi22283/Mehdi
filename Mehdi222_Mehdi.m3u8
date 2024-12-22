@@ -417,20 +417,80 @@ http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTGRP:Rus
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:0,BEİN SPORTS 1 HD
-#EXTGRP:Spor
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5849.ts
-#EXTINF:0,BEİN SPORTS 2 HD
-#EXTGRP:Spor
+#EXTINF:0,BeİN Sports 2 HD
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
-#EXTINF:0,BEİN SPORTS 3 HD
-#EXTGRP:Spor
+#EXTINF:0,BeİN SPORTS 3 HD
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
 #EXTINF:0,BEİN SPORTS 4 HD
-#EXTGRP:Spor
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
 #EXTINF:0,BEİN SPORTS MAX 1
-#EXTGRP:Spor
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
 #EXTINF:0,BEİN SPORTS MAX 2
-#EXTGRP:Spor
+#EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
+#EXTINF:0,BEİN MOVİES ACTİON 1
+#EXTGRP:Sinema
+http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
+#EXTINF:0,BEİN MOVİES ACTİON 2
+#EXTGRP:Sinema
+http://relaxsrv.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
+#EXTINF:0,BEİN MOVİES PREMİERE
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6451.ts
+#EXTINF:0,BEİN MOVİES STARS
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6453.ts
+#EXTINF:0,BEİN MOVİES TÜRK
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6454.ts
+#EXTINF:0,MOVİE SMART TÜRK
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6461.ts
+#EXTINF:0,MOVİE SMART CLASSİC
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
+#EXTINF:0,FİL TV
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
+#EXTINF:0,FİLMAX
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
+#EXTINF:0,FİLM CLUP
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
+#EXTINF:0,FİLM CLUP AKSİYON
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
+#EXTINF:0,FİLM CLUP KOMEDİ
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
+#EXTINF:0,SİNEMA TV
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6467.ts
+#EXTINF:0,SİNEMA AKSİYON
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
+#EXTINF:0,FİLMBOX
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
+#EXTINF:0,SDM TV SİNEMA
+#EXTGRP:Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,TEBER STAR 1
+#EXTGRP:Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w1724944669.m3u8
+#EXTINF:0,TEBER STAR 2
+#EXTGRP:Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist_w1125163502.m3u8
+#EXTINF:0,TEBER STAR 3
+#EXTGRP:Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star3/chunklist_w1973184369.m3u8
+#EXTINF:0,TEBER CİNE 4
+#EXTGRP:Sinema
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/CINE_6/chunklist_w69494222.m3u8

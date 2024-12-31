@@ -86,6 +86,9 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_M
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-restream.m3u8
+#EXTINF:0,Mega TV NETFLİX
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Azer_Movies_Max_tv-restream.m3u8
 #EXTINF:0,MEGA TV Musiqi 
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
@@ -119,6 +122,15 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-r
 #EXTINF:0,CMD MUSİC
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/cmdmusiclive/tracks-v1a1/mono.m3u8
+#EXTINF:0,CTV MEYXANA
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Ctv_Meyxana-restream.m3u8
+#EXTINF:0,CTV MUSİQİ
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_muzik-restream.m3u8
+#EXTINF:0,CTV RETRO MUSİQİ
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Dogru_tv-restream.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
@@ -131,9 +143,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:0,Buzovna TV
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
-#EXTINF:0,CTV MUSİQİ
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_muzik-restream.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -152,18 +161,18 @@ https://rasim.artfulads.net/live/livestream.flv
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
 http://str.yodacdn.net/showplus/index.m3u8
-#EXTINF:0,EL TV
+#EXTINF:0,Könül TV
 #EXTGRP:Azərbaycan
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:0,Səs TV
 #EXTGRP:Azərbaycan
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 #EXTINF:0,Qədər TV
 #EXTGRP:Azərbaycan
 https://tv208.radyotelekom.com.tr:3694/stream/play.m3u8
-#EXTINF:0,Könül TV
+#EXTINF:0,Retro TV
 #EXTGRP:Azərbaycan
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Retro_az_tv-restream.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -284,6 +293,9 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
 http://185.234.111.229:8000/play/a01x
+#EXTINF:0,Viju+MegaHit
+#EXTGRP:Rus
+http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Rus
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
@@ -371,9 +383,6 @@ http://109.107.189.180/10121/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,Viju+ Premiere
 #EXTGRP:Rus
 http://109.107.189.180/10115/tracks-v1a1/mono.m3u8?token=E00A43CA1091
-#EXTINF:0,Viju+MegaHit
-#EXTGRP:Rus
-http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,VHS KA
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8

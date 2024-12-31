@@ -89,6 +89,9 @@ https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-res
 #EXTINF:0,MEGA TV Musiqi 
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
+#EXTINF:0,Mega Komediya
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/megakomedia/index.m3u8
 #EXTINF:0,Mega TV War
 #EXTGRP:Azərbaycan
 https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
@@ -148,7 +151,19 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Eltv-restr
 https://rasim.artfulads.net/live/livestream.flv
 #EXTINF:0,Show Plus TV
 #EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/showplus/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+http://str.yodacdn.net/showplus/index.m3u8
+#EXTINF:0,EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:0,Səs TV
+#EXTGRP:Azərbaycan
+http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
+#EXTINF:0,Qədər TV
+#EXTGRP:Azərbaycan
+https://tv208.radyotelekom.com.tr:3694/stream/play.m3u8
+#EXTINF:0,Könül TV
+#EXTGRP:Azərbaycan
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -257,9 +272,6 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:0,TRT 1
 #EXTGRP:Türk
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT 2
-#EXTGRP:Türk
-http://hw1.jemtv.com/app/trt2/chunks.m3u8
 #EXTINF:0,Tivi Türk
 #EXTGRP:Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -296,9 +308,6 @@ https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
-#EXTINF:0,Gags Network
-#EXTGRP:Rus
-https://mhd116.iptv2022.com/p/9AAx9Pua8BwoNmdB-tbTiw,1734037214/streaming/gagsnetwork/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8
@@ -311,18 +320,15 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8?vsid=ts6si08bgopg2je
 #EXTINF:0,Первый
 #EXTGRP:Rus
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,RU TV
-#EXTGRP:Rus
-http://edge02.odtv.az/o7/rutv/playlist.m3u8
 #EXTINF:0,Россия 1
 #EXTGRP:Rus
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:0,Россия РТР
 #EXTGRP:Rus
-http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
+http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:0,THT
 #EXTGRP:Rus
-http://93.125.121.75/TNT_HD/index.m3u8?token=test
+http://54.37.138.30/00002/tracks-v1a1/mono.m3u8?token=23BF9E58C622
 #EXTINF:0,Приключения
 #EXTGRP:Rus
 http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
@@ -344,9 +350,6 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,RTД
 #EXTGRP:Rus
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:0,Точка ТV
-#EXTGRP:Rus
-https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 #EXTINF:0,Кино TV
 #EXTGRP:Rus
 http://31.148.48.15/Kino_TV/index.m3u8?token=test
@@ -359,21 +362,18 @@ http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:0,RTG
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
-#EXTINF:0,Север TV
-#EXTGRP:Rus
-https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:0,.Sci Fi
 #EXTGRP:Rus
 http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:0,Könül TV
-#EXTGRP:Rus
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:0,Viju+ Serial
 #EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_serial_tv-restream.m3u8
+http://109.107.189.180/10121/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,Viju+ Premiere
 #EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viji_premum-tv-restream.m3u8
+http://109.107.189.180/10115/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:0,Viju+MegaHit
+#EXTGRP:Rus
+http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,VHS KA
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8
@@ -404,9 +404,6 @@ http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:0,Кинокомедия
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:0,Родное кино
-#EXTGRP:Rus
-http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:0,Geleceğe Dönüş
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
@@ -482,9 +479,3 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w172494
 #EXTINF:0,TEBER STAR 2
 #EXTGRP:Sinema
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist_w1125163502.m3u8
-#EXTINF:0,TEBER STAR 3
-#EXTGRP:Sinema
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star3/chunklist_w1973184369.m3u8
-#EXTINF:0,TEBER CİNE 4
-#EXTGRP:Sinema
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/CINE_6/chunklist_w69494222.m3u8

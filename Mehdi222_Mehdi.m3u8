@@ -116,9 +116,6 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-r
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-restream.m3u8
-#EXTINF:0,Doğru TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dogru_tv-restream.m3u8
 #EXTINF:0,CMD MUSİC
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/cmdmusiclive/tracks-v1a1/mono.m3u8
@@ -293,9 +290,6 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
 http://185.234.111.229:8000/play/a01x
-#EXTINF:0,Viju+MegaHit
-#EXTGRP:Rus
-http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,TRT Belgesel
 #EXTGRP:Rus
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
@@ -383,6 +377,9 @@ http://109.107.189.180/10121/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,Viju+ Premiere
 #EXTGRP:Rus
 http://109.107.189.180/10115/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:0,Viju+MegaHit
+#EXTGRP:Rus
+http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
 #EXTINF:0,VHS KA
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8

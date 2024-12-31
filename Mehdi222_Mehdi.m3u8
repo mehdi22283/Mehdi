@@ -101,9 +101,6 @@ https://tv208.radyotelekom.com.tr:3335/stream/play.m3u8
 #EXTINF:0,ƏliQoşqar TV
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/aligoshgartv/index.m3u8
-#EXTINF:0,Esma TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-restream.m3u8
 #EXTINF:0,TV Plus
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_TvPlus_tv-restream.m3u8
@@ -113,12 +110,24 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/New_tv-res
 #EXTINF:0,Rihat TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rihad_tv-restream.m3u8
+#EXTINF:0,Kanal 4
+#EXTGRP:Azərbaycan
+https://tv208.radyotelekom.com.tr:3126/hybrid/play.m3u8
 #EXTINF:0,Şirvan TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Sirvan_tv-restream.m3u8
+#EXTINF:0,Buzovna TV
+#EXTGRP:Azərbaycan
+https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
+#EXTINF:0,SBN TV
+#EXTGRP:Azərbaycan
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,CMD MUSİC
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/cmdmusiclive/tracks-v1a1/mono.m3u8
+#EXTINF:0,Esma TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Esmatv-restream.m3u8
 #EXTINF:0,CTV MEYXANA
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Ctv_Meyxana-restream.m3u8
@@ -130,16 +139,13 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_muzik-
 https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Dogru_tv-restream.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
-http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:0,Ayaz TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ayaz_tv-restream.m3u8
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:0,Buzovna TV
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -170,6 +176,9 @@ https://tv208.radyotelekom.com.tr:3694/stream/play.m3u8
 #EXTINF:0,Retro TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Anani-Bacini-Sikim-Lingi-Ogurlayib-Lisdesine-vuran-Qandon-Peyser-Qehbenin-Balasi-Varyoxsus-Cindir/refs/heads/main/Retro_az_tv-restream.m3u8
+#EXTINF:0,Səhiyyə TV
+#EXTGRP:Azərbaycan
+http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 #EXTINF:0,360 TV
 #EXTGRP:Türk
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -343,7 +352,7 @@ http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:0,HTB Сериал
 #EXTGRP:Rus
-http://77.235.1.17/ntv_serial/index.m3u8
+https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:0,Cinema
 #EXTGRP:Rus
 http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
@@ -478,7 +487,7 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
 #EXTINF:0,SDM TV SİNEMA
 #EXTGRP:Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:0,TEBER STAR 1
 #EXTGRP:Sinema
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w1724944669.m3u8

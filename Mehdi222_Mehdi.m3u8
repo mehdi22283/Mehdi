@@ -419,12 +419,15 @@ http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:0,Кинокомедия
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:0,Geleceğe Dönüş
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
 #EXTINF:0,BEİN SPORTS 1 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5849.ts
+#EXTINF:0,BeİN Sports 2 HD
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
+#EXTINF:0,BeİN SPORTS 3 HD
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
 #EXTINF:0,BEİN SPORTS 4 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
@@ -434,12 +437,9 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
 #EXTINF:0,BEİN SPORTS MAX 2
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
-#EXTINF:0,BeİN Sports 2 HD
+#EXTINF:0,Geleceğe Dönüş
 #EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
-#EXTINF:0,BeİN SPORTS 3 HD
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
 #EXTINF:0,BEİN MOVİES ACTİON 1
 #EXTGRP:Sinema
 http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
@@ -452,12 +452,6 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6451.ts
 #EXTINF:0,BEİN MOVİES STARS
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6453.ts
-#EXTINF:0,BEİN MOVİES TÜRK
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6454.ts
-#EXTINF:0,MOVİE SMART TÜRK
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6461.ts
 #EXTINF:0,MOVİE SMART CLASSİC
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
@@ -485,12 +479,3 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
 #EXTINF:0,FİLMBOX
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
-#EXTINF:0,SDM TV SİNEMA
-#EXTGRP:Sinema
-https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
-#EXTINF:0,TEBER STAR 1
-#EXTGRP:Sinema
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber-star1/chunklist_w1724944669.m3u8
-#EXTINF:0,TEBER STAR 2
-#EXTGRP:Sinema
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/Teber_star_tv2/chunklist_w1125163502.m3u8

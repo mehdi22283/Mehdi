@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/aztv/index.m3u8
+https://tv.mobyservice.ru/AZTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Mədəniyyət TV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/medeniyyet/index.m3u8
@@ -28,22 +28,22 @@ http://str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0,ARB
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Arb_fhd_tv-restream.m3u8
+https://tv.mobyservice.ru/ARB/tracks-v1a1/mono.m3u8
 #EXTINF:0,İctimai TV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/ictimai/index.m3u8
+http://141.94.251.52/11445/tracks-v1a1/mono.m3u8?token=B26A105E64A8
 #EXTINF:0,Space TV
 #EXTGRP:Azərbaycan
 https://tv.mobyservice.ru/Space/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/atv-azad.m3u8
+https://tv.mobyservice.ru/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV Cinema
 #EXTGRP:Azərbaycan
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 #EXTINF:0,Xəzər TV
 #EXTGRP:Azərbaycan
-http://str.yodacdn.net/xazar/index.m3u8
+https://tv.mobyservice.ru/Hazar/index.m3u8
 #EXTINF:0,Dünya TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_tv-restream.m3u8
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Dunya_tv-r
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mtvaz_fhd-restream.m3u8
 #EXTINF:0,Start TV
 #EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+http://141.94.251.52/11443/tracks-v1a1/mono.m3u8?token=FA2B66A1EDB4
 #EXTINF:0,FTV AZ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ftvaz-restream.m3u8
@@ -83,9 +83,6 @@ https://glb.bozztv.com/glb/ssh101/htvcinema/index.m3u8
 #EXTINF:0,HTV Musiqi
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Azer_Htv_Music_Yedek_tv-restream.m3u8
-#EXTINF:0,Araz TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Araz_tv-restream.m3u8
 #EXTINF:0,MEGA TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Mega_tv-restream.m3u8
@@ -128,18 +125,12 @@ https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ayaz_tv-re
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:0,Ulduz TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ulduztv-restream.m3u8
 #EXTINF:0,Buzovna TV
 #EXTGRP:Azərbaycan
 https://live.yayingold.com.tr/buzovnatvlive/index.m3u8
 #EXTINF:0,CTV MUSİQİ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Ctv_muzik-restream.m3u8
-#EXTINF:0,Flux TV
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/fluxtvaz/index.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -292,7 +283,7 @@ http://vavoo.to/play/124345657/index.m3u8
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:0,Animal Planet
 #EXTGRP:Rus
-http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+http://stream2.cinerama.uz/1043/index.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
@@ -416,15 +407,12 @@ http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTINF:0,Родное кино
 #EXTGRP:Rus
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:0,Geleceğe Dönüş
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
 #EXTINF:0,BEİN SPORTS 1 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5849.ts
-#EXTINF:0,BeİN Sports 2 HD
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
-#EXTINF:0,BeİN SPORTS 3 HD
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
 #EXTINF:0,BEİN SPORTS 4 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
@@ -434,6 +422,12 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
 #EXTINF:0,BEİN SPORTS MAX 2
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
+#EXTINF:0,BeİN Sports 2 HD
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/104794.ts
+#EXTINF:0,BeİN SPORTS 3 HD
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
 #EXTINF:0,BEİN MOVİES ACTİON 1
 #EXTGRP:Sinema
 http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts

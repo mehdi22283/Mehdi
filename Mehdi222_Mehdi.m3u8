@@ -299,144 +299,6 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:0,TV 8 INT
 #EXTGRP:Türk
 http://185.234.111.229:8000/play/a01x
-#EXTINF:0,TRT Belgesel
-#EXTGRP:Rus
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:0,Nat Geo Wild TÜRK
-#EXTGRP:Rus
-http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
-#EXTINF:0,Nat Geo Wild TÜRK (Rez)
-#EXTGRP:Rus
-http://vavoo.to/play/124345657/index.m3u8
-#EXTINF:0,Nat Geo Wild RUS
-#EXTGRP:Rus
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Rus
-http://stream2.cinerama.uz/1043/index.m3u8
-#EXTINF:0,Живая Планета
-#EXTGRP:Rus
-http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:0,Love Nature 4K
-#EXTGRP:Rus
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0,Love Nature
-#EXTGRP:Rus
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
-#EXTINF:0,ZOOPARK TV
-#EXTGRP:Rus
-https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:0,Viju Nature
-#EXTGRP:Rus
-https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
-#EXTINF:0,МАТЧ! Боец
-#EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8
-#EXTINF:0,Fight Box
-#EXTGRP:Rus
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:0,UDAR TV
-#EXTGRP:Rus
-https://strm.yandex.ru/kal/udar/udar0.m3u8?vsid=ts6si08bgopg2je
-#EXTINF:0,Первый
-#EXTGRP:Rus
-http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Россия 1
-#EXTGRP:Rus
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:0,Россия РТР
-#EXTGRP:Rus
-http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:0,THT
-#EXTGRP:Rus
-http://54.37.138.30/00002/tracks-v1a1/mono.m3u8?token=23BF9E58C622
-#EXTINF:0,Приключения
-#EXTGRP:Rus
-http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Rus
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:0,HTB Сериал
-#EXTGRP:Rus
-https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP:Rus
-http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kino 1
-#EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kino-1_tv-restream.m3u8
-#EXTINF:0,ТВ Центр
-#EXTGRP:Rus
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,RTД
-#EXTGRP:Rus
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:0,Кино TV
-#EXTGRP:Rus
-http://31.148.48.15/Kino_TV/index.m3u8?token=test
-#EXTINF:0,Пятый канал
-#EXTGRP:Rus
-http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
-#EXTINF:0,ОТР
-#EXTGRP:Rus
-http://94.230.128.105:8080/OTP/index.m3u8
-#EXTINF:0,RTG
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
-#EXTINF:0,.Sci Fi
-#EXTGRP:Rus
-http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
-#EXTINF:0,Viju+ Serial
-#EXTGRP:Rus
-http://109.107.189.180/10121/tracks-v1a1/mono.m3u8?token=E00A43CA1091
-#EXTINF:0,Viju+ Premiere
-#EXTGRP:Rus
-http://109.107.189.180/10115/tracks-v1a1/mono.m3u8?token=E00A43CA1091
-#EXTINF:0,Viju+MegaHit
-#EXTGRP:Rus
-http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
-#EXTINF:0,Viju TV1000
-#EXTGRP:Rus
-https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
-#EXTINF:0,Viju TV1000 Action
-#EXTGRP:Rus
-https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:0,Viju TV1000 Русскoe
-#EXTGRP:Rus
-https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:0,VHS KA
-#EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8
-#EXTINF:0,Viasat Kino World
-#EXTGRP:Rus
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viasat_kino_tv-restream.m3u8
-#EXTINF:0,Viasat Kino Action
-#EXTGRP:Rus
-http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:0,Наше Новое Кино
-#EXTGRP:Rus
-http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:0,Кинохит
-#EXTGRP:Rus
-http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:0,Киноcвиданиe
-#EXTGRP:Rus
-http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:0,Киносемья
-#EXTGRP:Rus
-http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-#EXTINF:0,Киносерия
-#EXTGRP:Rus
-http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
-#EXTINF:0,Кинопремьера
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:0,Кинокомедия
-#EXTGRP:Rus
-http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTINF:0,BEİN MOVİES ACTİON 1
 #EXTGRP:Film
 http://tvr.lol:80/live/uweeniste/mr9nwSZF99Wd/784.ts
@@ -587,3 +449,141 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6820/index.m3u8
 #EXTINF:0,beIN Sports 4 HD TR
 #EXTGRP:Film
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6822/index.m3u8
+#EXTINF:0,TRT Belgesel
+#EXTGRP:Rus
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:0,Nat Geo Wild TÜRK
+#EXTGRP:Rus
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:0,Nat Geo Wild TÜRK (Rez)
+#EXTGRP:Rus
+http://vavoo.to/play/124345657/index.m3u8
+#EXTINF:0,Nat Geo Wild RUS
+#EXTGRP:Rus
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Rus
+http://stream2.cinerama.uz/1043/index.m3u8
+#EXTINF:0,Живая Планета
+#EXTGRP:Rus
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:0,Love Nature 4K
+#EXTGRP:Rus
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0,Love Nature
+#EXTGRP:Rus
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
+#EXTINF:0,ZOOPARK TV
+#EXTGRP:Rus
+https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viju Nature
+#EXTGRP:Rus
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:0,МАТЧ! Боец
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8
+#EXTINF:0,Fight Box
+#EXTGRP:Rus
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:0,UDAR TV
+#EXTGRP:Rus
+https://strm.yandex.ru/kal/udar/udar0.m3u8?vsid=ts6si08bgopg2je
+#EXTINF:0,Первый
+#EXTGRP:Rus
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,Россия 1
+#EXTGRP:Rus
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0,Россия РТР
+#EXTGRP:Rus
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:0,THT
+#EXTGRP:Rus
+http://54.37.138.30/00002/tracks-v1a1/mono.m3u8?token=23BF9E58C622
+#EXTINF:0,Приключения
+#EXTGRP:Rus
+http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Rus
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:0,HTB Сериал
+#EXTGRP:Rus
+https://cdn.ntv.ru/th_serial/index.m3u8
+#EXTINF:0,Cinema
+#EXTGRP:Rus
+http://185.46.48.18/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kino 1
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Kino-1_tv-restream.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP:Rus
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,RTД
+#EXTGRP:Rus
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,Кино TV
+#EXTGRP:Rus
+http://31.148.48.15/Kino_TV/index.m3u8?token=test
+#EXTINF:0,Пятый канал
+#EXTGRP:Rus
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
+#EXTINF:0,ОТР
+#EXTGRP:Rus
+http://94.230.128.105:8080/OTP/index.m3u8
+#EXTINF:0,RTG
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
+#EXTINF:0,.Sci Fi
+#EXTGRP:Rus
+http://mfe01.cliptv.az:80/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:0,Viju+ Serial
+#EXTGRP:Rus
+http://109.107.189.180/10121/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:0,Viju+ Premiere
+#EXTGRP:Rus
+http://109.107.189.180/10115/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:0,Viju+MegaHit
+#EXTGRP:Rus
+http://109.107.189.180/10117/tracks-v1a1/mono.m3u8?token=E00A43CA1091
+#EXTINF:0,Viju TV1000
+#EXTGRP:Rus
+https://stream1.cinerama.uz/1058/tracks-v2a1/mono.m3u8
+#EXTINF:0,Viju TV1000 Action
+#EXTGRP:Rus
+https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:0,Viju TV1000 Русскoe
+#EXTGRP:Rus
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:0,VHS KA
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Vhs-ka_tv-restream.m3u8
+#EXTINF:0,Viasat Kino World
+#EXTGRP:Rus
+https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Viasat_kino_tv-restream.m3u8
+#EXTINF:0,Viasat Kino Action
+#EXTGRP:Rus
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
+#EXTINF:0,Наше Новое Кино
+#EXTGRP:Rus
+http://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мужское кино
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:0,Кинохит
+#EXTGRP:Rus
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:0,Киноcвиданиe
+#EXTGRP:Rus
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:0,Киносемья
+#EXTGRP:Rus
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:0,Киносерия
+#EXTGRP:Rus
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:0,Кинопремьера
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:0,Кинокомедия
+#EXTGRP:Rus
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd

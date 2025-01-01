@@ -521,3 +521,48 @@ http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6820/index.m3u8
 #EXTINF:0,beIN Sports 4 HD TR
 #EXTGRP:Sinema
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6822/index.m3u8
+#EXTINF:0,BEİN MOVİES ACTİON 1
+#EXTGRP:Sinema
+http://tvr.lol:80/live/uweeniste/mr9nwSZF99Wd/784.ts
+#EXTINF:0,BEİN MOVİES ACTİON 2
+#EXTGRP:Sinema
+http://relaxsrv.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
+#EXTINF:0,BEİN MOVİES PREMİERE
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6451.ts
+#EXTINF:0,BEİN MOVİES STARS
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6453.ts
+#EXTINF:0,BEİN MOVİES TÜRK
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6454.ts
+#EXTINF:0,MOVİE SMART TÜRK
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6461.ts
+#EXTINF:0,MOVİE SMART CLASSİC
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
+#EXTINF:0,FİL TV
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
+#EXTINF:0,FİLMAX
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
+#EXTINF:0,FİLM CLUP
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
+#EXTINF:0,FİLM CLUP AKSİYON
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
+#EXTINF:0,FİLM CLUP KOMEDİ
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
+#EXTINF:0,SİNEMA TV
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6467.ts
+#EXTINF:0,SİNEMA AKSİYON
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
+#EXTINF:0,FİLMBOX
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts

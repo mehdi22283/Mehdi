@@ -193,7 +193,7 @@ https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Türk
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://c.fulltvizle.com/aytv/index.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:Türk
 https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
@@ -314,18 +314,18 @@ http://stream2.cinerama.uz/1043/index.m3u8
 #EXTINF:0,Живая Планета
 #EXTGRP:Rus
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:0,Love Nature 4K
-#EXTGRP:Rus
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:0,Love Nature
-#EXTGRP:Rus
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
 #EXTINF:0,ZOOPARK TV
 #EXTGRP:Rus
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viju Nature
 #EXTGRP:Rus
 https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:0,Love Nature 4K
+#EXTGRP:Rus
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:0,Love Nature
+#EXTGRP:Rus
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
 #EXTINF:0,МАТЧ! Боец
 #EXTGRP:Rus
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Rossia_mach_boec_tv-restream.m3u8

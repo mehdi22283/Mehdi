@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,MEGA TV Musiqi
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Mega_muzik_tv-restream.m3u8
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
 https://tv.mobyservice.ru/AZTV/tracks-v1a1/mono.m3u8
@@ -467,6 +464,9 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
 #EXTINF:0,FİLMBOX
 #EXTGRP:Film
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
+#EXTINF:0,Exxen TV
+#EXTGRP:Film
+https://tre.2b4a9bb526bd2acb.shop/i/exxen/4011/playlist.m3u8
 #EXTINF:0,beIN Box Office 1 HD TR
 #EXTGRP:Film
 http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8

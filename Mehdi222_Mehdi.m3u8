@@ -304,7 +304,7 @@ http://185.234.111.229:8000/play/a01x
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:0,Nat Geo Wild TÜRK
 #EXTGRP:Rus
-http://vavoo.to/play/124345657/index.m3u8
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
 #EXTINF:0,Nat Geo Wild RUS
 #EXTGRP:Rus
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
@@ -316,7 +316,7 @@ http://stream2.cinerama.uz/1043/index.m3u8
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 #EXTINF:0,Love Nature
 #EXTGRP:Rus
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6864/index.m3u8
 #EXTINF:0,ZOOPARK TV
 #EXTGRP:Rus
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
@@ -419,6 +419,126 @@ http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:0,Кинокомедия
 #EXTGRP:Rus
 http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:0,beIN Box Office 3 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
+#EXTINF:0,beIN Box Office 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
+#EXTINF:0,beIN Sports 1 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6781/index.m3u8EXTINF:0,DiziSmart Premium TR#EXTGRP:Турция | Türkhttp://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6802/index.m3u8
+#EXTINF:0,Fox Crime TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6803/index.m3u8
+#EXTINF:0,beIN Gurme HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6804/index.m3u8
+#EXTINF:0,FX HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6805/index.m3u8
+#EXTINF:0,Sinema TV Aile TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6806/index.m3u8
+#EXTINF:0,Movie Smart Turk TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6807/index.m3u8
+#EXTINF:0,Movie Smart Classic HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6811/index.m3u8
+#EXTINF:0,Movie Smart Action TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
+#EXTINF:0,beIN Series Vice TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6813/index.m3u8
+#EXTINF:0,beIN Series Sci-fi TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
+#EXTINF:0,beIN Sports 1 (Yedek) HD TR
+#EXTGRP:Türk
+https://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6781/index.m3u8
+#EXTINF:0,beIN Sports 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6818/index.m3u8
+#EXTINF:0,beIN Sports 3 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6820/index.m3u8
+#EXTINF:0,SİNEMA AİLE HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31223/index.m3u8
+#EXTINF:0,beIN Sports 4 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6822/index.m3u8
+#EXTINF:0,beIN Box Office 1 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
+#EXTINF:0,beIN Movies Action 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6876/index.m3u8
+#EXTINF:0,beIN Movies Action HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6877/index.m3u8
+#EXTINF:0,beIN Movies Family HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
+#EXTINF:0,beIN Movies Premiere 2 HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
+#EXTINF:0,beIN Movies Premiere HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6880/index.m3u8
+#EXTINF:0,beIN Series Comedy HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6881/index.m3u8
+#EXTINF:0,beIN Series Drama HD TR
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6882/index.m3u8
+#EXTINF:0,SİNEMA 1002 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31221/index.m3u8
+#EXTINF:0,SİNEMA AİLE 2 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31222/index.m3u8
+#EXTINF:0,SİNEMA AKSİYON 2 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31224/index.m3u8
+#EXTINF:0,SİNEMA KOMEDİ HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31225/index.m3u8
+#EXTINF:0,SİNEMA TV 1001 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31226/index.m3u8
+#EXTINF:0,SİNEMA TV 2 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31227/index.m3u8
+#EXTINF:0,SİNEMA TV AKSİYON HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31228/index.m3u8
+#EXTINF:0,SİNEMA TV HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31229/index.m3u8
+#EXTINF:0,SİNEMA YERLİ 2 HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31230/index.m3u8
+#EXTINF:0,SİNEMA YERLİ HD
+#EXTGRP:Türk
+http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31231/index.m3u8
+#EXTINF:0,BEİN SPORTS MAX 1
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
+#EXTINF:0,BEİN SPORTS MAX 2
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
+#EXTINF:0,Geleceğe Dönüş
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
+#EXTINF:0,MOVİE SMART CLASSİC
+#EXTGRP:Sinema
+http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
+#EXTINF:0,BEİN MOVİES ACTİON 1
+#EXTGRP:Sinema
+http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
 #EXTINF:0,BEİN SPORTS 1 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5849.ts
@@ -431,18 +551,6 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5858.ts
 #EXTINF:0,BEİN SPORTS 4 HD
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5861.ts
-#EXTINF:0,BEİN SPORTS MAX 1
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5864.ts
-#EXTINF:0,BEİN SPORTS MAX 2
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/5865.ts
-#EXTINF:0,Geleceğe Dönüş
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/130649.m3u8
-#EXTINF:0,BEİN MOVİES ACTİON 1
-#EXTGRP:Sinema
-http://tvr.lol:80/live/p3Uj2sSuZ5Ec/kygVTXF2nYJz/784.ts
 #EXTINF:0,BEİN MOVİES ACTİON 2
 #EXTGRP:Sinema
 http://relaxsrv.xyz:8080/live/Hasan675/WPku9RbX8r3/6199.ts
@@ -452,21 +560,18 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6451.ts
 #EXTINF:0,BEİN MOVİES STARS
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6453.ts
-#EXTINF:0,MOVİE SMART CLASSİC
-#EXTGRP:Sinema
-http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6458.ts
 #EXTINF:0,FİL TV
 #EXTGRP:Sinema
 http://izlesstvrs.xyz:80/live/urar139/24022022erd/270756.ts
-#EXTINF:0,FİLMAX
-#EXTGRP:Sinema
-http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
 #EXTINF:0,FİLM CLUP
 #EXTGRP:Sinema
 http://izlesstvrs.xyz:80/live/urar139/24022022erd/270754.ts
 #EXTINF:0,FİLM CLUP AKSİYON
 #EXTGRP:Sinema
 http://izlesstvrs.xyz:80/live/urar139/24022022erd/270753.ts
+#EXTINF:0,FİLMAX
+#EXTGRP:Sinema
+http://izlesstvrs.xyz:80/live/urar139/24022022erd/270755.ts
 #EXTINF:0,FİLM CLUP KOMEDİ
 #EXTGRP:Sinema
 http://izlesstvrs.xyz:80/live/urar139/24022022erd/270751.ts
@@ -479,127 +584,3 @@ http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/6465.ts
 #EXTINF:0,FİLMBOX
 #EXTGRP:Sinema
 http://vip.torktv.org:2095/live/Hdyt5516/Dyt5516/99048.ts
-#EXTINF:0,beIN Box Office 3 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6743/index.m3u8
-#EXTINF:0,beIN Box Office 1 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6744/index.m3u8
-#EXTINF:0,beIN Box Office 2 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6745/index.m3u8
-#EXTINF:0,beIN Sports 1 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6781/index.m3u8
-EXTINF:0,DiziSmart Premium TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6802/index.m3u8
-#EXTINF:0,Fox Crime TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6803/index.m3u8
-#EXTINF:0,beIN Gurme HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6804/index.m3u8
-#EXTINF:0,FX HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6805/index.m3u8
-#EXTINF:0,Sinema TV Aile TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6806/index.m3u8
-#EXTINF:0,Movie Smart Turk TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6807/index.m3u8
-#EXTINF:0,Movie Smart Classic HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6811/index.m3u8
-#EXTINF:0,Movie Smart Action TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6812/index.m3u8
-#EXTINF:0,beIN Series Vice TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6813/index.m3u8
-#EXTINF:0,beIN Series Sci-fi TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6814/index.m3u8
-#EXTINF:0,Tivibu Sport 2 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6816/index.m3u8
-#EXTINF:0,beIN Sports 1 (Yedek) HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6817/index.m3u8
-#EXTINF:0,beIN Sports 2 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6818/index.m3u8
-#EXTINF:0,beIN Sports 2 (Yedek) HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6819/index.m3u8
-#EXTINF:0,beIN Sports 3 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6820/index.m3u8
-#EXTINF:0,beIN Sports 3 (Yedek) HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6821/index.m3u8
-#EXTINF:0,beIN Sports 4 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6822/index.m3u8
-#EXTINF:0,beIN Sports 4 (Yedek) HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6823/index.m3u8
-#EXTINF:0,beIN Sports Max 1 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6824/index.m3u8
-#EXTINF:0,S Sport 1 HD TR
-#EXTINF:0,beIN Movies Action 2 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6876/index.m3u8
-#EXTINF:0,beIN Movies Action HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6877/index.m3u8
-#EXTINF:0,beIN Movies Family HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6878/index.m3u8
-#EXTINF:0,beIN Movies Premiere 2 HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6879/index.m3u8
-#EXTINF:0,beIN Movies Premiere HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6880/index.m3u8
-#EXTINF:0,beIN Series Comedy HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6881/index.m3u8
-#EXTINF:0,beIN Series Drama HD TR
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6882/index.m3u8
-#EXTINF:0,SİNEMA 1002 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31221/index.m3u8
-#EXTINF:0,SİNEMA AİLE 2 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31222/index.m3u8
-#EXTINF:0,SİNEMA AİLE HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31223/index.m3u8
-#EXTINF:0,SİNEMA AKSİYON 2 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31224/index.m3u8
-#EXTINF:0,SİNEMA KOMEDİ HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31225/index.m3u8
-#EXTINF:0,SİNEMA TV 1001 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31226/index.m3u8
-#EXTINF:0,SİNEMA TV 2 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31227/index.m3u8
-#EXTINF:0,SİNEMA TV AKSİYON HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31228/index.m3u8
-#EXTINF:0,SİNEMA TV HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31229/index.m3u8
-#EXTINF:0,SİNEMA YERLİ 2 HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31230/index.m3u8
-#EXTINF:0,SİNEMA YERLİ HD
-#EXTGRP:Турция | Türk
-http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/31231/index.m3u8

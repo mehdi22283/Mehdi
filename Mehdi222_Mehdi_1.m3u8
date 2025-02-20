@@ -170,12 +170,6 @@ http://palatv34.ozelip.com:22372/maksimtv/maksimtv/chunklist_w502008747.m3u8
 #EXTINF:0,Musiqi TV
 #EXTGRP:Azərbaycan
 http://a8.radyotelekom.com.tr/p/3335/stream/play.m3u8
-#EXTINF:0,Arı Musiqi
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/arimusiclive/tracks-v1a1/mono.m3u8
-#EXTINF:0,Arı Muğam
-#EXTGRP:Azərbaycan
-https://live.yayingold.com.tr/arimusicmugamlive/tracks-v1a1/mono.m3u8
 #EXTINF:0,Vostok TV
 #EXTGRP:Azərbaycan
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8

@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0,AzTV
-#EXTGRP:Azərbaycan
-https://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:0,Mədəniyyət TV
-#EXTGRP:Azərbaycan
-https://trn03.tulix.tv/gt-medeniyyet/tracks-v1a1/mono.m3u8
 #EXTINF:0,İdman TV
 #EXTGRP:Azərbaycan
 https://str2.yodacdn.net/idman/index.m3u8

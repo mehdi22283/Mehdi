@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,GEM AZ
-#EXTGRP:Azərbaycan
-http://spy17.eu:80/live/hsynctnky/290921.hsn/324431.ts
 #EXTINF:0,AzTV
 #EXTGRP:Azərbaycan
 https://str.yodacdn.net/aztv/index.m3u8
@@ -182,6 +179,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:0,AkTV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Aktv-restream.m3u8
+#EXTINF:0,GEM AZ
+#EXTGRP:Azərbaycan
+http://spy17.eu:80/live/hsynctnky/290921.hsn/324431.ts
 #EXTINF:0,ATV
 #EXTGRP:Türk
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd

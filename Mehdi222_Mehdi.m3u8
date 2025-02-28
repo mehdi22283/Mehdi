@@ -113,15 +113,6 @@ https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Azer_Box_tv
 #EXTINF:0,CTV MUSİQİ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Gem_az_tv-restream.m3u8
-#EXTINF:0,CTV VİZYON
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Ctv_Vizyon_tv-restream.m3u8
-#EXTINF:0,CTV VİZYON 2
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Ctv_vizyon_2_tv-restream.m3u8
-#EXTINF:0,CHD MEYXANA
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/refs/heads/main/REDLINE/66_TV_Цтв_меяхана_66-restream.m3u8
 #EXTINF:0,CTV YERLİ
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/refs/heads/main/REDLINE/64_TV_Цтв_яерли_64-restream.m3u8
@@ -131,15 +122,6 @@ https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/re
 #EXTINF:0,CTV CİNEMA
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/78ae1006c9f2198ac90e4b3fad6e2d4fe4e24d9f/REDLINE/@123_TV_Цтв_синема_@123-restresm.m3u8
-#EXTINF:0,CHD QORXU
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/refs/heads/main/REDLINE/@100_TV_Цхдтв_горху_@100-restresm.m3u8
-#EXTINF:0,HBB TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/VIP-Panel/b4bf47baba0fb194362f37682507a300a3575e7c/Azer_Sport_tv-restream.m3u8
-#EXTINF:0,Qədər TV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/P1l2A0t6N1T9u8R7v2I0p2M5a0X/-2025Panel2025-/refs/heads/main/REDLINE/99_TV_Кадер_99-restream.m3u8
 #EXTINF:0,Ümid TV
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/Hesen568/Blakc-Pars/refs/heads/main/Umid_tv-restream.m3u8
@@ -176,9 +158,6 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 #EXTINF:0,TMB Azərbaycan
 #EXTGRP:Azərbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:0,AkTV
-#EXTGRP:Azərbaycan
-https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Aktv-restream.m3u8
 #EXTINF:0,GEM AZ
 #EXTGRP:Azərbaycan
 http://spy17.eu:80/live/hsynctnky/290921.hsn/324431.ts

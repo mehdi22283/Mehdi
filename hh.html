@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token Dinamik Link</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        #token-link { margin-top: 20px; padding: 10px; display: inline-block; word-wrap: break-word; }
+    </style>
+</head>
+<body>
+
+    <div id="token-link">Token axtarılır...</div>
+
+    <script>
+        async function fetchTokenAndUpdateLink() {
+            try {
+                let response = await fetch("https://raw.githubusercontent.com/Mehdi22283/Mehdi/main/yourfile.html"); // Replace with your raw GitHub file URL
+                let text = await response.text();
+
+                // Token-i HTML kodundan tapmaq üçün regex
+                let match = text.match(/token=["']?([a-zA-Z0-9_\-]+)["']?/);
+                let token = match ? match[1] : null;
+
+                if (token) {
+                    let finalUrl = `https://str1.yodacdn.net/ntv/index.m3u8?token=${token}`;
+                    document.getElementById("token-link").innerText = finalUrl;  // Yalnız linki göstəririk
+                } else {
+                    document.getElementById("token-link").innerText = "";  // Token tapılmadıqda heç bir şey göstərilmir
+                }
+            } catch (error) {
+                document.getElementById("token-link").innerText = "";  // Xəta zamanı heç bir şey göstərilmir
+            }
+        }
+
+        // Dinamik olaraq token-i əldə etmək üçün funksiyanı səhifə yüklənəndə işə salırıq
+        fetchTokenAndUpdateLink();
+    </script>
+
+</body>
+</html>

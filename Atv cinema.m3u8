@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Live Stream" tvg-logo="" group-title="Live",Live Stream
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<playlist>
-  <channel>
-    <name>Live Stream</name>
-    <url>http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8</url>
-  </channel>
-</playlist>

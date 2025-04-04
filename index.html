@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>ATV M3U8 Link Çıxarıcı</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f5f5f5; }
+    h1 { color: #cc0000; }
+    #result { margin-top: 20px; padding: 10px; background: #fff; border: 1px solid #ddd; }
+    button { padding: 10px 15px; font-size: 16px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>ATV Canlı Yayım M3U8 Linki</h1>
+  <button onclick="getM3U8()">Linki Çıxar</button>
+  <div id="result">M3U8 link burada görsənəcək...</div>
+
+  <script>
+    async function getM3U8() {
+      const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+      const targetUrl = 'https://www.atv.com.tr/iframe/canli-yayin';
+
+      try {
+        const response = await fetch(proxyUrl + targetUrl);
+        const html = await response.text();
+        const m3u8Match = html.match(/https:\/\/[^"]+\.m3u8/);
+
+        if (m3u8Match) {
+          document.getElementById('result').innerHTML = `
+            <strong>M3U8 Link:</strong><br>
+            <a href="${m3u8Match[0]}" target="_blank">${m3u8Match[0]}</a>
+          `;
+        } else {
+          document.getElementById('result').innerText = "M3U8 link tapılmadı.";
+        }
+      } catch (error) {
+        document.getElementById('result').innerText = "Xəta baş verdi: " + error;
+      }
+    }
+  </script>
+</body>
+</html>

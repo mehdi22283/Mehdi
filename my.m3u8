@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mychannel" tvg-name="Test TV" group-title="Local",Test TV
+#EXTVLCOPT:http-referrer=https://live.tv1.az/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8

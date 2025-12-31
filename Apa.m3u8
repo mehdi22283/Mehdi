@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+http://149.255.154.194:80/apatv/tracks-v1a1/mono.m3u8
+http://stream.apa.tv/apastream/video1_stream.m3u8

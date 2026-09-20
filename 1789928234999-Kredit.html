@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kredit Kalkulyatoru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000000; /* Tam qara fon */
+            color: #ffffff; /* Mətnləri ağ et */
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background: #000000; /* Konteyner fonu qara */
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.1); /* Yüngül ağ kölgə */
+            margin-bottom: 20px;
+        }
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+            color: #ffffff; /* Label mətni ağ */
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #222222; /* Inputları tünd fon et */
+            color: #ffffff; /* Mətn ağ */
+        }
+        table {
+            width: 100%;
+            margin-top: 20px;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid white;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #28a745;
+            color: white;
+        }
+        td {
+            color: #ffffff; /* Cədvəl mətnlərini ağ et */
+        }
+        .refresh-button, .copy-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+            width: 100%;
+        }
+        .refresh-button:hover, .copy-button:hover {
+            background-color: #0056b3;
+        }
+        .results p, h2, h3 {
+            color: #ffffff; /* Nəticələr və başlıqlar ağ */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Kredit Kalkulyatoru</h2>
+
+    <label for="amount">Kredit məbləği (AZN):</label>
+    <input type="number" id="amount" placeholder="Məs: 10000" oninput="calculateLoan()">
+
+    <label for="months">Müddət (ay):</label>
+    <input type="number" id="months" placeholder="Məs: 12" oninput="calculateLoan()">
+
+    <label for="interest">İllik faiz dərəcəsi (%):</label>
+    <input type="number" id="interest" placeholder="Faiz dərəcəsini daxil edin" oninput="calculateLoan()">
+
+    <label for="scheduleType">Cədvəl növü:</label>
+    <select id="scheduleType" onchange="calculateLoan()">
+        <option value="fixed">Sabit</option>
+        <option value="decreasing">Azalan</option>
+    </select>
+
+    <div class="results">
+        <button class="copy-button" onclick="copyResults()">Kopyala</button>
+        <h3>Nəticələr</h3>
+        <p><b>Kredit məbləği:</b> <span id="resultAmount">-</span> AZN</p>
+        <p><b>Müddət:</b> <span id="resultMonths">-</span> ay</p>
+        <p><b>İllik faiz dərəcəsi:</b> <span id="resultInterest">-</span> %</p>
+        <p><b>Aylıq faiz dərəcəsi:</b> <span id="resultMonthlyInterest">-</span> %</p><br>
+        <p><b>Aylıq ödəniş:</b> <span id="monthlyPayment">-</span> AZN</p>
+        <p><b>Ümumi ödəniş:</b> <span id="totalPayment">-</span> AZN</p>
+        <p><b>Faiz məbləği:</b> <span id="totalInterest">-</span> AZN</p>
+        <p><b>Effektiv faiz dərəcəsi:</b> <span id="effectiveRate">-</span> %</p>
+    </div>
+
+    <button class="refresh-button" onclick="clearPage()">Səhifəni Təmizlə</button>
+</div>
+
+<h3>Aylıq Ödəniş Cədvəli</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Ay</th>
+            <th>Qalıq borc (AZN)</th>
+            <th>Aylıq Ödəniş (AZN)</th>
+            <th>Əsas Borc Ödənişi (AZN)</th>
+            <th>Faiz Ödənişi (AZN)</th>
+        </tr>
+    </thead>
+    <tbody id="paymentSchedule"></tbody>
+</table>
+
+<div class="container">
+    <h2>İllik Faiz Dərəcəsi Kalkulyatoru</h2>
+    
+    <label for="loanAmountInput">Kredit Məbləği (AZN):</label>
+    <input type="number" id="loanAmountInput" placeholder="Məsələn, 10000" oninput="calculateAPR()">
+    
+    <label for="loanTermInput">Müddət (Ay):</label>
+    <input type="number" id="loanTermInput" placeholder="Məsələn, 12" oninput="calculateAPR()">
+    
+    <label for="monthlyPaymentInput">Aylıq Ödəniş (AZN):</label>
+    <input type="number" id="monthlyPaymentInput" placeholder="Məsələn, 100" oninput="calculateAPR()">
+    
+    <div id="result"></div>
+</div>
+
+<script>
+function calculateLoan() {
+    let P = parseFloat(document.getElementById("amount").value);
+    let annualRate = parseFloat(document.getElementById("interest").value);
+    let n = parseInt(document.getElementById("months").value);
+    let scheduleType = document.getElementById("scheduleType").value;
+
+    if (isNaN(P) || isNaN(annualRate) || isNaN(n) || P <= 0 || annualRate <= 0 || n <= 0) return;
+
+    let monthlyRate = (annualRate / 100) / 12;
+    let totalPayment = 0, totalInterest = 0;
+    let scheduleHTML = "";
+
+    if (scheduleType === "fixed") {
+        let A = (P * monthlyRate) / (1 - Math.pow(1 + monthlyRate, -n));
+
+        for (let i = 1; i <= n; i++) {
+            let interestPayment = P * monthlyRate;
+            let principalPayment = A - interestPayment;
+            P -= principalPayment;
+
+            scheduleHTML += `<tr>
+                <td>${i}</td>
+                <td>${P.toFixed(2)}</td>
+                <td>${A.toFixed(2)}</td>
+                <td>${principalPayment.toFixed(2)}</td>
+                <td>${interestPayment.toFixed(2)}</td>
+            </tr>`;
+
+            totalPayment += A;
+            totalInterest += interestPayment;
+        }
+
+        document.getElementById("monthlyPayment").innerText = A.toFixed(2);
+    } else {
+        let principalPayment = P / n;
+
+        for (let i = 1; i <= n; i++) {
+            let interestPayment = P * monthlyRate;
+            let monthlyPayment = principalPayment + interestPayment;
+            P -= principalPayment;
+
+            scheduleHTML += `<tr>
+                <td>${i}</td>
+                <td>${P.toFixed(2)}</td>
+                <td>${monthlyPayment.toFixed(2)}</td>
+                <td>${principalPayment.toFixed(2)}</td>
+                <td>${interestPayment.toFixed(2)}</td>
+            </tr>`;
+
+            totalPayment += monthlyPayment;
+            totalInterest += interestPayment;
+        }
+    }
+
+    document.getElementById("totalPayment").innerText = totalPayment.toFixed(2);
+    document.getElementById("totalInterest").innerText = totalInterest.toFixed(2);
+    document.getElementById("effectiveRate").innerText = ((totalInterest / parseFloat(document.getElementById("amount").value)) * 100).toFixed(2);
+
+    // Nəticələr bölməsi
+    document.getElementById("resultAmount").innerText = parseFloat(document.getElementById("amount").value).toFixed(2);
+    document.getElementById("resultMonths").innerText = n;
+    document.getElementById("resultInterest").innerText = annualRate.toFixed(2);
+    document.getElementById("resultMonthlyInterest").innerText = (monthlyRate * 100).toFixed(2);
+
+    document.getElementById("paymentSchedule").innerHTML = scheduleHTML;
+}
+
+function calculateAPR() {
+    const resultBox = document.getElementById('result');
+    const pStr = document.getElementById('loanAmountInput').value;
+    const nStr = document.getElementById('loanTermInput').value;
+    const aStr = document.getElementById('monthlyPaymentInput').value;
+
+    // Sahələr hələ doldurulmayıbsa, xəta göstərmədən gözlə
+    if (pStr === "" || nStr === "" || aStr === "") {
+        resultBox.innerHTML = "";
+        return;
+    }
+
+    const P = parseFloat(pStr);
+    const A = parseFloat(aStr);
+    const n = parseInt(nStr);
+
+    if (isNaN(P) || isNaN(A) || isNaN(n) || P <= 0 || A <= 0 || n <= 0) {
+        resultBox.innerHTML = "Xahiş edirik bütün məlumatları düzgün daxil edin!";
+        return;
+    }
+
+    // Ümumi ödəniş kredit məbləğindən azdırsa, faiz mənfi olar
+    if (A * n < P) {
+        resultBox.innerHTML = "Aylıq ödəniş çox azdır: ümumi ödəniş kredit məbləğindən az ola bilməz!";
+        return;
+    }
+
+    // Faizsiz kredit
+    if (A * n === P) {
+        resultBox.innerHTML = "İllik Faiz Dərəcəsi: 0.00 %<br>Aylıq Faiz Dərəcəsi: 0.00 %";
+        return;
+    }
+
+    // Aylıq ödəniş düsturu (rəqəmsal cəhətdən sabit variantı)
+    const payment = (r) => (P * r) / (-Math.expm1(-n * Math.log1p(r)));
+
+    // Yuxarı sərhədi lazım gəldikcə böyüt (aylıq faiz 100%-dən çox ola bilər)
+    let low = 0, high = 1;
+    while (payment(high) < A && high < 1e6) {
+        high *= 2;
+    }
+
+    // İkili axtarış (binary search) - yüksək dəqiqliklə
+    let r = 0;
+    for (let i = 0; i < 200; i++) {
+        r = (low + high) / 2;
+        if (payment(r) > A) {
+            high = r;
+        } else {
+            low = r;
+        }
+    }
+
+    const annualRate = (r * 12 * 100).toFixed(2);
+    const monthlyRate = (r * 100).toFixed(2);
+    resultBox.innerHTML =
+        "İllik Faiz Dərəcəsi: " + annualRate + " %<br>" +
+        "Aylıq Faiz Dərəcəsi: " + monthlyRate + " %";
+}
+
+function copyResults() {
+    let text = `
+Kredit məbləği: ${document.getElementById("resultAmount").innerText} AZN
+Müddət: ${document.getElementById("resultMonths").innerText} ay
+İllik faiz dərəcəsi: ${document.getElementById("resultInterest").innerText} %
+Aylıq faiz dərəcəsi: ${document.getElementById("resultMonthlyInterest").innerText} %
+Aylıq ödəniş: ${document.getElementById("monthlyPayment").innerText} AZN
+Ümumi ödəniş: ${document.getElementById("totalPayment").innerText} AZN
+Faiz məbləği: ${document.getElementById("totalInterest").innerText} AZN
+Effektiv faiz dərəcəsi: ${document.getElementById("effectiveRate").innerText} %
+    `;
+    navigator.clipboard.writeText(text.trim());
+    alert("Nəticələr kopyalandı!");
+}
+
+function clearPage() {
+    document.getElementById("amount").value = "";
+    document.getElementById("months").value = "";
+    document.getElementById("interest").value = "";
+    document.getElementById("scheduleType").selectedIndex = 0;
+
+    document.getElementById("resultAmount").innerText = "-";
+    document.getElementById("resultMonths").innerText = "-";
+    document.getElementById("resultInterest").innerText = "-";
+    document.getElementById("resultMonthlyInterest").innerText = "-";
+    document.getElementById("monthlyPayment").innerText = "-";
+    document.getElementById("totalPayment").innerText = "-";
+    document.getElementById("totalInterest").innerText = "-";
+    document.getElementById("effectiveRate").innerText = "-";
+    document.getElementById("paymentSchedule").innerHTML = "";
+
+    document.getElementById("loanAmountInput").value = "";
+    document.getElementById("loanTermInput").value = "";
+    document.getElementById("monthlyPaymentInput").value = "";
+    document.getElementById("result").innerHTML = "";
+}
+</script>
+
+</body>
+</html>

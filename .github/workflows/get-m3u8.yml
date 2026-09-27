@@ -2,7 +2,7 @@ name: ATV Avrupa M3U8 Extractor
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 
 permissions:

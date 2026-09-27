@@ -1,0 +1,44 @@
+name: ATV Avrupa M3U8 Extractor
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: Extract M3U8
+        run: node extract.js
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add atv-avrupa.m3u8
+
+          if git diff --cached --quiet; then
+            echo "M3U8 dəyişməyib."
+          else
+            git commit -m "Update ATV Avrupa M3U8"
+            git push
+          fi

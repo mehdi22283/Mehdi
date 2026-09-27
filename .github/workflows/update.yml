@@ -1,0 +1,40 @@
+name: Update ShowTurk M3U8
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Extract M3U8
+        run: python extract.py
+
+      - name: Replace old file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git rm -f showturk.m3u8 2>/dev/null || true
+
+          git add showturk.m3u8
+          git commit -m "Update ShowTurk M3U8" || true
+          git push

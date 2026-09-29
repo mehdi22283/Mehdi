@@ -3,9 +3,6 @@ name: Build APK
 on:
   workflow_dispatch:
   push:
-    paths:
-      - "MehdiKeyMapper-XiaomiTVBox2-v2.zip"
-      - ".github/workflows/build.yml"
 
 jobs:
   build:
@@ -15,37 +12,33 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Extract project ZIP
+      - name: Extract ZIP
         run: |
-          mkdir project
-          unzip -q MehdiKeyMapper-XiaomiTVBox2-v2.zip -d project
-
-      - name: Find Android project
-        run: |
-          find project -name gradlew -type f
+          unzip -q MehdiKeyMapper-XiaomiTVBox2-v2.zip -d extracted
 
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: "17"
+          java-version: '17'
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Generate Gradle Wrapper
+        working-directory: extracted/MehdiKeyMapper
+        run: gradle wrapper --gradle-version 8.7
 
       - name: Make Gradle executable
-        run: |
-          chmod +x $(find project -name gradlew | head -1)
+        working-directory: extracted/MehdiKeyMapper
+        run: chmod +x gradlew
 
       - name: Build APK
-        run: |
-          GRADLEW=$(find project -name gradlew | head -1)
-          cd "$(dirname "$GRADLEW")"
-          ./gradlew assembleDebug --stacktrace
-
-      - name: Find APK
-        run: |
-          find project -type f -name "*.apk"
+        working-directory: extracted/MehdiKeyMapper
+        run: ./gradlew assembleDebug --stacktrace
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: MehdiKeyMapper-APK
-          path: "project/**/*.apk"
+          path: extracted/MehdiKeyMapper/app/build/outputs/apk/debug/*.apk

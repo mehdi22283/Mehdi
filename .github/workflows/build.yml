@@ -1,0 +1,65 @@
+name: Build APK from ZIP
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "Videoya_bax_final.zip"
+      - ".github/workflows/build-apk.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Extract ZIP
+        run: |
+          mkdir -p project
+          unzip -q "Videoya_bax_final.zip" -d project
+
+          echo "ZIP contents:"
+          find project -maxdepth 3 -type f | head -100
+
+      - name: Find Android project
+        run: |
+          if [ -f "project/settings.gradle" ] || [ -f "project/settings.gradle.kts" ]; then
+            echo "PROJECT_DIR=project" >> $GITHUB_ENV
+          else
+            DIR=$(find project -name settings.gradle -o -name settings.gradle.kts | head -1 | xargs -r dirname)
+
+            if [ -z "$DIR" ]; then
+              echo "Android Gradle project not found!"
+              exit 1
+            fi
+
+            echo "PROJECT_DIR=$DIR" >> $GITHUB_ENV
+          fi
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build APK
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+
+      - name: Find APK
+        run: |
+          find "$PROJECT_DIR" -type f -name "*.apk"
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Videoya-bax-APK
+          path: |
+            ${{ env.PROJECT_DIR }}/**/build/outputs/apk/**/*.apk

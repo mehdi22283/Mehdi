@@ -1,4 +1,4 @@
-name: APK yığ və Release-də göstər
+name: APK yığ
 
 on:
   push:
@@ -10,32 +10,50 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Zip-i aç
+        run: |
+          ZIP=$(ls -1 *.zip | head -n 1)
+          echo "Zip: $ZIP"
+          mkdir -p src_project
+          unzip -q "$ZIP" -d src_project
+          GRADLE_FILE=$(find src_project -name settings.gradle -not -path "*/node_modules/*" | head -n 1)
+          PROJECT_DIR=$(dirname "$GRADLE_FILE")
+          echo "Layihə qovluğu: $PROJECT_DIR"
+          echo "PROJECT_DIR=$PROJECT_DIR" >> "$GITHUB_ENV"
 
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '17'
 
-      - name: Android lisenziyalarını qəbul et
-        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
+      - uses: android-actions/setup-android@v3
 
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.7'
 
       - name: APK yığ
+        working-directory: ${{ env.PROJECT_DIR }}
         run: gradle assembleDebug --no-daemon
 
-      - name: APK adını düzəlt
-        run: cp app/build/outputs/apk/debug/app-debug.apk M3USinayici.apk
+      - name: APK-nı hazırla
+        run: |
+          cp "$PROJECT_DIR/app/build/outputs/apk/debug/app-debug.apk" M3USinayici.apk
+          ls -la M3USinayici.apk
 
-      - name: Release yarat və APK-nı əlavə et
+      - name: Releases-ə yüklə
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ github.run_number }}
           name: M3U Sınayıcı v${{ github.run_number }}
           files: M3USinayici.apk
-          make_latest: true
+
+      - name: Artifact kimi də saxla
+        uses: actions/upload-artifact@v4
+        with:
+          name: M3USinayici-apk
+          path: M3USinayici.apk

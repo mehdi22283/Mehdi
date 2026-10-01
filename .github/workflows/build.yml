@@ -8,7 +8,8 @@ jobs:
       - run: unzip -q M3USinayici.zip
       - uses: actions/setup-java@v4
         with: { distribution: temurin, java-version: 17 }
-      - uses: android-actions/setup-android@v3
+      - name: Accept Android licenses
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
       - uses: gradle/actions/setup-gradle@v4
         with: { gradle-version: "8.7" }
       - run: gradle assembleDebug --no-daemon
@@ -17,3 +18,4 @@ jobs:
         with:
           name: M3U-Sinayici-apk
           path: M3USinayici/app/build/outputs/apk/debug/app-debug.apk
+          

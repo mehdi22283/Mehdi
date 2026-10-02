@@ -1,135 +1,19 @@
-name: Build M3U Sinayici APK
-
-on:
-  workflow_dispatch:
-  push:
-    paths:
-      - "M3USinayici.zip"
-      - ".github/workflows/build.yml"
-
+name: Build APK
+on: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Repository-ni götür
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      # 2. ZIP-i müvəqqəti qovluğa çıxar
-      - name: Extract M3USinayici.zip
-        shell: bash
-        run: |
-          set -e
-
-          if [ ! -f "M3USinayici.zip" ]; then
-            echo "ERROR: M3USinayici.zip tapılmadı!"
-            exit 1
-          fi
-
-          rm -rf "$RUNNER_TEMP/M3USinayici"
-          mkdir -p "$RUNNER_TEMP/M3USinayici"
-
-          unzip -q "M3USinayici.zip" -d "$RUNNER_TEMP/M3USinayici"
-
-          echo "ZIP çıxarıldı."
-          echo "Fayllar:"
-          find "$RUNNER_TEMP/M3USinayici" -maxdepth 3 -type f | head -100
-
-      # 3. settings.gradle olan qovluğu avtomatik tap
-      - name: Find Android Gradle project
-        id: project
-        shell: bash
-        run: |
-          set -e
-
-          PROJECT_DIR=$(find "$RUNNER_TEMP/M3USinayici" \
-            -type f \
-            \( -name "settings.gradle" -o -name "settings.gradle.kts" \) \
-            -printf '%h\n' \
-            | head -n 1)
-
-          if [ -z "$PROJECT_DIR" ]; then
-            echo "ERROR: Android Gradle layihəsi tapılmadı!"
-            echo ""
-            echo "ZIP daxilində settings.gradle və ya settings.gradle.kts olmalıdır."
-            echo ""
-            echo "ZIP strukturu:"
-            find "$RUNNER_TEMP/M3USinayici" -maxdepth 4 -type f
-            exit 1
-          fi
-
-          echo "Gradle layihəsi tapıldı:"
-          echo "$PROJECT_DIR"
-
-          echo "project_dir=$PROJECT_DIR" >> "$GITHUB_OUTPUT"
-
-      # 4. Java 17
-      - name: Setup Java
-        uses: actions/setup-java@v4
+      - uses: actions/checkout@v4
+      - run: unzip -q M3USinayici.zip
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 17 }
+      - uses: android-actions/setup-android@v3
+      - uses: gradle/actions/setup-gradle@v4
+        with: { gradle-version: "8.7" }
+      - run: gradle assembleDebug --no-daemon
+        working-directory: M3USinayici
+      - uses: actions/upload-artifact@v4
         with:
-          distribution: temurin
-          java-version: "17"
-
-      # 5. Android SDK
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
-
-      # 6. Gradle Wrapper varsa onu istifadə et
-      - name: Prepare Gradle
-        working-directory: ${{ steps.project.outputs.project_dir }}
-        shell: bash
-        run: |
-          if [ -f "gradlew" ]; then
-            chmod +x gradlew
-            echo "Gradle Wrapper tapıldı."
-          else
-            echo "Gradle Wrapper yoxdur. Sistem Gradle istifadə olunacaq."
-          fi
-
-      # 7. APK build
-      - name: Build Debug APK
-        working-directory: ${{ steps.project.outputs.project_dir }}
-        shell: bash
-        run: |
-          set -e
-
-          if [ -f "./gradlew" ]; then
-            ./gradlew assembleDebug --no-daemon
-          else
-            gradle assembleDebug --no-daemon
-          fi
-
-      # 8. APK-nı tap
-      - name: Find APK
-        id: apk
-        shell: bash
-        run: |
-          set -e
-
-          APK=$(find "${{ steps.project.outputs.project_dir }}" \
-            -type f \
-            -path "*/build/outputs/apk/*.apk" \
-            | head -n 1)
-
-          if [ -z "$APK" ]; then
-            echo "ERROR: APK yaranmadı!"
-            echo ""
-            echo "Mövcud APK faylları:"
-            find "${{ steps.project.outputs.project_dir }}" \
-              -type f -name "*.apk" || true
-            exit 1
-          fi
-
-          echo "APK tapıldı:"
-          echo "$APK"
-
-          echo "apk=$APK" >> "$GITHUB_OUTPUT"
-
-      # 9. APK-nı Actions Artifact kimi yüklə
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: M3USinayici-APK
-          path: ${{ steps.apk.outputs.apk }}
-          if-no-files-found: error
+          name: M3U-Sinayici-apk
+          path: M3USinayici/app/build/outputs/apk/debug/app-debug.apk

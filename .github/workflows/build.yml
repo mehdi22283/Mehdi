@@ -1,0 +1,55 @@
+name: Build APK from ZIP
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo-nu götür
+        uses: actions/checkout@v4
+
+      - name: JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Gradle 8.7
+        uses: gradle/actions/setup-gradle@v3
+        with:
+          gradle-version: 8.7
+
+      - name: ZIP-i runner daxilində aç (repoya fayl çıxarmaq lazım deyil)
+        run: |
+          set -e
+          if [ -f settings.gradle.kts ] || [ -f settings.gradle ]; then
+            ROOT="$PWD"
+          else
+            Z=$(find . -maxdepth 2 -iname '*.zip' | head -1)
+            [ -n "$Z" ] || { echo "ZIP tapılmadı"; exit 1; }
+            echo "ZIP: $Z"
+            mkdir -p "$RUNNER_TEMP/proj"
+            unzip -oq "$Z" -d "$RUNNER_TEMP/proj"
+            S=$(find "$RUNNER_TEMP/proj" \( -name settings.gradle.kts -o -name settings.gradle \) | head -1)
+            [ -n "$S" ] || { echo "settings.gradle tapılmadı"; exit 1; }
+            ROOT=$(dirname "$S")
+          fi
+          echo "ROOT=$ROOT" >> "$GITHUB_ENV"
+
+      - name: APK build
+        run: cd "$ROOT" && gradle assembleDebug --no-daemon --stacktrace
+
+      - name: APK-nı topla
+        run: mkdir -p "$GITHUB_WORKSPACE/out" && find "$ROOT" -path '*build/outputs/apk/debug/*.apk' -exec cp {} "$GITHUB_WORKSPACE/out/" \;
+
+      - name: Artifact yüklə
+        uses: actions/upload-artifact@v4
+        with:
+          name: WifiSkanner-APK
+          path: out/*.apk

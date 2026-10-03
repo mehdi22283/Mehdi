@@ -17,8 +17,10 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - name: Android SDK
-        uses: android-actions/setup-android@v3
+      - name: Android SDK lisenziyaları (SDK runner-də hazır gəlir)
+        run: |
+          SM=$(ls "$ANDROID_HOME"/cmdline-tools/*/bin/sdkmanager 2>/dev/null | head -1)
+          if [ -n "$SM" ]; then yes | "$SM" --licenses >/dev/null 2>&1 || true; fi
 
       - name: Gradle 8.7
         uses: gradle/actions/setup-gradle@v3
@@ -53,3 +55,4 @@ jobs:
         with:
           name: WifiSkanner-APK
           path: out/*.apk
+          

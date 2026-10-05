@@ -1,8 +1,6 @@
 name: Build APK
-
 on:
   push:
-    branches: [ main, master ]
   workflow_dispatch:
 
 jobs:
@@ -11,36 +9,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Zipi aç
+        run: unzip -oq MarketEndirim.zip -d src
+
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: '17'
+          java-version: 17
 
-      - name: Android lisenziyalarını qəbul et
-        run: |
-          SDKM=$(find "$ANDROID_HOME/cmdline-tools" -name sdkmanager | head -n 1)
-          yes | "$SDKM" --licenses > /dev/null || true
+      - uses: android-actions/setup-android@v3
 
       - uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: '8.7'
+          gradle-version: 8.7
 
-      - name: Zipi aç
-        run: |
-          ZIP=$(ls *.zip | head -n 1)
-          echo "Zip: $ZIP"
-          mkdir -p _src
-          unzip -q "$ZIP" -d _src
-          SETTINGS=$(find _src -maxdepth 3 \( -name settings.gradle -o -name settings.gradle.kts \) | head -n 1)
-          echo "PROJECT_DIR=$(dirname "$SETTINGS")" >> "$GITHUB_ENV"
+      - name: Debug APK qur
+        working-directory: src/MarketEndirim
+        run: gradle assembleDebug --no-daemon
 
-      - name: APK build
-        run: |
-          cd "$PROJECT_DIR"
-          gradle assembleDebug --no-daemon
-
-      - name: APK yüklə
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
-          name: app-debug-apk
-          path: ${{ env.PROJECT_DIR }}/app/build/outputs/apk/debug/*.apk
+          name: MarketEndirim-apk
+          path: src/MarketEndirim/app/build/outputs/apk/debug/*.apk

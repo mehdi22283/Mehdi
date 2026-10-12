@@ -1,46 +1,154 @@
 name: Build APK
 
+# UNİVERSAL build.yml — istənilən Android zip layihəsi üçün:
+#  1) repoya zip yüklənəndə (və ya əl ilə "Run workflow") ən son zip tapılır və _src/ qovluğuna açılır
+#  2) layihə kökü (settings.gradle[.kts]) avtomatik tapılır
+#  3) Gradle versiyası layihənin Android Gradle Plugin (AGP) versiyasına görə AVTOMATİK seçilir
+#  4) assembleDebug ilə APK qurulur, artifact adı "app-debug-apk" (tətbiqdəki APK yüklə bölməsi bunu axtarır)
+#  5) uğurlu build-dən sonra zip repodan silinir (KEEP_ZIP=true olsa saxlanılır)
 on:
   push:
-    branches: [ main, master ]
+    paths:
+      - '**.zip'
+      - '.github/workflows/**'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-apk
+  cancel-in-progress: false
+
+env:
+  KEEP_ZIP: "false"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Zip-i tap
+        id: find
+        shell: bash
+        run: |
+          set -euo pipefail
+          BEFORE="${{ github.event.before }}"
+          ZIP=""
+          if [ "${{ github.event_name }}" = "push" ]; then
+            if [ -n "$BEFORE" ] && [ "$BEFORE" != "0000000000000000000000000000000000000000" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+              ZIP=$(git diff --name-only --diff-filter=AM "$BEFORE" "${{ github.sha }}" -- '*.zip' '*.ZIP' | tail -n 1 || true)
+            else
+              ZIP=$(git show --name-only --diff-filter=AM --pretty=format: "${{ github.sha }}" -- '*.zip' '*.ZIP' | grep -v '^$' | tail -n 1 || true)
+            fi
+          else
+            # əl ilə işə salındıqda: repodakı ən son əlavə olunan zip
+            ZIP=$(git log --diff-filter=AM --name-only --pretty=format: -- '*.zip' '*.ZIP' | grep -v '^$' | head -n 1 || true)
+          fi
+          if [ -z "$ZIP" ] || [ ! -f "$ZIP" ]; then
+            echo "Qurulacaq zip yoxdur — build buraxılır."
+            echo "zip=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "Zip tapıldı: $ZIP"
+          echo "zip=$ZIP" >> "$GITHUB_OUTPUT"
+
+      - name: Zip-i aç, layihə kökünü tap
+        id: unzip
+        if: steps.find.outputs.zip != ''
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf _src && mkdir -p _src
+          unzip -q -o "${{ steps.find.outputs.zip }}" -d _src || [ $? -eq 1 ]
+          rm -rf _src/__MACOSX
+          SET=$(find _src \( -name settings.gradle.kts -o -name settings.gradle \) -not -path '*/.git/*' | awk '{print length, $0}' | sort -n | head -n 1 | cut -d' ' -f2- || true)
+          if [ -z "$SET" ]; then
+            echo "::error::Zip-in içində settings.gradle(.kts) tapılmadı — bu Android layihəsi deyil."
+            exit 1
+          fi
+          ROOT=$(dirname "$SET")
+          echo "Layihə kökü: $ROOT"
+          echo "root=$ROOT" >> "$GITHUB_OUTPUT"
+
+      - name: Gradle versiyasını AGP-yə görə seç
+        id: gv
+        if: steps.find.outputs.zip != ''
+        shell: bash
+        run: |
+          set -uo pipefail
+          ROOT="${{ steps.unzip.outputs.root }}"
+          AGP=""
+          # 1) plugins { id("com.android.application") version "8.9.1" }
+          AGP=$(grep -rhoE 'com\.android\.(application|library)["'"'"']?\)?[[:space:]]*version[[:space:]]*["'"'"'][0-9]+\.[0-9]+(\.[0-9]+)?' "$ROOT" --include=*.gradle --include=*.kts 2>/dev/null | grep -oE '[0-9]+\.[0-9]+(\.[0-9]+)?$' | head -n 1)
+          # 2) classpath "com.android.tools.build:gradle:8.9.1"
+          [ -z "$AGP" ] && AGP=$(grep -rhoE 'com\.android\.tools\.build:gradle:[0-9]+\.[0-9]+(\.[0-9]+)?' "$ROOT" --include=*.gradle --include=*.kts 2>/dev/null | grep -oE '[0-9]+\.[0-9]+(\.[0-9]+)?$' | head -n 1)
+          # 3) gradle/libs.versions.toml: agp = "8.9.1"
+          [ -z "$AGP" ] && AGP=$(grep -rhE '^[[:space:]]*agp[[:space:]]*=' "$ROOT" --include=*.toml 2>/dev/null | grep -oE '[0-9]+\.[0-9]+(\.[0-9]+)?' | head -n 1)
+          echo "AGP versiyası: ${AGP:-tapılmadı}"
+          MM=$(echo "$AGP" | cut -d. -f1,2)
+          case "$MM" in
+            7.0|7.1|7.2|7.3|7.4) G=7.6.4 ;;
+            8.0|8.1)  G=8.0.2 ;;
+            8.2)      G=8.2.1 ;;
+            8.3)      G=8.4 ;;
+            8.4)      G=8.6 ;;
+            8.5|8.6)  G=8.7 ;;
+            8.7)      G=8.9 ;;
+            8.8)      G=8.10.2 ;;
+            8.9|8.10) G=8.11.1 ;;
+            8.11|8.12|8.13) G=8.13 ;;
+            9.*)      G=9.1.0 ;;
+            *)        G=8.13 ;;
+          esac
+          echo "Gradle versiyası: $G"
+          echo "version=$G" >> "$GITHUB_OUTPUT"
 
       - uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: '17'
+        if: steps.find.outputs.zip != ''
+        with: { distribution: temurin, java-version: 17 }
 
-      - name: Android lisenziyalarını qəbul et
-        run: |
-          SDKM=$(find "$ANDROID_HOME/cmdline-tools" -name sdkmanager | head -n 1)
-          yes | "$SDKM" --licenses > /dev/null || true
+      - uses: android-actions/setup-android@v3
+        if: steps.find.outputs.zip != ''
 
       - uses: gradle/actions/setup-gradle@v4
+        if: steps.find.outputs.zip != ''
         with:
-          gradle-version: '8.7'
+          gradle-version: ${{ steps.gv.outputs.version }}
 
-      - name: Zipi aç
+      - name: APK qur
+        if: steps.find.outputs.zip != ''
+        working-directory: ${{ steps.unzip.outputs.root }}
+        run: gradle assembleDebug --no-daemon
+
+      - name: APK-nı artifact üçün hazırla
+        id: apk
+        if: steps.find.outputs.zip != ''
+        shell: bash
         run: |
-          ZIP=$(ls *.zip | head -n 1)
-          echo "Zip: $ZIP"
-          mkdir -p _src
-          unzip -q "$ZIP" -d _src
-          SETTINGS=$(find _src -maxdepth 3 \( -name settings.gradle -o -name settings.gradle.kts \) | head -n 1)
-          echo "PROJECT_DIR=$(dirname "$SETTINGS")" >> "$GITHUB_ENV"
+          set -euo pipefail
+          APK=$(find "${{ steps.unzip.outputs.root }}" -path '*/build/outputs/apk/debug/*.apk' | head -n 1)
+          if [ -z "$APK" ]; then echo "::error::Debug APK tapılmadı"; exit 1; fi
+          mkdir -p out && cp "$APK" out/app-debug.apk
+          ls -l out
 
-      - name: APK build
-        run: |
-          cd "$PROJECT_DIR"
-          gradle assembleDebug --no-daemon
-
-      - name: APK yüklə
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
+        if: steps.find.outputs.zip != ''
         with:
           name: app-debug-apk
-          path: ${{ env.PROJECT_DIR }}/app/build/outputs/apk/debug/*.apk
+          path: out/app-debug.apk
+
+      - name: Zip-i repodan sil
+        if: steps.find.outputs.zip != '' && env.KEEP_ZIP != 'true'
+        continue-on-error: true
+        shell: bash
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -q -f "${{ steps.find.outputs.zip }}"
+          git commit -q -m "Avto: ${{ steps.find.outputs.zip }} qurulub, silindi"
+          git pull -q --rebase || true
+          git push

@@ -111,8 +111,12 @@ jobs:
         if: steps.find.outputs.zip != ''
         with: { distribution: temurin, java-version: 17 }
 
+      # Runner-də Android SDK artıq quraşdırılıb. "tools" paketi artıq mövcud deyil, ona görə
+      # packages boş verilir (yalnız lisenziyalar qəbul edilir); lazım olan platform/build-tools AGP özü yükləyir.
       - uses: android-actions/setup-android@v3
         if: steps.find.outputs.zip != ''
+        with:
+          packages: ''
 
       - uses: gradle/actions/setup-gradle@v4
         if: steps.find.outputs.zip != ''

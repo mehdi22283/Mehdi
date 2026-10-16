@@ -1,0 +1,667 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan",AzTV
+http://149.255.154.194:80/azertv/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Mədəniyyət AZ
+http://185.32.44.154/MedeniyyetHD/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Idman AZ
+http://149.255.154.194:80/idmantele/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",CBC SPORT TV HD
+http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",S Sport
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Biznes TV
+http://149.255.154.194:80/biznestv/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Baku TV AZ
+http://149.255.154.194/bakutv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Apa TV
+http://149.255.154.194/apatv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Real TV
+http://149.255.154.194/real/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",ARB 24 HD
+http://185.32.44.154/ARB24HD/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",ARB Günəş HD
+http://flussonic.izone.az:80/arbgunesh/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",ARB
+http://185.32.44.154/arb/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İctimai TV
+http://149.255.154.194:80/ictimaitele/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space TV
+http://str.yodacdn.net/space/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Azad TV AZ
+https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Atv-fhd-tv-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Xəzər TV HD
+http://185.32.44.154/XezerTVHD/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Dünya TV HD
+http://185.32.44.154/dunyatv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Muz TV AZ
+http://mfe01.cliptv.az/dash/MuzTV_Azeri_SDyt0160r56_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Azərbaycan",Start TV
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Kəpəz TV
+https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/KEPEZ_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Naxçıvan TV
+http://149.255.154.194/ntv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Kanal 35
+http://149.255.154.194:80/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Qafqaz TV
+http://149.255.154.194/qafkaz/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",EL TV
+http://149.255.154.194/eltv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Show Plus TV AZ
+https://raw.githubusercontent.com/Hesen568/VIP-PANEL/main/Showplus-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",ATV Cinema AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2120/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Fərrux TV
+https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Ftvaz-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Diginet Cinema
+https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/6bbc3d39baab09c921a372e9316757075307613c/DIGINET_CINEMA_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",HTV Sinema
+http://a8.radyotelekom.com.tr/p/3761/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Şirvan TV
+http://a8.radyotelekom.com.tr/p/3326/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sinema TV
+https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Azer_Chd_tv-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Simvol TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Səhiyyə TV
+http://185.32.44.154/sehiyye/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sirius TV
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Flux TV
+https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Esmatv-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Retro TV
+https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/RETRO_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Max TV
+https://cdn4.yayin.com.tr/maxtv/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül TV
+https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/KONUL_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",KN TV
+https://raw.githubusercontent.com/Sunx4k/Best_4K/main/Sunx4k-KNTVHD-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Neo Play
+https://a8.radyotelekom.com.tr:3800/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Mahnı TV
+https://mahnitvonline.xyz/mahnitv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Music Azərbaycan
+https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/AZERBAYCAN_MUSIC_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Vostok TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Səs TV
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",GünAz TV
+https://raw.githubusercontent.com/Hesen568/VIP-BLACK/50a070fdb9d94e6aa51023956bc30f16672ab99e/Gunaz_tv-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Ritim TV
+https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Musiqi
+https://raw.githubusercontent.com/Wubmax/Wubmax_HD/main/KONUL_MUSIC_TV-restream.m3u8
+#EXTINF:-1 group-title="Azərbaycan",7/24 Film
+https://filim-tv.ismayilbaba611.workers.dev/strem.m3u8
+#EXTINF:-1 group-title="Türkiyə",360 TV HD TR
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 group-title="Türkiyə",ATV HD TR
+http://flussonic.izone.az:80/atvturk/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",ATV Avrupa TR
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Türkiyə",A2 TR
+http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/10687.ts
+#EXTINF:-1 group-title="Türkiyə",BEYAZ TV TR
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 group-title="Türkiyə",Now TV TR
+http://erlyvideo.izone.az:80/nowtv/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",NOW HD Mehdi
+https://nowtv.mehdimyev.workers.dev/nowtv.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL D HD TR
+http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1511.ts
+#EXTINF:-1 group-title="Türkiyə",EURO D TR
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 7 TR
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="Türkiyə",SHOW TV TR
+http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1508.ts
+#EXTINF:-1 group-title="Türkiyə",SHOW TURK TR
+https://turk-tv.ismayilbaba611.workers.dev/showturk.m3u8
+#EXTINF:-1 group-title="Türkiyə",Show Max TR
+http://176.65.153.12:6002/play/a05q/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",STAR TV
+http://185.32.44.154:80/starhd/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",EUROSTAR HD TR
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
+#EXTINF:-1 group-title="Türkiyə",TRT 1 TR
+http://erlyvideo.izone.az:80/trt1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",TRT 1 (Ehtiyat)
+http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1105.ts
+#EXTINF:-1 group-title="Türkiyə",TRT 2 HD
+http://176.65.153.35:6001/play/a028/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",TRT TURK TR
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türkiyə",TRT AVAZ TR
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 2 TR
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 8 HD TR
+http://185.32.44.154:80/tv8hd/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 8.5 HD TR
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 8 Int TR
+http://185.32.44.154:80/tv8int/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",B! Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV5 TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6751/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV4 TR
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6753/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",Line TV Bursa TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6759/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",FİLM SCREEN TR
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:-1 group-title="Türkiyə",Çay TV
+https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Dost TV TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6793/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",DiziSmart Premium HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6802/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",TELEON TR
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 group-title="Türkiyə",AS TV Bursa TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6777/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",DMAX TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2300/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",AKSU TV TR
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",ALANYA POSTA TR
+https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Anadolum TR
+https://cdn4.yayin.com.tr/anadolum/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",AS TV TR
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",ATV Alanya TR
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",BEGEN TV TR
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",Bir TV TR
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",CAN TEMPO TV TR
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",DENİZ POSTASI TV TR
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",EDESSA TV TR
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkiyə",EGEMAX TV TR
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",EN TV TR
+https://ip100.radyotelekomtv.com:3348/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",ERCİYES TV TR
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",GÖPSEN TV TR
+https://canli.gopsentv.com:3604/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",GRT TR
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",HUNAT TV TR
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kanal ADA TR
+http://ip252.ozelip.com:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL T TR
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 15 TR
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 19 TR
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 26 TR
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 53 TR
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 58 TR
+https://telase.com.tr/garaveli/live/telase/telase/135.ts
+#EXTINF:-1 group-title="Türkiyə",KANAL SİM TR
+https://edge.kuzeykibrissmart.tv/simtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL V TR
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",KARDELEN TV TR
+https://edge1.taksimbilisim.com/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KDC TV TR
+https://tv191.radyotelekom.com.tr:3466/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kanal Avrupa
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",KOCAELİ TV TR
+https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",KONYA OLAY TV TR
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KTV TV TR
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Line TV TR
+https://edge1.taksimbilisim.com/linetv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",MERCAN TV TR
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",OLAY TÜRK TR
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",ON 6 TR
+https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",RUHA TV TR
+https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8
+#EXTINF:-1 group-title="Türkiyə",Serhat TV TR
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/best/serhattv.m3u8
+#EXTINF:-1 group-title="Türkiyə",TON TV TR
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV DEN TR
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="Türkiyə",Tivi 16
+https://tv156.radyotelekom.com.tr:3785/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 41 TR
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 42 TR
+https://canliyayin.tv42.com.tr/memfs/0c8c4bc7-550a-4239-8e3d-6f4d768391bb_output_0.m3u8?session=L75pVv7j2hMkFAj4JYazdE
+#EXTINF:-1 group-title="Türkiyə",Televone
+https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",VRT TR
+https://vrttv.ozelip.com:3278/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",ALMANYA TV TR
+http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",İSVİÇRE TV TR
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",AKKON TV TR
+https://ip.akkontv.com:3205/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",Deniz TV TR
+http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",EZGİ TV TR
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",İLKE TV TR
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 6 TV TR
+https://cdn4.yayin.com.tr/channel6tv/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL PLUS TR
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",MELTEM TV TR
+http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 group-title="Türkiyə",METRO TÜRK TR
+https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",MK TV TR
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",NEF TV TR
+https://ip44.radyotelekomtv.com:3628/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",OBB TV TR
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",RUMELİ TÜRK TV TR
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:B4:54:0F&stream=197188&extension=ts&play_token=PaNAKhTAov
+#EXTINF:-1 group-title="Türkiyə",SAT7 TÜRK TR
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 group-title="Türkiyə",TİVİ6 TR
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",MMN Channel TR
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
+#EXTINF:-1 group-title="Türkiyə",YANSIMA MUZUK TR
+https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Çizgi Filmi TR
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",MİNİKA ÇOCUK TR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 group-title="Türkiyə",MİNİKA GO TR
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
+#EXTINF:-1 group-title="Türkiyə",BRT 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",BRT 2
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",İçel TV
+https://edge1.taksimbilisim.com/iceltv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kıbrıs TV
+https://play.kibristv.com/stream/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkiyə",Sun RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Altaş TV
+https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Güneydoğu TV
+https://edge.taksimbilisim.com/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kanal 23
+https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kanal Fırat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Karasu TV
+https://ip100.radyotelekomtv.com:3579/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV 52
+https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",TV1 Kayseri
+https://edge1.taksimbilisim.com/tv1/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",ON MEDYA ᵏᵃᵑᵏᵃ
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL D2 ᵏᵃᵑᵏᵃ
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",MAX PREMİER ᵏᵃᵑᵏᵃ
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL G ᵏᵃᵑᵏᵃ
+https://ip44.radyotelekomtv.com:3887/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL ÖZGÜN ᵏᵃᵑᵏᵃ
+https://live.euromediacenter.com/kanalozguntv/video.m3u8
+#EXTINF:-1 group-title="Türkiyə",BASKA TV ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/baska-tv.m3u8
+#EXTINF:-1 group-title="Türkiyə",YOL TV ᵏᵃᵑᵏᵃ
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Türkiyə",VAN TV ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/ibrahim9071/kick2/refs/heads/main/streams/vantv.m3u8
+#EXTINF:-1 group-title="Türkiyə",SEMERKAND TV ᵏᵃᵑᵏᵃ
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL 12 ᵏᵃᵑᵏᵃ
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",TİME 35 ᵏᵃᵑᵏᵃ
+https://cdn-time35tv.yayin.com.tr/videotime35tv/%20gundemozel7ekim.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",KANAL HAYAT ᵏᵃᵑᵏᵃ
+https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.isml/live.m3u8
+#EXTINF:-1 group-title="Türkiyə",ASF TV ᵏᵃᵑᵏᵃ
+https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türkiyə",CANSUYU TV ᵏᵃᵑᵏᵃ
+https://ip100.radyotelekomtv.com:3730/stream/play.m3u8
+#EXTINF:-1 group-title="Türkiyə",SERCEM TV ᵏᵃᵑᵏᵃ
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 group-title="Türkiyə",RUMELİ TV ᵏᵃᵑᵏᵃ
+http://176.65.153.12:6004/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",Etv Edirne ᵏᵃᵑᵏᵃ
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+#EXTINF:-1 group-title="Türkiyə",ARAS TV ᵏᵃᵑᵏᵃ
+https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",MC eu ᵏᵃᵑᵏᵃ
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",TEK RUMELİ ᵏᵃᵑᵏᵃ
+http://176.65.153.12:6005/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",KRT ᵏᵃᵑᵏᵃ
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Krt.m3u8
+#EXTINF:-1 group-title="Türkiyə",VAN65 TV ᵏᵃᵑᵏᵃ
+https://live.artidijitalmedya.com/artidijital_van65/van65/chunks.m3u8
+#EXTINF:-1 group-title="Türkiyə",DERIN TV ᵏᵃᵑᵏᵃ
+https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
+#EXTINF:-1 group-title="Türkiyə",Flash TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
+#EXTINF:-1 group-title="Türkiyə",4TÜRKPOP TR
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",NR1 ᵏᵃᵑᵏᵃ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6874/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",NR1 Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",NR1 Aşk
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8
+#EXTINF:-1 group-title="Türkiyə",NR1 rap ᵏᵃᵑᵏᵃ
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8
+#EXTINF:-1 group-title="Türkiyə",NR1 Dance
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Kral Pop
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:-1 group-title="Türkiyə",Fora Müzik
+http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 group-title="Türkiyə",Powertürk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER TURK ᵏᵃᵑᵏᵃ
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/index.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER taptaze ᵏᵃᵑᵏᵃ
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER slow ᵏᵃᵑᵏᵃ
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER akustik ᵏᵃᵑᵏᵃ
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER love ᵏᵃᵑᵏᵃ
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",POWER dance ᵏᵃᵑᵏᵃ
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",MEGA TV ᵏᵃᵑᵏᵃ
+http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
+#EXTINF:-1 group-title="Türkiyə",FİNEST TV ᵏᵃᵑᵏᵃ
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Türkiyə",ESFA TV ᵏᵃᵑᵏᵃ
+https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:-1 group-title="Rusiya",Love Nature 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/5001/index.m3u8
+#EXTINF:-1 group-title="Rusiya",В мире животных HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2089/index.m3u8
+#EXTINF:-1 group-title="Rusiya",National Geographic Wild HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2067/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Живая Планета
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2101/index.m3u8
+#EXTINF:-1 group-title="Rusiya",National Geographic Wild orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/9264/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Viju Nature HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/15225/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Nat Geo Wild
+http://185.32.44.154/natgeowild/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Viju Nature
+http://185.32.44.154/viasatnature/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Animal Planet
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/137/index.m3u8
+#EXTINF:-1 group-title="Rusiya",живая Планета
+http://185.32.44.154/jivayaplaneta/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Rusiya",Бокс TB
+http://185.32.44.154:80/bokstv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Arena Fight
+https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",TRT BELGESEL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6852/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Россия 1
+http://flussonic.izone.az:80/rossiya1/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Россия 24
+http://185.32.44.154/rosiyya24/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Pоссия К
+http://185.32.44.154/rossiakultura/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",PTP Планета
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/18042/index.m3u8
+#EXTINF:-1 group-title="Rusiya",5 канал
+http://185.32.44.154/5kanal/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",РЕН ТВ
+http://185.32.44.154/rentv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",звезда
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/544/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Мир тв
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Rusiya",THT4
+http://185.32.44.154/tntcomedy/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",CTC
+http://185.32.44.154/ctc/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Пятница!
+http://185.32.44.154/pyatnicha/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",TB-3
+http://185.32.44.154/tv3/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Че
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/513/index.m3u8
+#EXTINF:-1 group-title="Rusiya",2x2
+http://185.32.44.154/2x2/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Viju Premiere
+http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Viju Megahit
+http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="Rusiya",TV1000 Русское кино
+http://185.32.44.154/tv1000ruskoekino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",TV1000
+http://185.32.44.154/tv1000/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",TV1000 Action
+http://185.32.44.154/tv1000action/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Viju Comedy
+http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Кинохит
+http://185.32.44.154/kinoxit/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Кинокомедия
+http://185.32.44.154/kinokomedia/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Киносвидание
+http://flussonic.izone.az:80/kinosvidanie/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Киносемья
+http://flussonic.izone.az:80/kinosemya/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Мужское кино
+http://185.32.44.154/mkino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",любимое кино
+http://185.32.44.154/lubimoekino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Русский Иллюзион
+http://185.32.44.154/russkiyiluzion/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Amedia Premium
+http://flussonic.izone.az:80/AmediaPremium/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Amedia 2
+http://flussonic.izone.az:80/amedia2/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",КИНЕКО
+http://185.32.44.154/foxrussia/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Сапфир ТВ
+http://185.32.44.154/foxlife/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Еврокино
+http://flussonic.izone.az:80/eurokino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Индийское кино
+http://185.32.44.154/indiskoekino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",24 Док
+http://185.32.44.154/24dok/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Кто есть кто
+http://185.32.44.154/ktoestkto/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Ностальгия
+http://flussonic.izone.az:80/nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",TLC
+http://185.32.44.154/tlc/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Домашние животные
+http://185.32.44.154/domashniejivotnie/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Парк Развлечений
+http://flussonic.izone.az:80/parkrasvleceniy/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",РЕН ТВ [flussonic.izone]
+http://flussonic.izone.az:80/rentv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",5 канал [flussonic.izone]
+http://flussonic.izone.az:80/5kanal/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Пятница! [flussonic.izone]
+http://flussonic.izone.az:80/pyatnicha/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Русский Иллюзион [flussonic.izone]
+http://flussonic.izone.az:80/russkiyiluzion/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Rusiya",viju TV1000 [flussonic.mkpnet]
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="Rusiya",TV1000 ACTION HD
+http://flussonic.izone.az:80/tv1000action/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",viju TV1000 Action [flussonic.mkpnet]
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="Rusiya",viju+ Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="Rusiya",viju+ Comedy HD
+https://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
+#EXTINF:-1 group-title="Rusiya",Телеканал Комедия
+http://flussonic.izone.az:80/telekanalkomedia/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Киносерия HD
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Родное Кино
+http://flussonic.izone.az:80/rodnoekino/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Amedia Hit
+http://flussonic.izone.az:80/amediahit/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Кино ТВ
+http://flussonic.izone.az:80/kinotv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",•black
+http://flussonic.izone.az:80/sonyturbo/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 group-title="Rusiya",EuroSport 1
+http://flussonic.izone.az:80/eurosport/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",S TV
+http://flussonic.izone.az:80/stv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Fox Life
+http://flussonic.izone.az:80/foxlife/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Sony SCI-FI
+http://flussonic.izone.az:80/sonyscifi/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Эгоист ТВ
+http://flussonic.izone.az:80/egoisttv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Sony TV
+http://flussonic.izone.az:80/sonytv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",БОБЁР ТВ
+http://flussonic.izone.az:80/bobertv/mono.m3u8
+#EXTINF:-1 group-title="Rusiya",Amedia 1
+http://flussonic.izone.az:80/amedia1/mono.m3u8
+#EXTINF:-1 group-title="Film",GZT ᵏᵃᵑᵏᵃ
+https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
+#EXTINF:-1 group-title="Film",EKOL TV ᵏᵃᵑᵏᵃ
+http://176.65.153.12:6005/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Film",TE TV ᵏᵃᵑᵏᵃ
+https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film",YANSIMA SİNEMA ᵏᵃᵑᵏᵃ
+http://boztv.smartiptvworld.workers.dev/ysmtvmedya.m3u8
+#EXTINF:-1 group-title="Film",FIX ᵏᵃᵑᵏᵃ
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 group-title="Film",EFSANE 1 ᵏᵃᵑᵏᵃ
+http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96572
+#EXTINF:-1 group-title="Film",EFSANE 2 ᵏᵃᵑᵏᵃ
+http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96573
+#EXTINF:-1 group-title="Film",EFSANE 3 ᵏᵃᵑᵏᵃ
+http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96574
+#EXTINF:-1 group-title="Film",EFSANE 4 ᵏᵃᵑᵏᵃ
+http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96575
+#EXTINF:-1 group-title="Film",HABER RIZE ᵏᵃᵑᵏᵃ
+https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film",Şehir Ekranı ᵏᵃᵑᵏᵃ
+https://yayin3.haber100.com/live/sehirekrani/playlist.m3u8
+#EXTINF:-1 group-title="Film",MALATYA VUSLAT ᵏᵃᵑᵏᵃ
+https://telase.com.tr/garaveli/live/telase/telase/228.ts
+#EXTINF:-1 group-title="Film",GENÇ TV ᵏᵃᵑᵏᵃ
+https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Film",HOÇWAN TV ᵏᵃᵑᵏᵃ
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+#EXTINF:-1 group-title="Film",B Sinema
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+#EXTINF:-1 group-title="Film",beIN Box Office 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6744/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Box Office 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6745/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Box Office 3 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6743/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Movies Premiere 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6879/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Movies Premiere HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6880/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Series 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6814/index.m3u8
+#EXTINF:-1 group-title="Film",beIN Series Drama HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6882/index.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD1 MAX(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD1(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD2 MAX(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD2(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD3(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD4(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="Film",beIN SPORTS HD5(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 group-title="Film",Cem TV
+https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
+#EXTINF:-1 group-title="Film",Cine 5 HD
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Film",Deniz TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
+#EXTINF:-1 group-title="Film",Kanal Plus
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+#EXTINF:-1 group-title="Film",Max Premier
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Film",S SPORT 2(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 group-title="Film",S SPORT(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 group-title="Film",Sinema Aksiyon 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6812/index.m3u8
+#EXTINF:-1 group-title="Film",Sinema TV HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6806/index.m3u8
+#EXTINF:-1 group-title="Film",tabii SPOR(biraz)
+https://biraz.6781237.xyz/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 group-title="Film",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8

@@ -1,1190 +1,794 @@
 #EXTM3U
-#EXTINF:0,AzTV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="AzTV" tvg-logo="" group-title="Azərbaycan",AzTV
 http://149.255.154.194:80/azertv/mono.m3u8
-#EXTINF:0,Mədəniyyət AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Mədəniyyət AZ" tvg-logo="" group-title="Azərbaycan",Mədəniyyət AZ
 http://185.32.44.154/MedeniyyetHD/mono.m3u8
-#EXTINF:0,Idman AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Idman AZ" tvg-logo="" group-title="Azərbaycan",Idman AZ
 http://149.255.154.194:80/idmantele/mono.m3u8
-#EXTINF:0,CBC SPORT TV HD
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT TV HD" tvg-logo="" group-title="Azərbaycan",CBC SPORT TV HD
 http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8
-#EXTINF:0,S Sport
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="S Sport" tvg-logo="" group-title="Azərbaycan",S Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/31926/index.m3u8
-#EXTINF:0,Biznes TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Biznes TV" tvg-logo="" group-title="Azərbaycan",Biznes TV
 http://149.255.154.194:80/biznestv/mono.m3u8
-#EXTINF:0,Baku TV AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Baku TV AZ" tvg-logo="" group-title="Azərbaycan",Baku TV AZ
 http://149.255.154.194/bakutv/index.m3u8
-#EXTINF:0,Apa TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Apa TV" tvg-logo="" group-title="Azərbaycan",Apa TV
 http://149.255.154.194/apatv/index.m3u8
-#EXTINF:0,Real TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Real TV" tvg-logo="" group-title="Azərbaycan",Real TV
 http://149.255.154.194/real/index.m3u8
-#EXTINF:0,ARB 24 HD
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24 HD" tvg-logo="" group-title="Azərbaycan",ARB 24 HD
 http://185.32.44.154/ARB24HD/mono.m3u8
-#EXTINF:0,ARB Günəş HD
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="ARB Günəş HD" tvg-logo="" group-title="Azərbaycan",ARB Günəş HD
 http://flussonic.izone.az:80/arbgunesh/mono.m3u8
-#EXTINF:0,ARB
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="ARB" tvg-logo="" group-title="Azərbaycan",ARB
 http://185.32.44.154/arb/mono.m3u8
-#EXTINF:0,İctimai TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="İctimai TV" tvg-logo="" group-title="Azərbaycan",İctimai TV
 http://149.255.154.194:80/ictimaitele/mono.m3u8
-#EXTINF:0,Space TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Space TV" tvg-logo="" group-title="Azərbaycan",Space TV
 http://str.yodacdn.net/space/index.m3u8
-#EXTINF:0,Azad TV AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Azad TV AZ" tvg-logo="" group-title="Azərbaycan",Azad TV AZ
 https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Atv-fhd-tv-restream.m3u8
-#EXTINF:0,Xəzər TV HD
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Xəzər TV HD" tvg-logo="" group-title="Azərbaycan",Xəzər TV HD
 http://185.32.44.154/XezerTVHD/mono.m3u8
-#EXTINF:0,Dünya TV HD
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Dünya TV HD" tvg-logo="" group-title="Azərbaycan",Dünya TV HD
 http://185.32.44.154/dunyatv/index.m3u8
-#EXTINF:0,Muz TV AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Muz TV AZ" tvg-logo="" group-title="Azərbaycan",Muz TV AZ
 http://mfe01.cliptv.az/dash/MuzTV_Azeri_SDyt0160r56_re.ism/playlist.mpd
-#EXTINF:0,Start TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Start TV" tvg-logo="" group-title="Azərbaycan",Start TV
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:0,Kəpəz TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Kəpəz TV" tvg-logo="" group-title="Azərbaycan",Kəpəz TV
 https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/KEPEZ_TV-restream.m3u8
-#EXTINF:0,Naxçıvan TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Naxçıvan TV" tvg-logo="" group-title="Azərbaycan",Naxçıvan TV
 http://149.255.154.194/ntv/index.m3u8
-#EXTINF:0,Kanal 35
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 35" tvg-logo="" group-title="Azərbaycan",Kanal 35
 http://149.255.154.194:80/kanal35/tracks-v1a1/mono.m3u8
-#EXTINF:0,Qafqaz TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Qafqaz TV" tvg-logo="" group-title="Azərbaycan",Qafqaz TV
 http://149.255.154.194/qafkaz/index.m3u8
-#EXTINF:0,EL TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="EL TV" tvg-logo="" group-title="Azərbaycan",EL TV
 http://149.255.154.194/eltv/index.m3u8
-#EXTINF:0,Live TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Live TV" tvg-logo="" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:0,Show Plus TV AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Show Plus TV AZ" tvg-logo="" group-title="Azərbaycan",Show Plus TV AZ
 https://raw.githubusercontent.com/Hesen568/VIP-PANEL/main/Showplus-restream.m3u8
-#EXTINF:0,ATV Cinema AZ
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="ATV Cinema AZ" tvg-logo="" group-title="Azərbaycan",ATV Cinema AZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2120/index.m3u8
-#EXTINF:0,Fərrux TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Fərrux TV" tvg-logo="" group-title="Azərbaycan",Fərrux TV
 https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Ftvaz-restream.m3u8
-#EXTINF:0,Diginet Cinema
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Diginet Cinema" tvg-logo="" group-title="Azərbaycan",Diginet Cinema
 https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/6bbc3d39baab09c921a372e9316757075307613c/DIGINET_CINEMA_TV-restream.m3u8
-#EXTINF:0,HTV Sinema
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="HTV Sinema" tvg-logo="" group-title="Azərbaycan",HTV Sinema
 http://a8.radyotelekom.com.tr/p/3761/stream/play.m3u8
-#EXTINF:0,Şirvan TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Şirvan TV" tvg-logo="" group-title="Azərbaycan",Şirvan TV
 http://a8.radyotelekom.com.tr/p/3326/stream/play.m3u8
-#EXTINF:0,Sinema TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV" tvg-logo="" group-title="Azərbaycan",Sinema TV
 https://raw.githubusercontent.com/Hesen568/VIP-Panel/refs/heads/main/Azer_Chd_tv-restream.m3u8
-#EXTINF:0,Simvol TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Simvol TV" tvg-logo="" group-title="Azərbaycan",Simvol TV
 https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
-#EXTINF:0,Səhiyyə TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Səhiyyə TV" tvg-logo="" group-title="Azərbaycan",Səhiyyə TV
 http://185.32.44.154/sehiyye/mono.m3u8
-#EXTINF:0,Sirius TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Sirius TV" tvg-logo="" group-title="Azərbaycan",Sirius TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:0,Flux TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Flux TV" tvg-logo="" group-title="Azərbaycan",Flux TV
 https://raw.githubusercontent.com/Hesen568/VIP-BLACK/main/Esmatv-restream.m3u8
-#EXTINF:0,Retro TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Retro TV" tvg-logo="" group-title="Azərbaycan",Retro TV
 https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/RETRO_TV-restream.m3u8
-#EXTINF:0,Max TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Max TV" tvg-logo="" group-title="Azərbaycan",Max TV
 https://cdn4.yayin.com.tr/maxtv/video.m3u8
-#EXTINF:0,Könül TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Könül TV" tvg-logo="" group-title="Azərbaycan",Könül TV
 https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/KONUL_TV-restream.m3u8
-#EXTINF:0,KN TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="KN TV" tvg-logo="" group-title="Azərbaycan",KN TV
 https://raw.githubusercontent.com/Sunx4k/Best_4K/main/Sunx4k-KNTVHD-restream.m3u8
-#EXTINF:0,Neo Play
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Neo Play" tvg-logo="" group-title="Azərbaycan",Neo Play
 https://a8.radyotelekom.com.tr:3800/stream/play.m3u8
-#EXTINF:0,Mahnı TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Mahnı TV" tvg-logo="" group-title="Azərbaycan",Mahnı TV
 https://mahnitvonline.xyz/mahnitv/index.m3u8
-#EXTINF:0,Music Azərbaycan
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Music Azərbaycan" tvg-logo="" group-title="Azərbaycan",Music Azərbaycan
 https://raw.githubusercontent.com/NewedaVIP/HK_PROVIP/main/AZERBAYCAN_MUSIC_TV-restream.m3u8
-#EXTINF:0,Vostok TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Vostok TV" tvg-logo="" group-title="Azərbaycan",Vostok TV
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:0,Ayaz TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Ayaz TV" tvg-logo="" group-title="Azərbaycan",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:0,Səs TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Səs TV" tvg-logo="" group-title="Azərbaycan",Səs TV
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist.m3u8
-#EXTINF:0,GünAz TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="GünAz TV" tvg-logo="" group-title="Azərbaycan",GünAz TV
 https://raw.githubusercontent.com/Hesen568/VIP-BLACK/50a070fdb9d94e6aa51023956bc30f16672ab99e/Gunaz_tv-restream.m3u8
-#EXTINF:0,Ritim TV
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Ritim TV" tvg-logo="" group-title="Azərbaycan",Ritim TV
 https://ritimtv.ozelip.com:3632/hybrid/play.m3u8
-#EXTINF:0,Könül Musiqi
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="Könül Musiqi" tvg-logo="" group-title="Azərbaycan",Könül Musiqi
 https://raw.githubusercontent.com/Wubmax/Wubmax_HD/main/KONUL_MUSIC_TV-restream.m3u8
-#EXTINF:0,7/24 Film
-#EXTGRP:Azərbaycan
+#EXTINF:-1 tvg-id="" tvg-name="7/24 Film" tvg-logo="" group-title="Azərbaycan",7/24 Film
 https://filim-tv.ismayilbaba611.workers.dev/strem.m3u8
-#EXTINF:0,360 TV HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD TR" tvg-logo="" group-title="Türkiyə",360 TV HD TR
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:0,ATV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ATV TR" tvg-logo="" group-title="Türkiyə",ATV TR
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1641.m3u8
-#EXTINF:0,ATV HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD TR" tvg-logo="" group-title="Türkiyə",ATV HD TR
 http://flussonic.izone.az:80/atvturk/mono.m3u8
-#EXTINF:0,ATV Avrupa TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ATV Avrupa TR" tvg-logo="" group-title="Türkiyə",ATV Avrupa TR
 http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
-#EXTINF:0,A2 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="A2 TR" tvg-logo="" group-title="Türkiyə",A2 TR
 http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/10687.ts
-#EXTINF:0,BEYAZ TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV TR" tvg-logo="" group-title="Türkiyə",BEYAZ TV TR
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0,Now TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Now TV TR" tvg-logo="" group-title="Türkiyə",Now TV TR
 http://erlyvideo.izone.az:80/nowtv/mono.m3u8
-#EXTINF:0,NOW HD Mehdi
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NOW HD Mehdi" tvg-logo="" group-title="Türkiyə",NOW HD Mehdi
 https://nowtv.mehdimyev.workers.dev/nowtv.m3u8
-#EXTINF:0,KANAL D HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD TR" tvg-logo="" group-title="Türkiyə",KANAL D HD TR
 http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1511.ts
-#EXTINF:0,EURO D TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EURO D TR" tvg-logo="" group-title="Türkiyə",EURO D TR
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0,KANAL 7 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 TR" tvg-logo="" group-title="Türkiyə",KANAL 7 TR
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,SHOW TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV TR" tvg-logo="" group-title="Türkiyə",SHOW TV TR
 http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1508.ts
-#EXTINF:0,SHOW TURK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TURK TR" tvg-logo="" group-title="Türkiyə",SHOW TURK TR
 https://turk-tv.ismayilbaba611.workers.dev/showturk.m3u8
-#EXTINF:0,Show Max TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Show Max TR" tvg-logo="" group-title="Türkiyə",Show Max TR
 http://176.65.153.12:6002/play/a05q/index.m3u8
-#EXTINF:0,STAR TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="" group-title="Türkiyə",STAR TV
 http://185.32.44.154:80/starhd/mono.m3u8
-#EXTINF:0,EUROSTAR HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EUROSTAR HD TR" tvg-logo="" group-title="Türkiyə",EUROSTAR HD TR
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-2/estar.m3u8
-#EXTINF:0,TRT 1 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 TR" tvg-logo="" group-title="Türkiyə",TRT 1 TR
 http://erlyvideo.izone.az:80/trt1/mono.m3u8
-#EXTINF:0,TRT 1 (Ehtiyat)
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 (Ehtiyat)" tvg-logo="" group-title="Türkiyə",TRT 1 (Ehtiyat)
 http://delta.delta-tv.uk:8080/nerminkadic/OMpoNVks9DteGRjwWQC41ppvvLsvObWq/1105.ts
-#EXTINF:0,TRT 2 HD
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 HD" tvg-logo="" group-title="Türkiyə",TRT 2 HD
 http://176.65.153.35:6001/play/a028/index.m3u8
-#EXTINF:0,TRT TURK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK TR" tvg-logo="" group-title="Türkiyə",TRT TURK TR
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT AVAZ TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ TR" tvg-logo="" group-title="Türkiyə",TRT AVAZ TR
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TV 2 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 2 TR" tvg-logo="" group-title="Türkiyə",TV 2 TR
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:0,TV 8 HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD TR" tvg-logo="" group-title="Türkiyə",TV 8 HD TR
 http://185.32.44.154:80/tv8hd/mono.m3u8
-#EXTINF:0,TV 8.5 HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD TR" tvg-logo="" group-title="Türkiyə",TV 8.5 HD TR
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:0,TV 8 Int TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 Int TR" tvg-logo="" group-title="Türkiyə",TV 8 Int TR
 http://185.32.44.154:80/tv8int/mono.m3u8
-#EXTINF:0,B! Kanal
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="B! Kanal" tvg-logo="" group-title="Türkiyə",B! Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:0,TV5 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV5 TR" tvg-logo="" group-title="Türkiyə",TV5 TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6751/index.m3u8
-#EXTINF:0,Cine 1
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Cine 1" tvg-logo="" group-title="Türkiyə",Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
-#EXTINF:0,TV4 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV4 TR" tvg-logo="" group-title="Türkiyə",TV4 TR
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6753/index.m3u8
-#EXTINF:0,Line TV Bursa TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Line TV Bursa TR" tvg-logo="" group-title="Türkiyə",Line TV Bursa TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6759/index.m3u8
-#EXTINF:0,FİLM SCREEN TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="FİLM SCREEN TR" tvg-logo="" group-title="Türkiyə",FİLM SCREEN TR
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:0,Çay TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Çay TV" tvg-logo="" group-title="Türkiyə",Çay TV
 https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
-#EXTINF:0,Dost TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Dost TV TR" tvg-logo="" group-title="Türkiyə",Dost TV TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6793/index.m3u8
-#EXTINF:0,DiziSmart Premium HD TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="DiziSmart Premium HD TR" tvg-logo="" group-title="Türkiyə",DiziSmart Premium HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6802/index.m3u8
-#EXTINF:0,TELEON TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TELEON TR" tvg-logo="" group-title="Türkiyə",TELEON TR
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
-#EXTINF:0,AS TV Bursa TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="AS TV Bursa TR" tvg-logo="" group-title="Türkiyə",AS TV Bursa TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6777/index.m3u8
-#EXTINF:0,DMAX TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="DMAX TR" tvg-logo="" group-title="Türkiyə",DMAX TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2300/index.m3u8
-#EXTINF:0,AKSU TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV TR" tvg-logo="" group-title="Türkiyə",AKSU TV TR
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:0,ALANYA POSTA TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ALANYA POSTA TR" tvg-logo="" group-title="Türkiyə",ALANYA POSTA TR
 https://win1.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:0,Anadolum TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Anadolum TR" tvg-logo="" group-title="Türkiyə",Anadolum TR
 https://cdn4.yayin.com.tr/anadolum/index.m3u8
-#EXTINF:0,AS TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="AS TV TR" tvg-logo="" group-title="Türkiyə",AS TV TR
 https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
-#EXTINF:0,ATV Alanya TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ATV Alanya TR" tvg-logo="" group-title="Türkiyə",ATV Alanya TR
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-#EXTINF:0,BEGEN TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BEGEN TV TR" tvg-logo="" group-title="Türkiyə",BEGEN TV TR
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
-#EXTINF:0,Bir TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Bir TV TR" tvg-logo="" group-title="Türkiyə",Bir TV TR
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
-#EXTINF:0,CAN TEMPO TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="CAN TEMPO TV TR" tvg-logo="" group-title="Türkiyə",CAN TEMPO TV TR
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:0,DENİZ POSTASI TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="DENİZ POSTASI TV TR" tvg-logo="" group-title="Türkiyə",DENİZ POSTASI TV TR
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:0,EDESSA TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EDESSA TV TR" tvg-logo="" group-title="Türkiyə",EDESSA TV TR
 https://canli.edessatv.com/hls/stream.m3u8
-#EXTINF:0,EGEMAX TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EGEMAX TV TR" tvg-logo="" group-title="Türkiyə",EGEMAX TV TR
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
-#EXTINF:0,EN TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EN TV TR" tvg-logo="" group-title="Türkiyə",EN TV TR
 https://ip100.radyotelekomtv.com:3348/hybrid/play.m3u8
-#EXTINF:0,ERCİYES TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ERCİYES TV TR" tvg-logo="" group-title="Türkiyə",ERCİYES TV TR
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8
-#EXTINF:0,GÖPSEN TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="GÖPSEN TV TR" tvg-logo="" group-title="Türkiyə",GÖPSEN TV TR
 https://canli.gopsentv.com:3604/stream/play.m3u8
-#EXTINF:0,GRT TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="GRT TR" tvg-logo="" group-title="Türkiyə",GRT TR
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
-#EXTINF:0,HUNAT TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="HUNAT TV TR" tvg-logo="" group-title="Türkiyə",HUNAT TV TR
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
-#EXTINF:0,Kanal ADA TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kanal ADA TR" tvg-logo="" group-title="Türkiyə",Kanal ADA TR
 http://ip252.ozelip.com:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
-#EXTINF:0,KANAL T TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL T TR" tvg-logo="" group-title="Türkiyə",KANAL T TR
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
-#EXTINF:0,KANAL 15 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 15 TR" tvg-logo="" group-title="Türkiyə",KANAL 15 TR
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:0,KANAL 19 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 19 TR" tvg-logo="" group-title="Türkiyə",KANAL 19 TR
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-#EXTINF:0,KANAL 26 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 26 TR" tvg-logo="" group-title="Türkiyə",KANAL 26 TR
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-#EXTINF:0,KANAL 53 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 53 TR" tvg-logo="" group-title="Türkiyə",KANAL 53 TR
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:0,KANAL 58 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58 TR" tvg-logo="" group-title="Türkiyə",KANAL 58 TR
 https://telase.com.tr/garaveli/live/telase/telase/135.ts
-#EXTINF:0,KANAL SİM TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL SİM TR" tvg-logo="" group-title="Türkiyə",KANAL SİM TR
 https://edge.kuzeykibrissmart.tv/simtv/bant1/playlist.m3u8
-#EXTINF:0,KANAL V TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V TR" tvg-logo="" group-title="Türkiyə",KANAL V TR
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
-#EXTINF:0,KARDELEN TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KARDELEN TV TR" tvg-logo="" group-title="Türkiyə",KARDELEN TV TR
 https://edge1.taksimbilisim.com/kardelentv/bant1/playlist.m3u8
-#EXTINF:0,KDC TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KDC TV TR" tvg-logo="" group-title="Türkiyə",KDC TV TR
 https://tv191.radyotelekom.com.tr:3466/stream/play.m3u8
-#EXTINF:0,Kanal Avrupa
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa" tvg-logo="" group-title="Türkiyə",Kanal Avrupa
 https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
-#EXTINF:0,KOCAELİ TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KOCAELİ TV TR" tvg-logo="" group-title="Türkiyə",KOCAELİ TV TR
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
-#EXTINF:0,KONYA OLAY TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KONYA OLAY TV TR" tvg-logo="" group-title="Türkiyə",KONYA OLAY TV TR
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-#EXTINF:0,KTV TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KTV TV TR" tvg-logo="" group-title="Türkiyə",KTV TV TR
 https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:0,Line TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Line TV TR" tvg-logo="" group-title="Türkiyə",Line TV TR
 https://edge1.taksimbilisim.com/linetv/bant1/chunks.m3u8
-#EXTINF:0,MERCAN TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN TV TR" tvg-logo="" group-title="Türkiyə",MERCAN TV TR
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:0,OLAY TÜRK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="OLAY TÜRK TR" tvg-logo="" group-title="Türkiyə",OLAY TÜRK TR
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
-#EXTINF:0,ON 6 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ON 6 TR" tvg-logo="" group-title="Türkiyə",ON 6 TR
 https://live.euromediacenter.com/on6tvyayin/tracks-v1a1/mono.m3u8
-#EXTINF:0,RUHA TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="RUHA TV TR" tvg-logo="" group-title="Türkiyə",RUHA TV TR
 https://ruhatv.radyotelekom.com.tr:3515/live/ruhatvlive.m3u8
-#EXTINF:0,Serhat TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Serhat TV TR" tvg-logo="" group-title="Türkiyə",Serhat TV TR
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/best/serhattv.m3u8
-#EXTINF:0,TON TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TON TV TR" tvg-logo="" group-title="Türkiyə",TON TV TR
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
-#EXTINF:0,TV DEN TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN TR" tvg-logo="" group-title="Türkiyə",TV DEN TR
 https://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:0,Tivi 16
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Tivi 16" tvg-logo="" group-title="Türkiyə",Tivi 16
 https://tv156.radyotelekom.com.tr:3785/stream/play.m3u8
-#EXTINF:0,TV 41 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 41 TR" tvg-logo="" group-title="Türkiyə",TV 41 TR
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
-#EXTINF:0,TV 42 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 42 TR" tvg-logo="" group-title="Türkiyə",TV 42 TR
 https://canliyayin.tv42.com.tr/memfs/0c8c4bc7-550a-4239-8e3d-6f4d768391bb_output_0.m3u8?session=L75pVv7j2hMkFAj4JYazdE
-#EXTINF:0,Televone
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Televone" tvg-logo="" group-title="Türkiyə",Televone
 https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
-#EXTINF:0,VRT TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="VRT TR" tvg-logo="" group-title="Türkiyə",VRT TR
 https://vrttv.ozelip.com:3278/hybrid/play.m3u8
-#EXTINF:0,ALMANYA TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ALMANYA TV TR" tvg-logo="" group-title="Türkiyə",ALMANYA TV TR
 http://145.239.37.125:20458/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:0,İSVİÇRE TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="İSVİÇRE TV TR" tvg-logo="" group-title="Türkiyə",İSVİÇRE TV TR
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:0,AKKON TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="AKKON TV TR" tvg-logo="" group-title="Türkiyə",AKKON TV TR
 https://ip.akkontv.com:3205/stream/play.m3u8
-#EXTINF:0,Deniz TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Deniz TV TR" tvg-logo="" group-title="Türkiyə",Deniz TV TR
 http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
-#EXTINF:0,EZGİ TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="EZGİ TV TR" tvg-logo="" group-title="Türkiyə",EZGİ TV TR
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
-#EXTINF:0,İLKE TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="İLKE TV TR" tvg-logo="" group-title="Türkiyə",İLKE TV TR
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:0,KANAL 6 TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 6 TV TR" tvg-logo="" group-title="Türkiyə",KANAL 6 TV TR
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
-#EXTINF:0,KANAL PLUS TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL PLUS TR" tvg-logo="" group-title="Türkiyə",KANAL PLUS TR
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
-#EXTINF:0,MELTEM TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MELTEM TV TR" tvg-logo="" group-title="Türkiyə",MELTEM TV TR
 http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-#EXTINF:0,METRO TÜRK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="METRO TÜRK TR" tvg-logo="" group-title="Türkiyə",METRO TÜRK TR
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
-#EXTINF:0,MK TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MK TV TR" tvg-logo="" group-title="Türkiyə",MK TV TR
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:0,NEF TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NEF TV TR" tvg-logo="" group-title="Türkiyə",NEF TV TR
 https://ip44.radyotelekomtv.com:3628/stream/play.m3u8
-#EXTINF:0,OBB TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="OBB TV TR" tvg-logo="" group-title="Türkiyə",OBB TV TR
 https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
-#EXTINF:0,RUMELİ TÜRK TV TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="RUMELİ TÜRK TV TR" tvg-logo="" group-title="Türkiyə",RUMELİ TÜRK TV TR
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:B4:54:0F&stream=197188&extension=ts&play_token=PaNAKhTAov
-#EXTINF:0,SAT7 TÜRK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="SAT7 TÜRK TR" tvg-logo="" group-title="Türkiyə",SAT7 TÜRK TR
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:0,TV 4
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="" group-title="Türkiyə",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:0,TİVİ6 TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TİVİ6 TR" tvg-logo="" group-title="Türkiyə",TİVİ6 TR
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,MMN Channel TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MMN Channel TR" tvg-logo="" group-title="Türkiyə",MMN Channel TR
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
-#EXTINF:0,YANSIMA MUZUK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="YANSIMA MUZUK TR" tvg-logo="" group-title="Türkiyə",YANSIMA MUZUK TR
 https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
-#EXTINF:0,Çizgi Filmi TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Çizgi Filmi TR" tvg-logo="" group-title="Türkiyə",Çizgi Filmi TR
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist.m3u8
-#EXTINF:0,MİNİKA ÇOCUK TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MİNİKA ÇOCUK TR" tvg-logo="" group-title="Türkiyə",MİNİKA ÇOCUK TR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:0,MİNİKA GO TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO TR" tvg-logo="" group-title="Türkiyə",MİNİKA GO TR
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
-#EXTINF:0,BRT 1
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="" group-title="Türkiyə",BRT 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
-#EXTINF:0,BRT 2
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BRT 2" tvg-logo="" group-title="Türkiyə",BRT 2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
-#EXTINF:0,BRTV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BRTV" tvg-logo="" group-title="Türkiyə",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
-#EXTINF:0,ES TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ES TV" tvg-logo="" group-title="Türkiyə",ES TV
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:0,İçel TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="İçel TV" tvg-logo="" group-title="Türkiyə",İçel TV
 https://edge1.taksimbilisim.com/iceltv/bant1/chunks.m3u8
-#EXTINF:0,Kıbrıs TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kıbrıs TV" tvg-logo="" group-title="Türkiyə",Kıbrıs TV
 https://play.kibristv.com/stream/hls/stream.m3u8
-#EXTINF:0,Sun RTV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Sun RTV" tvg-logo="" group-title="Türkiyə",Sun RTV
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8
-#EXTINF:0,Altaş TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Altaş TV" tvg-logo="" group-title="Türkiyə",Altaş TV
 https://edge1.taksimbilisim.com/altastv/bant1/playlist.m3u8
-#EXTINF:0,ETV Kayseri
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ETV Kayseri" tvg-logo="" group-title="Türkiyə",ETV Kayseri
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:0,Güneydoğu TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Güneydoğu TV" tvg-logo="" group-title="Türkiyə",Güneydoğu TV
 https://edge.taksimbilisim.com/gtv/bant1/playlist.m3u8
-#EXTINF:0,Kanal 23
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 23" tvg-logo="" group-title="Türkiyə",Kanal 23
 https://cdn-kanal23.yayin.com.tr/kanal23/tracks-v2a1/mono.m3u8
-#EXTINF:0,Kanal 3
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3" tvg-logo="" group-title="Türkiyə",Kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
-#EXTINF:0,Kanal Fırat
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Fırat" tvg-logo="" group-title="Türkiyə",Kanal Fırat
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:0,Karasu TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Karasu TV" tvg-logo="" group-title="Türkiyə",Karasu TV
 https://ip100.radyotelekomtv.com:3579/stream/play.m3u8
-#EXTINF:0,Kay TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kay TV" tvg-logo="" group-title="Türkiyə",Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
-#EXTINF:0,Rize Türk TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Rize Türk TV" tvg-logo="" group-title="Türkiyə",Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:0,TV 52
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="" group-title="Türkiyə",TV 52
 https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
-#EXTINF:0,TV1 Kayseri
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TV1 Kayseri" tvg-logo="" group-title="Türkiyə",TV1 Kayseri
 https://edge1.taksimbilisim.com/tv1/bant1/chunks.m3u8
-#EXTINF:0,ON MEDYA ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ON MEDYA ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",ON MEDYA ᵏᵃᵑᵏᵃ
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
-#EXTINF:0,KANAL D2 ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D2 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KANAL D2 ᵏᵃᵑᵏᵃ
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
-#EXTINF:0,MAX PREMİER ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MAX PREMİER ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",MAX PREMİER ᵏᵃᵑᵏᵃ
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:0,KANAL G ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL G ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KANAL G ᵏᵃᵑᵏᵃ
 https://ip44.radyotelekomtv.com:3887/hybrid/play.m3u8
-#EXTINF:0,KANAL ÖZGÜN ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL ÖZGÜN ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KANAL ÖZGÜN ᵏᵃᵑᵏᵃ
 https://live.euromediacenter.com/kanalozguntv/video.m3u8
-#EXTINF:0,BASKA TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="BASKA TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",BASKA TV ᵏᵃᵑᵏᵃ
 https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/baska-tv.m3u8
-#EXTINF:0,YOL TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",YOL TV ᵏᵃᵑᵏᵃ
 https://live.yoltv.com/hls/stream.m3u8
-#EXTINF:0,VAN TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="VAN TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",VAN TV ᵏᵃᵑᵏᵃ
 https://raw.githubusercontent.com/ibrahim9071/kick2/refs/heads/main/streams/vantv.m3u8
-#EXTINF:0,SEMERKAND TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",SEMERKAND TV ᵏᵃᵑᵏᵃ
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:0,KANAL 12 ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 12 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KANAL 12 ᵏᵃᵑᵏᵃ
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
-#EXTINF:0,TİME 35 ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TİME 35 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",TİME 35 ᵏᵃᵑᵏᵃ
 https://cdn-time35tv.yayin.com.tr/videotime35tv/%20gundemozel7ekim.mp4/playlist.m3u8
-#EXTINF:0,KANAL HAYAT ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KANAL HAYAT ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KANAL HAYAT ᵏᵃᵑᵏᵃ
 https://livecdn.use1-0004.jwplive.com/live/sites/WpgVdplm/media/icNwL50b/live.isml/live.m3u8
-#EXTINF:0,ASF TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ASF TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",ASF TV ᵏᵃᵑᵏᵃ
 https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/mono.m3u8
-#EXTINF:0,CANSUYU TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="CANSUYU TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",CANSUYU TV ᵏᵃᵑᵏᵃ
 https://ip100.radyotelekomtv.com:3730/stream/play.m3u8
-#EXTINF:0,SERCEM TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="SERCEM TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",SERCEM TV ᵏᵃᵑᵏᵃ
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:0,RUMELİ TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="RUMELİ TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",RUMELİ TV ᵏᵃᵑᵏᵃ
 http://176.65.153.12:6004/play/a01v/index.m3u8
-#EXTINF:0,Etv Edirne ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Etv Edirne ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",Etv Edirne ᵏᵃᵑᵏᵃ
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
-#EXTINF:0,ARAS TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ARAS TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",ARAS TV ᵏᵃᵑᵏᵃ
 https://2.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:0,MC eu ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MC eu ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",MC eu ᵏᵃᵑᵏᵃ
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:0,TEK RUMELİ ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="TEK RUMELİ ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",TEK RUMELİ ᵏᵃᵑᵏᵃ
 http://176.65.153.12:6005/play/a03f/index.m3u8
-#EXTINF:0,KRT ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="KRT ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",KRT ᵏᵃᵑᵏᵃ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Krt.m3u8
-#EXTINF:0,VAN65 TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="VAN65 TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",VAN65 TV ᵏᵃᵑᵏᵃ
 https://live.artidijitalmedya.com/artidijital_van65/van65/chunks.m3u8
-#EXTINF:0,DERIN TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="DERIN TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",DERIN TV ᵏᵃᵑᵏᵃ
 https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
-#EXTINF:0,Flash TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Flash TV" tvg-logo="" group-title="Türkiyə",Flash TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
-#EXTINF:0,4TÜRKPOP TR
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="4TÜRKPOP TR" tvg-logo="" group-title="Türkiyə",4TÜRKPOP TR
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
-#EXTINF:0,NR1 ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NR1 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",NR1 ᵏᵃᵑᵏᵃ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6874/index.m3u8
-#EXTINF:0,NR1 Türk
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Türk" tvg-logo="" group-title="Türkiyə",NR1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/index.m3u8
-#EXTINF:0,NR1 Aşk
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Aşk" tvg-logo="" group-title="Türkiyə",NR1 Aşk
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8
-#EXTINF:0,NR1 rap ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NR1 rap ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",NR1 rap ᵏᵃᵑᵏᵃ
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8
-#EXTINF:0,NR1 Dance
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="NR1 Dance" tvg-logo="" group-title="Türkiyə",NR1 Dance
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/chunklist.m3u8
-#EXTINF:0,Kral Pop
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop" tvg-logo="" group-title="Türkiyə",Kral Pop
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:0,Fora Müzik
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Fora Müzik" tvg-logo="" group-title="Türkiyə",Fora Müzik
 http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
-#EXTINF:0,Dream Türk
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Dream Türk" tvg-logo="" group-title="Türkiyə",Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8
-#EXTINF:0,Power TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Power TV" tvg-logo="" group-title="Türkiyə",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:0,Powertürk TV
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="Powertürk TV" tvg-logo="" group-title="Türkiyə",Powertürk TV
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:0,POWER TURK ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER TURK ᵏᵃᵑᵏᵃ
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/index.m3u8
-#EXTINF:0,POWER taptaze ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER taptaze ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER taptaze ᵏᵃᵑᵏᵃ
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:0,POWER slow ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER slow ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER slow ᵏᵃᵑᵏᵃ
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:0,POWER akustik ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER akustik ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER akustik ᵏᵃᵑᵏᵃ
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:0,POWER love ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER love ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER love ᵏᵃᵑᵏᵃ
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0,POWER dance ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="POWER dance ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",POWER dance ᵏᵃᵑᵏᵃ
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0,MEGA TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",MEGA TV ᵏᵃᵑᵏᵃ
 http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
-#EXTINF:0,FİNEST TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="FİNEST TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",FİNEST TV ᵏᵃᵑᵏᵃ
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:0,ESFA TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Türkiyə
+#EXTINF:-1 tvg-id="" tvg-name="ESFA TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Türkiyə",ESFA TV ᵏᵃᵑᵏᵃ
 https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Life TV
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="" group-title="Rusiya",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
-#EXTINF:0,Love Nature 4K
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Rusiya",Love Nature 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/5001/index.m3u8
-#EXTINF:0,В мире животных HD
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="В мире животных HD" tvg-logo="" group-title="Rusiya",В мире животных HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2089/index.m3u8
-#EXTINF:0,National Geographic Wild HD
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD" tvg-logo="" group-title="Rusiya",National Geographic Wild HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2067/index.m3u8
-#EXTINF:0,Живая Планета
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="Rusiya",Живая Планета
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/2101/index.m3u8
-#EXTINF:0,National Geographic Wild orig
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild orig" tvg-logo="" group-title="Rusiya",National Geographic Wild orig
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/9264/index.m3u8
-#EXTINF:0,Viju Nature HD
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Viju Nature HD" tvg-logo="" group-title="Rusiya",Viju Nature HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/15225/index.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Rusiya",Nat Geo Wild
 http://185.32.44.154/natgeowild/mono.m3u8
-#EXTINF:0,Viju Nature
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Viju Nature" tvg-logo="" group-title="Rusiya",Viju Nature
 http://185.32.44.154/viasatnature/mono.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Rusiya",Animal Planet
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/137/index.m3u8
-#EXTINF:0,живая Планета
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="живая Планета" tvg-logo="" group-title="Rusiya",живая Планета
 http://185.32.44.154/jivayaplaneta/mono.m3u8
-#EXTINF:0,Wild Earth
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Wild Earth" tvg-logo="" group-title="Rusiya",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:0,Бокс TB
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Бокс TB" tvg-logo="" group-title="Rusiya",Бокс TB
 http://185.32.44.154:80/bokstv/mono.m3u8
-#EXTINF:0,Arena Fight
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Arena Fight" tvg-logo="" group-title="Rusiya",Arena Fight
 https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
-#EXTINF:0,TRT BELGESEL
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="Rusiya",TRT BELGESEL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6852/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Россия 1" tvg-logo="" group-title="Rusiya",Россия 1
 http://flussonic.izone.az:80/rossiya1/mono.m3u8
-#EXTINF:0,Россия 24
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Россия 24" tvg-logo="" group-title="Rusiya",Россия 24
 http://185.32.44.154/rosiyya24/mono.m3u8
-#EXTINF:0,Pоссия К
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Pоссия К" tvg-logo="" group-title="Rusiya",Pоссия К
 http://185.32.44.154/rossiakultura/mono.m3u8
-#EXTINF:0,PTP Планета
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="PTP Планета" tvg-logo="" group-title="Rusiya",PTP Планета
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/18042/index.m3u8
-#EXTINF:0,5 канал
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="5 канал" tvg-logo="" group-title="Rusiya",5 канал
 http://185.32.44.154/5kanal/mono.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="РЕН ТВ" tvg-logo="" group-title="Rusiya",РЕН ТВ
 http://185.32.44.154/rentv/mono.m3u8
-#EXTINF:0,звезда
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="звезда" tvg-logo="" group-title="Rusiya",звезда
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/544/index.m3u8
-#EXTINF:0,Мир тв
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Мир тв" tvg-logo="" group-title="Rusiya",Мир тв
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,THT4
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="THT4" tvg-logo="" group-title="Rusiya",THT4
 http://185.32.44.154/tntcomedy/mono.m3u8
-#EXTINF:0,CTC
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="CTC" tvg-logo="" group-title="Rusiya",CTC
 http://185.32.44.154/ctc/mono.m3u8
-#EXTINF:0,Пятница!
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Пятница!" tvg-logo="" group-title="Rusiya",Пятница!
 http://185.32.44.154/pyatnicha/mono.m3u8
-#EXTINF:0,TB-3
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TB-3" tvg-logo="" group-title="Rusiya",TB-3
 http://185.32.44.154/tv3/mono.m3u8
-#EXTINF:0,Че
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Че" tvg-logo="" group-title="Rusiya",Че
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/513/index.m3u8
-#EXTINF:0,2x2
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="2x2" tvg-logo="" group-title="Rusiya",2x2
 http://185.32.44.154/2x2/mono.m3u8
-#EXTINF:0,Viju Premiere
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Viju Premiere" tvg-logo="" group-title="Rusiya",Viju Premiere
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
-#EXTINF:0,Viju Megahit
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Viju Megahit" tvg-logo="" group-title="Rusiya",Viju Megahit
 http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
-#EXTINF:0,TV1000 Русское кино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Русское кино" tvg-logo="" group-title="Rusiya",TV1000 Русское кино
 http://185.32.44.154/tv1000ruskoekino/mono.m3u8
-#EXTINF:0,TV1000
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TV1000" tvg-logo="" group-title="Rusiya",TV1000
 http://185.32.44.154/tv1000/mono.m3u8
-#EXTINF:0,TV1000 Action
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Action" tvg-logo="" group-title="Rusiya",TV1000 Action
 http://185.32.44.154/tv1000action/mono.m3u8
-#EXTINF:0,Viju Comedy
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Viju Comedy" tvg-logo="" group-title="Rusiya",Viju Comedy
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
-#EXTINF:0,Кинохит
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="Rusiya",Кинохит
 http://185.32.44.154/kinoxit/mono.m3u8
-#EXTINF:0,Кинокомедия
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Rusiya",Кинокомедия
 http://185.32.44.154/kinokomedia/mono.m3u8
-#EXTINF:0,Киносвидание
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="Rusiya",Киносвидание
 http://flussonic.izone.az:80/kinosvidanie/mono.m3u8
-#EXTINF:0,Киносемья
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Киносемья" tvg-logo="" group-title="Rusiya",Киносемья
 http://flussonic.izone.az:80/kinosemya/mono.m3u8
-#EXTINF:0,Мужское кино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Мужское кино" tvg-logo="" group-title="Rusiya",Мужское кино
 http://185.32.44.154/mkino/mono.m3u8
-#EXTINF:0,любимое кино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="любимое кино" tvg-logo="" group-title="Rusiya",любимое кино
 http://185.32.44.154/lubimoekino/mono.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Русский Иллюзион" tvg-logo="" group-title="Rusiya",Русский Иллюзион
 http://185.32.44.154/russkiyiluzion/mono.m3u8
-#EXTINF:0,Amedia Premium
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Premium" tvg-logo="" group-title="Rusiya",Amedia Premium
 http://flussonic.izone.az:80/AmediaPremium/mono.m3u8
-#EXTINF:0,Amedia 2
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 2" tvg-logo="" group-title="Rusiya",Amedia 2
 http://flussonic.izone.az:80/amedia2/mono.m3u8
-#EXTINF:0,КИНЕКО
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="КИНЕКО" tvg-logo="" group-title="Rusiya",КИНЕКО
 http://185.32.44.154/foxrussia/mono.m3u8
-#EXTINF:0,Сапфир ТВ
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Сапфир ТВ" tvg-logo="" group-title="Rusiya",Сапфир ТВ
 http://185.32.44.154/foxlife/mono.m3u8
-#EXTINF:0,Еврокино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Rusiya",Еврокино
 http://flussonic.izone.az:80/eurokino/mono.m3u8
-#EXTINF:0,Индийское кино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Индийское кино" tvg-logo="" group-title="Rusiya",Индийское кино
 http://185.32.44.154/indiskoekino/mono.m3u8
-#EXTINF:0,24 Док
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="24 Док" tvg-logo="" group-title="Rusiya",24 Док
 http://185.32.44.154/24dok/mono.m3u8
-#EXTINF:0,Кто есть кто
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Кто есть кто" tvg-logo="" group-title="Rusiya",Кто есть кто
 http://185.32.44.154/ktoestkto/mono.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="Rusiya",Ностальгия
 http://flussonic.izone.az:80/nostalgiya/mono.m3u8
-#EXTINF:0,Домашние животные
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Домашние животные" tvg-logo="" group-title="Rusiya",Домашние животные
 http://185.32.44.154/domashniejivotnie/mono.m3u8
-#EXTINF:0,Парк Развлечений
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Парк Развлечений" tvg-logo="" group-title="Rusiya",Парк Развлечений
 http://flussonic.izone.az:80/parkrasvleceniy/mono.m3u8
-#EXTINF:0,РЕН ТВ [flussonic.izone]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="РЕН ТВ [flussonic.izone]" tvg-logo="" group-title="Rusiya",РЕН ТВ [flussonic.izone]
 http://flussonic.izone.az:80/rentv/mono.m3u8
-#EXTINF:0,5 канал [flussonic.izone]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="5 канал [flussonic.izone]" tvg-logo="" group-title="Rusiya",5 канал [flussonic.izone]
 http://flussonic.izone.az:80/5kanal/mono.m3u8
-#EXTINF:0,Пятница! [flussonic.izone]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Пятница! [flussonic.izone]" tvg-logo="" group-title="Rusiya",Пятница! [flussonic.izone]
 http://flussonic.izone.az:80/pyatnicha/mono.m3u8
-#EXTINF:0,Русский Иллюзион [flussonic.izone]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Русский Иллюзион [flussonic.izone]" tvg-logo="" group-title="Rusiya",Русский Иллюзион [flussonic.izone]
 http://flussonic.izone.az:80/russkiyiluzion/mono.m3u8
-#EXTINF:0,viju TV1000 Русское
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="viju TV1000 Русское" tvg-logo="" group-title="Rusiya",viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:0,viju TV1000 [flussonic.mkpnet]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="viju TV1000 [flussonic.mkpnet]" tvg-logo="" group-title="Rusiya",viju TV1000 [flussonic.mkpnet]
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:0,TV1000 ACTION HD
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 ACTION HD" tvg-logo="" group-title="Rusiya",TV1000 ACTION HD
 http://flussonic.izone.az:80/tv1000action/mono.m3u8
-#EXTINF:0,viju TV1000 Action [flussonic.mkpnet]
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="viju TV1000 Action [flussonic.mkpnet]" tvg-logo="" group-title="Rusiya",viju TV1000 Action [flussonic.mkpnet]
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:0,Телеканал Комедия
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Телеканал Комедия" tvg-logo="" group-title="Rusiya",Телеканал Комедия
 http://flussonic.izone.az:80/telekanalkomedia/mono.m3u8
-#EXTINF:0,Киносерия HD
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="Rusiya",Киносерия HD
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:0,Родное Кино
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="" group-title="Rusiya",Родное Кино
 http://flussonic.izone.az:80/rodnoekino/mono.m3u8
-#EXTINF:0,Amedia Hit
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Hit" tvg-logo="" group-title="Rusiya",Amedia Hit
 http://flussonic.izone.az:80/amediahit/mono.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Кино ТВ" tvg-logo="" group-title="Rusiya",Кино ТВ
 http://flussonic.izone.az:80/kinotv/mono.m3u8
-#EXTINF:0,•black
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="•black" tvg-logo="" group-title="Rusiya",•black
 http://flussonic.izone.az:80/sonyturbo/mono.m3u8
-#EXTINF:0,Киносат
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Киносат" tvg-logo="" group-title="Rusiya",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
-#EXTINF:0,EuroSport 1
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1" tvg-logo="" group-title="Rusiya",EuroSport 1
 http://flussonic.izone.az:80/eurosport/mono.m3u8
-#EXTINF:0,S TV
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="S TV" tvg-logo="" group-title="Rusiya",S TV
 http://flussonic.izone.az:80/stv/mono.m3u8
-#EXTINF:0,Fox Life
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="Rusiya",Fox Life
 http://flussonic.izone.az:80/foxlife/mono.m3u8
-#EXTINF:0,Sony SCI-FI
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Sony SCI-FI" tvg-logo="" group-title="Rusiya",Sony SCI-FI
 http://flussonic.izone.az:80/sonyscifi/mono.m3u8
-#EXTINF:0,Эгоист ТВ
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Эгоист ТВ" tvg-logo="" group-title="Rusiya",Эгоист ТВ
 http://flussonic.izone.az:80/egoisttv/mono.m3u8
-#EXTINF:0,Sony TV
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="" group-title="Rusiya",Sony TV
 http://flussonic.izone.az:80/sonytv/mono.m3u8
-#EXTINF:0,БОБЁР ТВ
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="БОБЁР ТВ" tvg-logo="" group-title="Rusiya",БОБЁР ТВ
 http://flussonic.izone.az:80/bobertv/mono.m3u8
-#EXTINF:0,Amedia 1
-#EXTGRP:Rusiya
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 1" tvg-logo="" group-title="Rusiya",Amedia 1
 http://flussonic.izone.az:80/amedia1/mono.m3u8
-#EXTINF:0,GZT ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="GZT ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",GZT ᵏᵃᵑᵏᵃ
 https://gzttv-live.lg.mncdn.com/gzttv-live/gzttv/chunklist_w733566454.m3u8
-#EXTINF:0,EKOL TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="EKOL TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",EKOL TV ᵏᵃᵑᵏᵃ
 http://176.65.153.12:6005/play/a03d/index.m3u8
-#EXTINF:0,TE TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="TE TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",TE TV ᵏᵃᵑᵏᵃ
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:0,YANSIMA SİNEMA ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="YANSIMA SİNEMA ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",YANSIMA SİNEMA ᵏᵃᵑᵏᵃ
 http://boztv.smartiptvworld.workers.dev/ysmtvmedya.m3u8
-#EXTINF:0,FIX ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="FIX ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",FIX ᵏᵃᵑᵏᵃ
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
-#EXTINF:0,EFSANE 1 ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="EFSANE 1 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",EFSANE 1 ᵏᵃᵑᵏᵃ
 http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96572
-#EXTINF:0,EFSANE 2 ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="EFSANE 2 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",EFSANE 2 ᵏᵃᵑᵏᵃ
 http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96573
-#EXTINF:0,EFSANE 3 ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="EFSANE 3 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",EFSANE 3 ᵏᵃᵑᵏᵃ
 http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96574
-#EXTINF:0,EFSANE 4 ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="EFSANE 4 ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",EFSANE 4 ᵏᵃᵑᵏᵃ
 http://94.130.11.12:8080/@Tv4Krestream/P5PDqBW9ySze/96575
-#EXTINF:0,HABER RIZE ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="HABER RIZE ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",HABER RIZE ᵏᵃᵑᵏᵃ
 https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
-#EXTINF:0,Şehir Ekranı ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Şehir Ekranı ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",Şehir Ekranı ᵏᵃᵑᵏᵃ
 https://yayin3.haber100.com/live/sehirekrani/playlist.m3u8
-#EXTINF:0,MALATYA VUSLAT ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="MALATYA VUSLAT ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",MALATYA VUSLAT ᵏᵃᵑᵏᵃ
 https://telase.com.tr/garaveli/live/telase/telase/228.ts
-#EXTINF:0,GENÇ TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="GENÇ TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",GENÇ TV ᵏᵃᵑᵏᵃ
 https://edge.kuzeykibrissmart.tv/kibrisgenctv/bant1/chunks.m3u8
-#EXTINF:0,HOÇWAN TV ᵏᵃᵑᵏᵃ
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="HOÇWAN TV ᵏᵃᵑᵏᵃ" tvg-logo="" group-title="Film",HOÇWAN TV ᵏᵃᵑᵏᵃ
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
-#EXTINF:0,B Sinema
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="B Sinema" tvg-logo="" group-title="Film",B Sinema
 https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
-#EXTINF:0,beIN Box Office 1 HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 1 HD TR" tvg-logo="" group-title="Film",beIN Box Office 1 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6744/index.m3u8
-#EXTINF:0,beIN Box Office 2 HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 2 HD TR" tvg-logo="" group-title="Film",beIN Box Office 2 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6745/index.m3u8
-#EXTINF:0,beIN Box Office 3 HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 3 HD TR" tvg-logo="" group-title="Film",beIN Box Office 3 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6743/index.m3u8
-#EXTINF:0,beIN Movies Premiere 2 HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 2 HD TR" tvg-logo="" group-title="Film",beIN Movies Premiere 2 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6879/index.m3u8
-#EXTINF:0,beIN Movies Premiere HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere HD TR" tvg-logo="" group-title="Film",beIN Movies Premiere HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6880/index.m3u8
-#EXTINF:0,beIN Series 2 HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD TR" tvg-logo="" group-title="Film",beIN Series 2 HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6814/index.m3u8
-#EXTINF:0,beIN Series Drama HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series Drama HD TR" tvg-logo="" group-title="Film",beIN Series Drama HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6882/index.m3u8
-#EXTINF:0,beIN SPORTS HD1 MAX(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD1 MAX(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD1 MAX(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:0,beIN SPORTS HD1(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD1(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD1(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:0,beIN SPORTS HD2 MAX(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD2 MAX(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD2 MAX(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:0,beIN SPORTS HD2(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD2(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD2(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:0,beIN SPORTS HD3(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD3(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD3(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:0,beIN SPORTS HD4(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD4(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD4(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:0,beIN SPORTS HD5(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD5(biraz)" tvg-logo="" group-title="Film",beIN SPORTS HD5(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:0,Cem TV
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Cem TV" tvg-logo="" group-title="Film",Cem TV
 https://panel.5gtvhosting.com/hls/cemtv/cemtv.m3u8
-#EXTINF:0,Cine 5 HD
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Cine 5 HD" tvg-logo="" group-title="Film",Cine 5 HD
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Deniz TV
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Deniz TV" tvg-logo="" group-title="Film",Deniz TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
-#EXTINF:0,Kanal Plus
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Plus" tvg-logo="" group-title="Film",Kanal Plus
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:0,Max Premier
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Max Premier" tvg-logo="" group-title="Film",Max Premier
 http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:0,S SPORT 2(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2(biraz)" tvg-logo="" group-title="Film",S SPORT 2(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:0,S SPORT(biraz)
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT(biraz)" tvg-logo="" group-title="Film",S SPORT(biraz)
 https://biraz.6781237.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:0,Sinema Aksiyon 2
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 2" tvg-logo="" group-title="Film",Sinema Aksiyon 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6812/index.m3u8
-#EXTINF:0,Sinema TV HD TR
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Sinema TV HD TR" tvg-logo="" group-title="Film",Sinema TV HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZEEDV4QP6HVZU3YXP49H3ECB/6806/index.m3u8
-#EXTINF:0,Tivi 6
-#EXTGRP:Film
+#EXTINF:-1 tvg-id="" tvg-name="Tivi 6" tvg-logo="" group-title="Film",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:0,KANAL 360 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 360 TR" tvg-logo="" group-title="Türkiyə 4K",KANAL 360 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912467&extension=ts&play_token=ET8p7cYI0L
-#EXTINF:0,ATV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="ATV TR" tvg-logo="" group-title="Türkiyə 4K",ATV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912479&extension=ts&play_token=ARjwSB6XiH
-#EXTINF:0,ATV AVRUPA TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="ATV AVRUPA TR" tvg-logo="" group-title="Türkiyə 4K",ATV AVRUPA TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912464&extension=ts&play_token=Zn1U2yDAS3
-#EXTINF:0,A2 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="A2 TR" tvg-logo="" group-title="Türkiyə 4K",A2 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912468&extension=ts&play_token=cNMI0frtml
-#EXTINF:0,BEYAZ TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV TR" tvg-logo="" group-title="Türkiyə 4K",BEYAZ TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912469&extension=ts&play_token=u7JmZTTsvy
-#EXTINF:0,NOW TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NOW TV TR" tvg-logo="" group-title="Türkiyə 4K",NOW TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912474&extension=ts&play_token=Vs9bhcLJV8
-#EXTINF:0,KANAL D TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D TR" tvg-logo="" group-title="Türkiyə 4K",KANAL D TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912478&extension=ts&play_token=EE6mRxRMh1
-#EXTINF:0,EURO D TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="EURO D TR" tvg-logo="" group-title="Türkiyə 4K",EURO D TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912462&extension=ts&play_token=B694jVRLZd
-#EXTINF:0,KANAL 7 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 TR" tvg-logo="" group-title="Türkiyə 4K",KANAL 7 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912470&extension=ts&play_token=ikuimXntZZ
-#EXTINF:0,KANAL 7 AVRUPA TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA TR" tvg-logo="" group-title="Türkiyə 4K",KANAL 7 AVRUPA TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912465&extension=ts&play_token=B3xuxTA2yi
-#EXTINF:0,SHOW TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV TR" tvg-logo="" group-title="Türkiyə 4K",SHOW TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912475&extension=ts&play_token=rg42CCPf2C
-#EXTINF:0,SHOW MAX TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="SHOW MAX TR" tvg-logo="" group-title="Türkiyə 4K",SHOW MAX TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912460&extension=ts&play_token=7SESJthgw1
-#EXTINF:0,STAR TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV TR" tvg-logo="" group-title="Türkiyə 4K",STAR TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912477&extension=ts&play_token=5yB2wRYse5
-#EXTINF:0,EURO STAR TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR TR" tvg-logo="" group-title="Türkiyə 4K",EURO STAR TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912463&extension=ts&play_token=lAUBS8kLQK
-#EXTINF:0,TRT 1 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 TR" tvg-logo="" group-title="Türkiyə 4K",TRT 1 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912481&extension=ts&play_token=OeDftHaaPw
-#EXTINF:0,TRT 2 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT 2 TR" tvg-logo="" group-title="Türkiyə 4K",TRT 2 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912480&extension=ts&play_token=zkoPKZUjcp
-#EXTINF:0,TRT TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT TR" tvg-logo="" group-title="Türkiyə 4K",TRT TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=916657&extension=ts&play_token=dlaCd2NmC7
-#EXTINF:0,TRT BELGESEL TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL TR" tvg-logo="" group-title="Türkiyə 4K",TRT BELGESEL TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913191&extension=ts&play_token=WjIX8xbXRj
-#EXTINF:0,TRT COCUK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK TR" tvg-logo="" group-title="Türkiyə 4K",TRT COCUK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913124&extension=ts&play_token=Lbns26GX0d
-#EXTINF:0,TRT MUZIK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK TR" tvg-logo="" group-title="Türkiyə 4K",TRT MUZIK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913032&extension=ts&play_token=tBamznmfVT
-#EXTINF:0,TV 8 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 TR" tvg-logo="" group-title="Türkiyə 4K",TV 8 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912476&extension=ts&play_token=blSBBCVj1z
-#EXTINF:0,TV 8.5 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 TR" tvg-logo="" group-title="Türkiyə 4K",TV 8.5 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912472&extension=ts&play_token=2jshKYpSet
-#EXTINF:0,TV 8 INT TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT TR" tvg-logo="" group-title="Türkiyə 4K",TV 8 INT TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912473&extension=ts&play_token=dUgqwz31hc
-#EXTINF:0,TEVE 2 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 TR" tvg-logo="" group-title="Türkiyə 4K",TEVE 2 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912471&extension=ts&play_token=uIr8NZuJiM
-#EXTINF:0,DMAX TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DMAX TR" tvg-logo="" group-title="Türkiyə 4K",DMAX TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913167&extension=ts&play_token=e7DdMVnJUk
-#EXTINF:0,KANAL 58 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58 TR" tvg-logo="" group-title="Türkiyə 4K",KANAL 58 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913022&extension=ts&play_token=QoBXBIdjEi
-#EXTINF:0,KANAL AVRUPA TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA TR" tvg-logo="" group-title="Türkiyə 4K",KANAL AVRUPA TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912459&extension=ts&play_token=LnR8PhhWjL
-#EXTINF:0,MINIKA COCUK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="MINIKA COCUK TR" tvg-logo="" group-title="Türkiyə 4K",MINIKA COCUK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913113&extension=ts&play_token=0hUIKUMdWH
-#EXTINF:0,MINICA GO TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="MINICA GO TR" tvg-logo="" group-title="Türkiyə 4K",MINICA GO TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913114&extension=ts&play_token=5RAPq0WNvp
-#EXTINF:0,SEMERKAND TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="SEMERKAND TV TR" tvg-logo="" group-title="Türkiyə 4K",SEMERKAND TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913110&extension=ts&play_token=Dtngn7dmnt
-#EXTINF:0,KRT TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="KRT TV TR" tvg-logo="" group-title="Türkiyə 4K",KRT TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912911&extension=ts&play_token=TaLa2N644X
-#EXTINF:0,FLASH TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TR" tvg-logo="" group-title="Türkiyə 4K",FLASH TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913463&extension=ts&play_token=qFRD5UD6AU
-#EXTINF:0,NR1 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TR" tvg-logo="" group-title="Türkiyə 4K",NR1 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913030&extension=ts&play_token=Ie13akQZO3
-#EXTINF:0,DREAM TURK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK TR" tvg-logo="" group-title="Türkiyə 4K",DREAM TURK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913023&extension=ts&play_token=JxNNzUIDeB
-#EXTINF:0,POWER TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="POWER TR" tvg-logo="" group-title="Türkiyə 4K",POWER TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913028&extension=ts&play_token=TU6f5GsEGh
-#EXTINF:0,POWER TURK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK TR" tvg-logo="" group-title="Türkiyə 4K",POWER TURK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913026&extension=ts&play_token=No1gqFpkl3
-#EXTINF:0,ANIMAL PLANET TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET TR" tvg-logo="" group-title="Türkiyə 4K",ANIMAL PLANET TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913187&extension=ts&play_token=9aKhLpixyz
-#EXTINF:0,BABY TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV TR" tvg-logo="" group-title="Türkiyə 4K",BABY TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913116&extension=ts&play_token=Gpxlg9lXVk
-#EXTINF:0,BEIN GURME TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN GURME TR" tvg-logo="" group-title="Türkiyə 4K",BEIN GURME TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913165&extension=ts&play_token=RztPaOxWp5
-#EXTINF:0,BEIN SPORTS 1 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TR" tvg-logo="" group-title="Türkiyə 4K",BEIN SPORTS 1 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913458&extension=ts&play_token=u9raIwgeqf
-#EXTINF:0,BLOOMBERGHT TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERGHT TR" tvg-logo="" group-title="Türkiyə 4K",BLOOMBERGHT TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912905&extension=ts&play_token=LaTlWraa4G
-#EXTINF:0,CARTOON NETWORK TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK TR" tvg-logo="" group-title="Türkiyə 4K",CARTOON NETWORK TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913115&extension=ts&play_token=JewVLYlUg3
-#EXTINF:0,CARTOONITO TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO TR" tvg-logo="" group-title="Türkiyə 4K",CARTOONITO TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913123&extension=ts&play_token=JmgmAEVqKK
-#EXTINF:0,DISCOVERY IDX TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY IDX TR" tvg-logo="" group-title="Türkiyə 4K",DISCOVERY IDX TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913173&extension=ts&play_token=xAvEhUpOw1
-#EXTINF:0,DISCOVERY SCIENCE TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE TR" tvg-logo="" group-title="Türkiyə 4K",DISCOVERY SCIENCE TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913175&extension=ts&play_token=bAvXKgeNov
-#EXTINF:0,DISNEY CHANNEL TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL TR" tvg-logo="" group-title="Türkiyə 4K",DISNEY CHANNEL TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913120&extension=ts&play_token=X44spTZ1ph
-#EXTINF:0,DISNEY JR TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR TR" tvg-logo="" group-title="Türkiyə 4K",DISNEY JR TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913119&extension=ts&play_token=VIpReWcbn7
-#EXTINF:0,DiSCOWERY CHANNEL TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="DiSCOWERY CHANNEL TR" tvg-logo="" group-title="Türkiyə 4K",DiSCOWERY CHANNEL TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913183&extension=ts&play_token=hscSqQXbO8
-#EXTINF:0,LOVE NATURE TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE TR" tvg-logo="" group-title="Türkiyə 4K",LOVE NATURE TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913160&extension=ts&play_token=GCD1dMwkf8
-#EXTINF:0,NAT GEO WiLD TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WiLD TR" tvg-logo="" group-title="Türkiyə 4K",NAT GEO WiLD TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913189&extension=ts&play_token=onh0SBIpJj
-#EXTINF:0,NATiONAL GEOGRAPHiC TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NATiONAL GEOGRAPHiC TR" tvg-logo="" group-title="Türkiyə 4K",NATiONAL GEOGRAPHiC TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913186&extension=ts&play_token=qYO3S53C20
-#EXTINF:0,NICK JR TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR TR" tvg-logo="" group-title="Türkiyə 4K",NICK JR TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913121&extension=ts&play_token=oZlrPUOQnU
-#EXTINF:0,NICKELODEON TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON TR" tvg-logo="" group-title="Türkiyə 4K",NICKELODEON TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913122&extension=ts&play_token=RYjlpJlecK
-#EXTINF:0,NILOYA TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="NILOYA TR" tvg-logo="" group-title="Türkiyə 4K",NILOYA TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913112&extension=ts&play_token=9V2ZTd2EaC
-#EXTINF:0,ON4 TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="ON4 TV TR" tvg-logo="" group-title="Türkiyə 4K",ON4 TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912895&extension=ts&play_token=0e5UAdv9EX
-#EXTINF:0,S-SPORT 1 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="S-SPORT 1 TR" tvg-logo="" group-title="Türkiyə 4K",S-SPORT 1 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913369&extension=ts&play_token=LRGx6hIRdP
-#EXTINF:0,SPOR SMART TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART TR" tvg-logo="" group-title="Türkiyə 4K",SPOR SMART TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913370&extension=ts&play_token=Z3jC3wZjKS
-#EXTINF:0,TGRT BELGESEL TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL TR" tvg-logo="" group-title="Türkiyə 4K",TGRT BELGESEL TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913179&extension=ts&play_token=IaQtstiBcM
-#EXTINF:0,TIVIBUSPOR TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR TR" tvg-logo="" group-title="Türkiyə 4K",TIVIBUSPOR TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1447189&extension=ts&play_token=vHYA0RcJaH
-#EXTINF:0,TIVIBUSPOR 1 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 TR" tvg-logo="" group-title="Türkiyə 4K",TIVIBUSPOR 1 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913373&extension=ts&play_token=eKkiuSEeq6
-#EXTINF:0,TIVIBUSPOR 2 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2 TR" tvg-logo="" group-title="Türkiyə 4K",TIVIBUSPOR 2 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913372&extension=ts&play_token=qF95PSds41
-#EXTINF:0,TIVIBUSPOR 3 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 TR" tvg-logo="" group-title="Türkiyə 4K",TIVIBUSPOR 3 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913371&extension=ts&play_token=CRERVm4FpK
-#EXTINF:0,TIVIBUSPOR 4 TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 4 TR" tvg-logo="" group-title="Türkiyə 4K",TIVIBUSPOR 4 TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=1447190&extension=ts&play_token=jGz07WPjcK
-#EXTINF:0,TLC TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TLC TR" tvg-logo="" group-title="Türkiyə 4K",TLC TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913181&extension=ts&play_token=ui7qaafmpK
-#EXTINF:0,TVNET TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="TVNET TR" tvg-logo="" group-title="Türkiyə 4K",TVNET TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=912893&extension=ts&play_token=QeJWF9zrBT
-#EXTINF:0,YABAN TV TR
-#EXTGRP:Türkiyə 4K
+#EXTINF:-1 tvg-id="" tvg-name="YABAN TV TR" tvg-logo="" group-title="Türkiyə 4K",YABAN TV TR
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913177&extension=ts&play_token=1s3e2JyjcA

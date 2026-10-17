@@ -206,6 +206,9 @@ http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&amp;stream=912472&
 #EXTINF:0,TV 8 INT TR
 #EXTGRP:Türkiyə 4K
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&amp;stream=912473&amp;extension=ts&amp;play_token=dUgqwz31hc
+#EXTINF:0,DMAX TR
+#EXTGRP:Türkiyə 4K
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&amp;stream=913167&amp;extension=ts&amp;play_token=e7DdMVnJUk
 #EXTINF:0,TRT BELGESEL TR
 #EXTGRP:Türkiyə 4K
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:F1:21&stream=913191&extension=ts&play_token=WjIX8xbXRj
